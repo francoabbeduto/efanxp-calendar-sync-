@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ River Plate vs Boca Juniors
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260419T200000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260419T220000
-DTSTAMP:20260420T202144Z
+DTSTAMP:20260420T203427Z
 UID:thesportsdb_river-plate_2397930@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Mâs Monumental\n🏆 Competencia: Argenti
  nian Primera Division\n👥 Cliente: River Plate\n🌐 País: Argentina\n
  📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_river-plate_2397930
- \n🔄 Última actualización: 2026-04-20 20:21 UTC
-LAST-MODIFIED:20260420T202141Z
+ \n🔄 Última actualización: 2026-04-20 20:34 UTC
+LAST-MODIFIED:20260420T203407Z
 LOCATION:Estadio Mâs Monumental
 STATUS:CONFIRMED
 X-EFANXP-CLUB:river-plate

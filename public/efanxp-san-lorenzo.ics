@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Lorenzo vs Deportivo Cuenca
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260417T003000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260417T023000
-DTSTAMP:20260420T202144Z
+DTSTAMP:20260420T203427Z
 UID:thesportsdb_san-lorenzo_2452928@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Pedro Bidegaín\n🏆 Competencia: Copa Su
  damericana\n👥 Cliente: San Lorenzo\n🌐 País: Argentina\n📡 Fuente:
   thesportsdb\n🆔 ID interno: thesportsdb_san-lorenzo_2452928\n🔄 Últi
- ma actualización: 2026-04-20 20:21 UTC
-LAST-MODIFIED:20260420T202143Z
+ ma actualización: 2026-04-20 20:34 UTC
+LAST-MODIFIED:20260420T203427Z
 LOCATION:Estadio Pedro Bidegaín
 STATUS:CONFIRMED
 X-EFANXP-CLUB:san-lorenzo
