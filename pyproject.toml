@@ -1,0 +1,60 @@
+[build-system]
+requires = ["setuptools>=45", "wheel", "setuptools_scm[toml]>=6.2"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "efanxp-calendar-sync"
+version = "1.0.0"
+description = "Syncs sports fixtures and venue events to Google Calendar for eFanXP clients"
+requires-python = ">=3.9"
+dependencies = [
+    "httpx>=0.27",
+    "pydantic>=2.6",
+    "pydantic-settings>=2.2",
+    "sqlalchemy>=2.0",
+    "click>=8.1",
+    "icalendar>=5.0",
+    "apscheduler>=3.10",
+    "tenacity>=8.2",
+    "structlog>=24.1",
+    "python-dotenv>=1.0",
+    "pyyaml>=6.0",
+    "beautifulsoup4>=4.12",
+    "lxml>=5.1",
+    "python-dateutil>=2.9",
+    "pytz>=2024.1",
+    "rich>=13.7",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "pytest-asyncio>=0.23",
+    "pytest-httpx>=0.30",
+    "respx>=0.20",
+    "freezegun>=1.4",
+    "ruff>=0.3",
+    "mypy>=1.9",
+]
+
+[project.scripts]
+efanxp = "efanxp.cli:cli"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py39"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP"]
+
+[tool.mypy]
+python_version = "3.9"
+strict = false
+ignore_missing_imports = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+asyncio_mode = "auto"

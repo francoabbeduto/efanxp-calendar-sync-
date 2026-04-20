@@ -1,0 +1,143 @@
+# Club and venue configuration for eFanXP calendar sync.
+# Each club has one or more source adapters in priority order.
+# The system tries sources in order and uses the first successful result.
+
+clubs:
+
+  - id: boca-juniors
+    name: Boca Juniors
+    country: AR
+    sport: football
+    home_venue: La Bombonera
+    calendar_color: "11"  # Tomato
+    sources:
+      - adapter: thesportsdb
+        team_id: "135156"
+        verified: true
+      - adapter: venue_scraper
+        url: https://www.bocajuniors.com.ar/fixtures
+        enabled: false  # activate after validating selectors
+
+  - id: river-plate
+    name: River Plate
+    country: AR
+    sport: football
+    home_venue: Estadio Monumental
+    calendar_color: "11"  # Tomato
+    sources:
+      - adapter: thesportsdb
+        team_id: "135171"
+        verified: true
+
+  - id: estudiantes
+    name: Estudiantes de La Plata
+    country: AR
+    sport: football
+    home_venue: Estadio Jorge Luis Hirschi
+    calendar_color: "5"  # Banana
+    sources:
+      - adapter: thesportsdb
+        team_id: "135160"
+        verified: true
+
+  - id: velez
+    name: Vélez Sársfield
+    country: AR
+    sport: football
+    home_venue: Estadio José Amalfitani
+    calendar_color: "2"  # Sage
+    sources:
+      - adapter: thesportsdb
+        team_id: "135179"
+        verified: true
+
+  - id: huracan
+    name: Huracán
+    country: AR
+    sport: football
+    home_venue: Estadio Tomás Adolfo Ducó
+    calendar_color: "6"  # Tangerine
+    sources:
+      - adapter: thesportsdb
+        team_id: "135163"
+        verified: true
+
+  - id: san-lorenzo
+    name: San Lorenzo
+    country: AR
+    sport: football
+    home_venue: Estadio Pedro Bidegain
+    calendar_color: "9"  # Blueberry
+    sources:
+      - adapter: thesportsdb
+        team_id: "135173"
+        verified: true
+
+  - id: universidad-de-chile
+    name: Universidad de Chile
+    country: CL
+    sport: football
+    home_venue: Estadio Nacional Julio Martínez Pradanos
+    calendar_color: "9"  # Blueberry
+    sources:
+      - adapter: thesportsdb
+        team_id: "135424"  # ⚠ verify — run: efanxp sources find "Universidad de Chile"
+        verified: false
+
+  - id: colo-colo
+    name: Colo Colo
+    country: CL
+    sport: football
+    home_venue: Estadio Monumental David Arellano
+    calendar_color: "1"  # Lavender
+    sources:
+      - adapter: thesportsdb
+        team_id: "137724"
+        verified: true
+
+  - id: alianza-lima
+    name: Alianza Lima
+    country: PE
+    sport: football
+    home_venue: Estadio Alejandro Villanueva
+    calendar_color: "11"  # Tomato
+    sources:
+      - adapter: thesportsdb
+        team_id: "138311"
+        verified: true
+
+  - id: bahia
+    name: Esporte Clube Bahia
+    country: BR
+    sport: football
+    home_venue: Arena Fonte Nova
+    calendar_color: "5"  # Banana
+    sources:
+      - adapter: thesportsdb
+        team_id: "133771"  # ⚠ verify — run: efanxp sources find "Bahia"
+        verified: false
+      - adapter: venue_scraper
+        url: https://www.casadeapostasfontenova.com.br/agenda/
+        enabled: true
+        selectors:
+          event_list: ".eventos-lista, .agenda-item, article.event"
+          title: "h2, h3, .event-title"
+          date: ".event-date, time"
+          description: ".event-description, p"
+
+  - id: selknam
+    name: Selknam Rugby
+    country: CL
+    sport: rugby
+    home_venue: Centro de Alto Rendimiento de Rugby (CARR)
+    calendar_color: "10"  # Basil
+    sources:
+      - adapter: api_sports_rugby
+        team_id: "28"  # Selknam ID in API-Sports Super Rugby Americas
+        league_id: "58"  # Super Rugby Americas
+        verified: false  # verify at https://v1.rugby.api-sports.io/teams
+      - adapter: thesportsdb
+        league_id: "5169"  # Super Liga Americana
+        team_name: "Selknam"
+        team_id: null  # find with: efanxp sources find --sport rugby "Selknam"
+        verified: false

@@ -1,0 +1,68 @@
+name: Sync Calendar
+
+on:
+  schedule:
+    # Every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+    inputs:
+      club:
+        description: "Club ID to sync (leave empty for all)"
+        required: false
+        default: ""
+      dry_run:
+        description: "Dry run (no ICS write)"
+        type: boolean
+        default: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # needed to push ICS files back
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -e .
+
+      - name: Copy env
+        run: cp .env.example .env
+
+      - name: Run sync
+        env:
+          THESPORTSDB_API_KEY: ${{ secrets.THESPORTSDB_API_KEY || '3' }}
+          API_SPORTS_KEY: ${{ secrets.API_SPORTS_KEY }}
+        run: |
+          if [ -n "${{ github.event.inputs.club }}" ]; then
+            FLAGS="--club ${{ github.event.inputs.club }}"
+          else
+            FLAGS="--all"
+          fi
+
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            FLAGS="$FLAGS --dry-run"
+          fi
+
+          efanxp sync $FLAGS
+
+      - name: Show ICS files
+        run: ls -lh public/*.ics 2>/dev/null || echo "No ICS files generated"
+
+      - name: Commit and push ICS files
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        run: |
+          git config user.name "efanxp-bot"
+          git config user.email "bot@efanxp.com"
+          git add public/
+          git diff --staged --quiet && echo "No changes to commit" || \
+            git commit -m "sync: update ICS $(date -u +'%Y-%m-%dT%H:%M:%SZ')" && \
+            git push
