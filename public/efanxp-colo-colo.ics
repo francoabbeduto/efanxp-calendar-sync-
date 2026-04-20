@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eFanXP//Calendar Sync//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Fixtures y eventos — colo-colo
+X-WR-CALNAME:eFanXP — Colo Colo
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Colo-Colo vs Palestino
+DTSTART;TZID=America/Santiago:20260419T223000
+DTEND;TZID=America/Santiago:20260420T003000
+DTSTAMP:20260420T202144Z
+UID:thesportsdb_colo-colo_2412983@efanxp.com
+DESCRIPTION:🏟 Venue: Estadio Monumental David Arellano\n🏆 Competenci
+ a: Chile Primera Division\n👥 Cliente: Colo Colo\n🌐 País: Chile\n
+ 📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_colo-colo_2412983\n
+ 🔄 Última actualización: 2026-04-20 20:21 UTC
+LAST-MODIFIED:20260420T202143Z
+LOCATION:Estadio Monumental David Arellano
+STATUS:CONFIRMED
+X-EFANXP-CLUB:colo-colo
+X-EFANXP-SOURCE:thesportsdb
+X-EFANXP-SOURCE-ID:thesportsdb_colo-colo_2412983
+X-EFANXP-TYPE:match_home
+END:VEVENT
+END:VCALENDAR

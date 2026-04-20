@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eFanXP//Calendar Sync//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Fixtures y eventos — estudiantes
+X-WR-CALNAME:eFanXP — Estudiantes
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Estudiantes de La Plata vs Caravel
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260416T003000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260416T023000
+DTSTAMP:20260420T202144Z
+UID:thesportsdb_estudiantes_2464908@efanxp.com
+DESCRIPTION:🏟 Venue: Estadio Jorge Luis Hirschi\n🏆 Competencia: Arub
+ an Division di Honor\n👥 Cliente: Estudiantes\n🌐 País: Argentina\n
+ 📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_estudiantes_2464908
+ \n🔄 Última actualización: 2026-04-20 20:21 UTC
+LAST-MODIFIED:20260420T202141Z
+LOCATION:Estadio Jorge Luis Hirschi
+STATUS:CONFIRMED
+X-EFANXP-CLUB:estudiantes
+X-EFANXP-SOURCE:thesportsdb
+X-EFANXP-SOURCE-ID:thesportsdb_estudiantes_2464908
+X-EFANXP-TYPE:match_home
+END:VEVENT
+END:VCALENDAR

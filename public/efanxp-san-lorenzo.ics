@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eFanXP//Calendar Sync//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Fixtures y eventos — san-lorenzo
+X-WR-CALNAME:eFanXP — San Lorenzo
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ San Lorenzo vs Deportivo Cuenca
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260417T003000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260417T023000
+DTSTAMP:20260420T202144Z
+UID:thesportsdb_san-lorenzo_2452928@efanxp.com
+DESCRIPTION:🏟 Venue: Estadio Pedro Bidegaín\n🏆 Competencia: Copa Su
+ damericana\n👥 Cliente: San Lorenzo\n🌐 País: Argentina\n📡 Fuente:
+  thesportsdb\n🆔 ID interno: thesportsdb_san-lorenzo_2452928\n🔄 Últi
+ ma actualización: 2026-04-20 20:21 UTC
+LAST-MODIFIED:20260420T202143Z
+LOCATION:Estadio Pedro Bidegaín
+STATUS:CONFIRMED
+X-EFANXP-CLUB:san-lorenzo
+X-EFANXP-SOURCE:thesportsdb
+X-EFANXP-SOURCE-ID:thesportsdb_san-lorenzo_2452928
+X-EFANXP-TYPE:match_home
+END:VEVENT
+END:VCALENDAR
