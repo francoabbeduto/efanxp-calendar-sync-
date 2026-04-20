@@ -45,21 +45,27 @@ class TheSportsDBSource(BaseSource):
         cutoff_past = today - timedelta(days=lookback_days)
         cutoff_future = today + timedelta(days=lookahead_days)
 
-        raw_events = self._fetch_next_events() + self._fetch_past_events()
+        # Fetch full season (free, up to 250 events) + next/last as fallback
+        current_year = today.year
+        raw_events = (
+            self._fetch_season(str(current_year))
+            + self._fetch_season(str(current_year + 1))
+            + self._fetch_next_events()
+            + self._fetch_past_events()
+        )
 
         events: list[RawEvent] = []
         for ev in raw_events:
             parsed = self._parse_event(ev)
             if parsed is None:
                 continue
-            # Date filter (skip if outside window)
             if parsed.start_date:
                 ev_date = date.fromisoformat(parsed.start_date)
                 if ev_date < cutoff_past or ev_date > cutoff_future:
                     continue
             events.append(parsed)
 
-        # Deduplicate by source_id (next + past can overlap)
+        # Deduplicate by source_id
         seen: dict[str, RawEvent] = {}
         for ev in events:
             seen[ev.source_id] = ev
@@ -74,6 +80,15 @@ class TheSportsDBSource(BaseSource):
             return (r.json().get("teams") or [])
 
     # ── Private helpers ───────────────────────────────────────────────────────
+
+    @http_retry
+    def _fetch_season(self, season: str) -> list[dict]:
+        """Fetch all events for a team in a given season (free, up to 250 events)."""
+        url = f"{BASE_URL}/{self.api_key}/eventsseason.php"
+        with httpx.Client(timeout=20) as client:
+            r = client.get(url, params={"id": self.team_id, "s": season})
+            r.raise_for_status()
+            return r.json().get("events") or []
 
     @http_retry
     def _fetch_next_events(self) -> list[dict]:
