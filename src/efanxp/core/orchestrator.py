@@ -81,14 +81,15 @@ class Orchestrator:
                 club_id=",".join(club_ids) if club_ids else None,
                 dry_run=self.dry_run,
             )
+            session.flush()  # get sync_log.id without holding a write lock
 
             try:
                 for club in clubs:
-                    self._sync_club(club, stats)
+                    self._sync_club(club, stats, session)
 
                 # After all clubs: regenerate ICS files from DB
                 if not self.dry_run:
-                    ics_files = self._write_ics(club_ids)
+                    ics_files = self._write_ics(club_ids, session)
                     stats.ics_files = list(ics_files.keys())
 
                 finish_sync_log(
@@ -112,7 +113,7 @@ class Orchestrator:
 
     # ── Per-club logic ────────────────────────────────────────────────────────
 
-    def _sync_club(self, club: dict, stats: SyncStats) -> None:
+    def _sync_club(self, club: dict, stats: SyncStats, session) -> None:
         club_id = club["id"]
         country = club.get("country", "")
         log.info("syncing_club", club=club_id)
@@ -137,43 +138,39 @@ class Orchestrator:
         # 4. Dedup
         home_events = dedup_events(home_events)
 
-        # 5. Persist to DB
-        with session_scope() as session:
-            for raw in home_events:
-                try:
-                    _record, is_new = upsert_event(session, raw)
-                    if is_new:
-                        stats.inserted += 1
+        # 5. Persist to DB using the shared session
+        for raw in home_events:
+            try:
+                _record, is_new = upsert_event(session, raw)
+                if is_new:
+                    stats.inserted += 1
+                else:
+                    fp_now = raw.fingerprint()
+                    if _record.last_fingerprint != fp_now:
+                        _record.last_fingerprint = fp_now
+                        stats.updated += 1
                     else:
-                        # Check if anything actually changed
-                        fp_now = raw.fingerprint()
-                        if _record.last_fingerprint != fp_now:
-                            _record.last_fingerprint = fp_now
-                            stats.updated += 1
-                        else:
-                            stats.unchanged += 1
-                except Exception as exc:
-                    stats.errors += 1
-                    log.error("db_upsert_error",
-                              club=club_id, source_id=raw.source_id, error=str(exc))
+                        stats.unchanged += 1
+            except Exception as exc:
+                stats.errors += 1
+                log.error("db_upsert_error",
+                          club=club_id, source_id=raw.source_id, error=str(exc))
 
         stats.clubs_processed.append(club_id)
 
     # ── ICS generation ────────────────────────────────────────────────────────
 
-    def _write_ics(self, club_ids: list[str] | None) -> dict[str, Path]:
-        from efanxp.config import get_settings
+    def _write_ics(self, club_ids: list[str] | None, session) -> dict[str, Path]:
         root = Path(__file__).resolve().parents[3]
         output_dir = root / "public"
 
-        with session_scope() as session:
-            stmt = select(EventRecord)
-            if club_ids:
-                from sqlalchemy import or_
-                stmt = stmt.where(
-                    or_(*[EventRecord.club_id == cid for cid in club_ids])
-                )
-            records = list(session.scalars(stmt))
+        stmt = select(EventRecord)
+        if club_ids:
+            from sqlalchemy import or_
+            stmt = stmt.where(
+                or_(*[EventRecord.club_id == cid for cid in club_ids])
+            )
+        records = list(session.scalars(stmt))
 
         writer = ICSWriter(output_dir)
         return writer.write_all(records)
