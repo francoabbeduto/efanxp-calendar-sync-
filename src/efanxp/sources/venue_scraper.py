@@ -135,6 +135,15 @@ class VenueScraperSource(BaseSource):
             event_type = self._infer_event_type(title, competition)
             external_id = f"scraped_{index}_{self._slugify(title)}"
 
+            home_team, away_team = None, None
+            if event_type == EventType.MATCH_HOME:
+                for sep in (" x ", " vs ", " VS ", " Vs "):
+                    if sep in title:
+                        parts = title.split(sep, 1)
+                        home_team = parts[0].strip()
+                        away_team = parts[1].strip()
+                        break
+
             return RawEvent(
                 source_id=self.build_source_id(external_id),
                 club_id=self.club_id,
@@ -144,6 +153,8 @@ class VenueScraperSource(BaseSource):
                 start_date=start_date,
                 start_time=start_time,
                 competition=competition,
+                home_team=home_team,
+                away_team=away_team,
                 notes="Hora no confirmada" if not start_time else None,
                 raw_data={"fields": fields, "html_index": index},
             )
