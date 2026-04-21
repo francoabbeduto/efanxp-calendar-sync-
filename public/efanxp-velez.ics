@@ -9,16 +9,50 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
+SUMMARY:⚽ Vélez Sarsfield vs Unión (Santa Fe)
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260427T214500
+DTEND;TZID=America/Argentina/Buenos_Aires:20260427T234500
+DTSTAMP:20260421T051233Z
+UID:espn_velez_763003@efanxp.com
+DESCRIPTION:🏟 Venue: José Amalfitani\n🏆 Competencia: torneo-apertur
+ a\n👥 Cliente: Velez\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID intern
+ o: espn_velez_763003\n🔄 Última actualización: 2026-04-21 05:12 UTC
+LAST-MODIFIED:20260421T051207Z
+LOCATION:José Amalfitani
+STATUS:CONFIRMED
+X-EFANXP-CLUB:velez
+X-EFANXP-SOURCE:espn
+X-EFANXP-SOURCE-ID:espn_velez_763003
+X-EFANXP-TYPE:match_home
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Vélez Sarsfield vs Newell's Old Boys
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260503T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260503T200000
+DTSTAMP:20260421T051233Z
+UID:espn_velez_762903@efanxp.com
+DESCRIPTION:🏟 Venue: José Amalfitani\n🏆 Competencia: torneo-apertur
+ a\n👥 Cliente: Velez\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID intern
+ o: espn_velez_762903\n🔄 Última actualización: 2026-04-21 05:12 UTC
+LAST-MODIFIED:20260421T051207Z
+LOCATION:José Amalfitani
+STATUS:CONFIRMED
+X-EFANXP-CLUB:velez
+X-EFANXP-SOURCE:espn
+X-EFANXP-SOURCE-ID:espn_velez_762903
+X-EFANXP-TYPE:match_home
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:⚽ Vélez Sarsfield vs Central Córdoba de Santiago del Estero
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260414T003000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260414T023000
-DTSTAMP:20260421T050506Z
+DTSTAMP:20260421T051233Z
 UID:thesportsdb_velez_2397920@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio José Amalfitani\n🏆 Competencia: Argent
  inian Primera Division\n👥 Cliente: Velez\n🌐 País: Argentina\n📡 F
  uente: thesportsdb\n🆔 ID interno: thesportsdb_velez_2397920\n🔄 Últi
- ma actualización: 2026-04-21 05:05 UTC
-LAST-MODIFIED:20260421T050444Z
+ ma actualización: 2026-04-21 05:12 UTC
+LAST-MODIFIED:20260421T051208Z
 LOCATION:Estadio José Amalfitani
 STATUS:CONFIRMED
 X-EFANXP-CLUB:velez

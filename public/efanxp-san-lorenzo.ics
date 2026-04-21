@@ -12,18 +12,36 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Lorenzo vs Vélez Sarsfield
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260420T223000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260421T003000
-DTSTAMP:20260421T050506Z
-UID:thesportsdb_san-lorenzo_2397932@efanxp.com
-DESCRIPTION:🏟 Venue: Estadio Pedro Bidegaín\n🏆 Competencia: Argenti
- nian Primera Division\n👥 Cliente: San Lorenzo\n🌐 País: Argentina\n
- 📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_san-lorenzo_2397932
- \n🔄 Última actualización: 2026-04-21 05:05 UTC
-LAST-MODIFIED:20260421T050506Z
-LOCATION:Estadio Pedro Bidegaín
+DTSTAMP:20260421T051233Z
+UID:espn_san-lorenzo_762997@efanxp.com
+DESCRIPTION:🏟 Venue: Estadio Pedro Bidegain\n🏆 Competencia: torneo-a
+ pertura\n👥 Cliente: San Lorenzo\n🌐 País: N/D\n📡 Fuente: espn\n
+ 🆔 ID interno: espn_san-lorenzo_762997\n🔄 Última actualización: 202
+ 6-04-21 05:12 UTC
+LAST-MODIFIED:20260421T051209Z
+LOCATION:Estadio Pedro Bidegain
 STATUS:CONFIRMED
 X-EFANXP-CLUB:san-lorenzo
-X-EFANXP-SOURCE:thesportsdb
-X-EFANXP-SOURCE-ID:thesportsdb_san-lorenzo_2397932
+X-EFANXP-SOURCE:espn
+X-EFANXP-SOURCE-ID:espn_san-lorenzo_762997
+X-EFANXP-TYPE:match_home
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ San Lorenzo vs Independiente
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260503T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260503T200000
+DTSTAMP:20260421T051233Z
+UID:espn_san-lorenzo_762901@efanxp.com
+DESCRIPTION:🏟 Venue: Estadio Pedro Bidegain\n🏆 Competencia: torneo-a
+ pertura\n👥 Cliente: San Lorenzo\n🌐 País: N/D\n📡 Fuente: espn\n
+ 🆔 ID interno: espn_san-lorenzo_762901\n🔄 Última actualización: 202
+ 6-04-21 05:12 UTC
+LAST-MODIFIED:20260421T051210Z
+LOCATION:Estadio Pedro Bidegain
+STATUS:CONFIRMED
+X-EFANXP-CLUB:san-lorenzo
+X-EFANXP-SOURCE:espn
+X-EFANXP-SOURCE-ID:espn_san-lorenzo_762901
 X-EFANXP-TYPE:match_home
 END:VEVENT
 END:VCALENDAR

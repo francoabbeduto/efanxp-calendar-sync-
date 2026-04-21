@@ -12,14 +12,14 @@ BEGIN:VEVENT
 SUMMARY:⚽ Boca Juniors vs Barcelona SC
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260415
-DTSTAMP:20260421T050506Z
+DTSTAMP:20260421T051233Z
 UID:thesportsdb_boca-juniors_2453081@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Alberto José Armando\n🏆 Competencia: C
  opa Libertadores\n👥 Cliente: Boca Juniors\n🌐 País: Argentina\n📡 
  Fuente: thesportsdb\n🆔 ID interno: thesportsdb_boca-juniors_2453081\n
- 🔄 Última actualización: 2026-04-21 05:05 UTC\n⚠️  Notas: Hora no 
+ 🔄 Última actualización: 2026-04-21 05:12 UTC\n⚠️  Notas: Hora no 
  confirmada
-LAST-MODIFIED:20260421T050441Z
+LAST-MODIFIED:20260421T051205Z
 LOCATION:Estadio Alberto José Armando
 STATUS:CONFIRMED
 X-EFANXP-CLUB:boca-juniors

@@ -9,21 +9,74 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Alianza Lima vs Cusco
+SUMMARY:⚽ Alianza Lima vs Cusco FC
 DTSTART;TZID=America/Lima:20260419T010000
 DTEND;TZID=America/Lima:20260419T030000
-DTSTAMP:20260421T045745Z
-UID:thesportsdb_alianza-lima_2422476@efanxp.com
-DESCRIPTION:🏟 Venue: Estadio Alejandro Villanueva\n🏆 Competencia: Pe
- ruvian Primera Division\n👥 Cliente: Alianza Lima\n🌐 País: Peru\n
- 📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_alianza-lima_242247
- 6\n🔄 Última actualización: 2026-04-21 04:57 UTC
-LAST-MODIFIED:20260421T045745Z
+DTSTAMP:20260421T051233Z
+UID:espn_alianza-lima_401857462@efanxp.com
+DESCRIPTION:🏟 Venue: Estadio Alejandro Villanueva\n🏆 Competencia: ap
+ ertura\n👥 Cliente: Alianza Lima\n🌐 País: N/D\n📡 Fuente: espn\n
+ 🆔 ID interno: espn_alianza-lima_401857462\n🔄 Última actualización:
+  2026-04-21 05:12 UTC
+LAST-MODIFIED:20260421T051220Z
 LOCATION:Estadio Alejandro Villanueva
 STATUS:CONFIRMED
 X-EFANXP-CLUB:alianza-lima
-X-EFANXP-SOURCE:thesportsdb
-X-EFANXP-SOURCE-ID:thesportsdb_alianza-lima_2422476
+X-EFANXP-SOURCE:espn
+X-EFANXP-SOURCE-ID:espn_alianza-lima_401857462
+X-EFANXP-TYPE:match_home
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Alianza Lima vs Deportivo Moquegua
+DTSTART;TZID=America/Lima:20260503T010000
+DTEND;TZID=America/Lima:20260503T030000
+DTSTAMP:20260421T051233Z
+UID:espn_alianza-lima_401857479@efanxp.com
+DESCRIPTION:🏟 Venue: Estadio Alejandro Villanueva\n🏆 Competencia: ap
+ ertura\n👥 Cliente: Alianza Lima\n🌐 País: N/D\n📡 Fuente: espn\n
+ 🆔 ID interno: espn_alianza-lima_401857479\n🔄 Última actualización:
+  2026-04-21 05:12 UTC
+LAST-MODIFIED:20260421T051220Z
+LOCATION:Estadio Alejandro Villanueva
+STATUS:CONFIRMED
+X-EFANXP-CLUB:alianza-lima
+X-EFANXP-SOURCE:espn
+X-EFANXP-SOURCE-ID:espn_alianza-lima_401857479
+X-EFANXP-TYPE:match_home
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Alianza Lima vs Sporting Cristal
+DTSTART;TZID=America/Lima:20260510T010000
+DTEND;TZID=America/Lima:20260510T030000
+DTSTAMP:20260421T051233Z
+UID:espn_alianza-lima_401857487@efanxp.com
+DESCRIPTION:🏟 Venue: Estadio Alejandro Villanueva\n🏆 Competencia: ap
+ ertura\n👥 Cliente: Alianza Lima\n🌐 País: N/D\n📡 Fuente: espn\n
+ 🆔 ID interno: espn_alianza-lima_401857487\n🔄 Última actualización:
+  2026-04-21 05:12 UTC
+LAST-MODIFIED:20260421T051220Z
+LOCATION:Estadio Alejandro Villanueva
+STATUS:CONFIRMED
+X-EFANXP-CLUB:alianza-lima
+X-EFANXP-SOURCE:espn
+X-EFANXP-SOURCE-ID:espn_alianza-lima_401857487
+X-EFANXP-TYPE:match_home
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Alianza Lima vs Los Chankas
+DTSTART;TZID=America/Lima:20260523T180000
+DTEND;TZID=America/Lima:20260523T200000
+DTSTAMP:20260421T051233Z
+UID:espn_alianza-lima_401857506@efanxp.com
+DESCRIPTION:🏟 Venue: TBC\n🏆 Competencia: apertura\n👥 Cliente: Ali
+ anza Lima\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID interno: espn_alian
+ za-lima_401857506\n🔄 Última actualización: 2026-04-21 05:12 UTC
+LAST-MODIFIED:20260421T051225Z
+LOCATION:TBC
+STATUS:CONFIRMED
+X-EFANXP-CLUB:alianza-lima
+X-EFANXP-SOURCE:espn
+X-EFANXP-SOURCE-ID:espn_alianza-lima_401857506
 X-EFANXP-TYPE:match_home
 END:VEVENT
 END:VCALENDAR
