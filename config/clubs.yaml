@@ -142,6 +142,21 @@ clubs:
         team_id: "138311"
         verified: true
 
+  - id: belgrano
+    name: Club Atlético Belgrano
+    country: AR
+    sport: football
+    home_venue: Estadio Julio César Villagra
+    calendar_color: "9"  # Blueberry
+    sources:
+      - adapter: espn
+        league: arg.1
+        team_id: "4"
+        verified: true
+      - adapter: thesportsdb
+        team_id: "135155"
+        verified: true
+
   - id: bahia
     name: Esporte Clube Bahia
     country: BR

@@ -187,6 +187,7 @@ class TheSportsDBSource(BaseSource):
             "universidad-de-chile": ["Universidad de Chile", "U de Chile", "La U"],
             "colo-colo": ["Colo Colo", "Colo-Colo"],
             "alianza-lima": ["Alianza Lima", "Alianza"],
+            "belgrano": ["Belgrano", "Belgrano Cordoba", "Club Atlético Belgrano"],
             "bahia": ["Bahia", "E.C. Bahia", "EC Bahia"],
             "selknam": ["Selknam"],
         }

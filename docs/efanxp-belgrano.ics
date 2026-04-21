@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//eFanXP//Calendar Sync//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Fixtures y eventos de todos los clientes eFanXP
-X-WR-CALNAME:eFanXP — Todos los clubes
+X-WR-CALDESC:Fixtures y eventos — belgrano
+X-WR-CALNAME:eFanXP — Belgrano
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
