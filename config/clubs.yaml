@@ -1,6 +1,6 @@
 # Club and venue configuration for eFanXP calendar sync.
-# Sources are tried in order; first successful result is used.
-# Sofascore (unofficial, no key) is primary — full future fixture coverage.
+# Sources are tried in order; all enabled sources are combined.
+# ESPN (public API, no key) is primary — works from GitHub Actions.
 
 clubs:
 
@@ -11,8 +11,9 @@ clubs:
     home_venue: La Bombonera
     calendar_color: "11"  # Tomato
     sources:
-      - adapter: sofascore
-        team_id: "3202"
+      - adapter: espn
+        league: arg.1
+        team_id: "5"
         verified: true
       - adapter: thesportsdb
         team_id: "135156"
@@ -28,8 +29,9 @@ clubs:
     home_venue: Estadio Monumental
     calendar_color: "11"  # Tomato
     sources:
-      - adapter: sofascore
-        team_id: "3211"
+      - adapter: espn
+        league: arg.1
+        team_id: "16"
         verified: true
       - adapter: thesportsdb
         team_id: "135171"
@@ -42,8 +44,9 @@ clubs:
     home_venue: Estadio Jorge Luis Hirschi
     calendar_color: "5"  # Banana
     sources:
-      - adapter: sofascore
-        team_id: "3206"
+      - adapter: espn
+        league: arg.1
+        team_id: "8"
         verified: true
       - adapter: thesportsdb
         team_id: "135160"
@@ -56,8 +59,9 @@ clubs:
     home_venue: Estadio José Amalfitani
     calendar_color: "2"  # Sage
     sources:
-      - adapter: sofascore
-        team_id: "3208"
+      - adapter: espn
+        league: arg.1
+        team_id: "21"
         verified: true
       - adapter: thesportsdb
         team_id: "135179"
@@ -70,8 +74,9 @@ clubs:
     home_venue: Estadio Tomás Adolfo Ducó
     calendar_color: "6"  # Tangerine
     sources:
-      - adapter: sofascore
-        team_id: "7629"
+      - adapter: espn
+        league: arg.1
+        team_id: "10"
         verified: true
       - adapter: thesportsdb
         team_id: "135163"
@@ -84,8 +89,9 @@ clubs:
     home_venue: Estadio Pedro Bidegain
     calendar_color: "9"  # Blueberry
     sources:
-      - adapter: sofascore
-        team_id: "3201"
+      - adapter: espn
+        league: arg.1
+        team_id: "18"
         verified: true
       - adapter: thesportsdb
         team_id: "135173"
@@ -98,8 +104,9 @@ clubs:
     home_venue: Estadio Nacional Julio Martínez Pradanos
     calendar_color: "9"  # Blueberry
     sources:
-      - adapter: sofascore
-        team_id: "3161"
+      - adapter: espn
+        league: chi.1
+        team_id: "4139"
         verified: true
       - adapter: thesportsdb
         team_id: "135424"
@@ -112,8 +119,9 @@ clubs:
     home_venue: Estadio Monumental David Arellano
     calendar_color: "1"  # Lavender
     sources:
-      - adapter: sofascore
-        team_id: "3155"
+      - adapter: espn
+        league: chi.1
+        team_id: "2688"
         verified: true
       - adapter: thesportsdb
         team_id: "137724"
@@ -126,8 +134,9 @@ clubs:
     home_venue: Estadio Alejandro Villanueva
     calendar_color: "11"  # Tomato
     sources:
-      - adapter: sofascore
-        team_id: "2311"
+      - adapter: espn
+        league: per.1
+        team_id: "2680"
         verified: true
       - adapter: thesportsdb
         team_id: "138311"
@@ -140,8 +149,9 @@ clubs:
     home_venue: Arena Fonte Nova
     calendar_color: "5"  # Banana
     sources:
-      - adapter: sofascore
-        team_id: "1955"
+      - adapter: espn
+        league: bra.1
+        team_id: "9967"
         verified: true
       - adapter: thesportsdb
         team_id: "133771"
