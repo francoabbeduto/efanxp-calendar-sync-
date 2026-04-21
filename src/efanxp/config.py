@@ -25,7 +25,7 @@ class Settings(BaseSettings):
     # TheSportsDB
     thesportsdb_api_key: str = "3"  # "3" is the public free key
 
-    # API-Sports (Rugby)
+    # API-Sports (Football + Rugby — same key covers both)
     api_sports_key: str = ""
 
     # Sync behaviour

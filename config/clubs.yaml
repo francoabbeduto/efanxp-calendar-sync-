@@ -1,6 +1,10 @@
 # Club and venue configuration for eFanXP calendar sync.
 # Each club has one or more source adapters in priority order.
 # The system tries sources in order and uses the first successful result.
+#
+# API-Sports Football team IDs can be verified at:
+#   https://v3.football.api-sports.io/teams?search=<club+name>
+# (requires your API key in the x-apisports-key header)
 
 clubs:
 
@@ -11,12 +15,15 @@ clubs:
     home_venue: La Bombonera
     calendar_color: "11"  # Tomato
     sources:
+      - adapter: api_sports_football
+        team_id: "451"
+        verified: true
       - adapter: thesportsdb
         team_id: "135156"
         verified: true
       - adapter: venue_scraper
         url: https://www.bocajuniors.com.ar/fixtures
-        enabled: false  # activate after validating selectors
+        enabled: false
 
   - id: river-plate
     name: River Plate
@@ -25,6 +32,9 @@ clubs:
     home_venue: Estadio Monumental
     calendar_color: "11"  # Tomato
     sources:
+      - adapter: api_sports_football
+        team_id: "435"
+        verified: true
       - adapter: thesportsdb
         team_id: "135171"
         verified: true
@@ -36,6 +46,9 @@ clubs:
     home_venue: Estadio Jorge Luis Hirschi
     calendar_color: "5"  # Banana
     sources:
+      - adapter: api_sports_football
+        team_id: "450"
+        verified: true
       - adapter: thesportsdb
         team_id: "135160"
         verified: true
@@ -47,6 +60,9 @@ clubs:
     home_venue: Estadio José Amalfitani
     calendar_color: "2"  # Sage
     sources:
+      - adapter: api_sports_football
+        team_id: "438"
+        verified: true
       - adapter: thesportsdb
         team_id: "135179"
         verified: true
@@ -58,6 +74,9 @@ clubs:
     home_venue: Estadio Tomás Adolfo Ducó
     calendar_color: "6"  # Tangerine
     sources:
+      - adapter: api_sports_football
+        team_id: "445"
+        verified: true
       - adapter: thesportsdb
         team_id: "135163"
         verified: true
@@ -69,6 +88,9 @@ clubs:
     home_venue: Estadio Pedro Bidegain
     calendar_color: "9"  # Blueberry
     sources:
+      - adapter: api_sports_football
+        team_id: "460"
+        verified: true
       - adapter: thesportsdb
         team_id: "135173"
         verified: true
@@ -80,8 +102,11 @@ clubs:
     home_venue: Estadio Nacional Julio Martínez Pradanos
     calendar_color: "9"  # Blueberry
     sources:
+      - adapter: api_sports_football
+        team_id: "2323"
+        verified: true
       - adapter: thesportsdb
-        team_id: "135424"  # ⚠ verify — run: efanxp sources find "Universidad de Chile"
+        team_id: "135424"
         verified: false
 
   - id: colo-colo
@@ -91,6 +116,9 @@ clubs:
     home_venue: Estadio Monumental David Arellano
     calendar_color: "1"  # Lavender
     sources:
+      - adapter: api_sports_football
+        team_id: "2315"
+        verified: true
       - adapter: thesportsdb
         team_id: "137724"
         verified: true
@@ -102,6 +130,9 @@ clubs:
     home_venue: Estadio Alejandro Villanueva
     calendar_color: "11"  # Tomato
     sources:
+      - adapter: api_sports_football
+        team_id: "2553"
+        verified: true
       - adapter: thesportsdb
         team_id: "138311"
         verified: true
@@ -113,8 +144,11 @@ clubs:
     home_venue: Arena Fonte Nova
     calendar_color: "5"  # Banana
     sources:
+      - adapter: api_sports_football
+        team_id: "118"
+        verified: true
       - adapter: thesportsdb
-        team_id: "133771"  # ⚠ verify — run: efanxp sources find "Bahia"
+        team_id: "133771"
         verified: false
       - adapter: venue_scraper
         url: https://www.casadeapostasfontenova.com.br/agenda/
@@ -139,5 +173,5 @@ clubs:
       - adapter: thesportsdb
         league_id: "5169"  # Super Liga Americana
         team_name: "Selknam"
-        team_id: null  # find with: efanxp sources find --sport rugby "Selknam"
+        team_id: null
         verified: false

@@ -23,6 +23,7 @@ from efanxp.database import (
 )
 from efanxp.ics_writer import ICSWriter
 from efanxp.models import EventType, RawEvent, EventRecord
+from efanxp.sources.api_sports_football import ApiSportsFootballSource
 from efanxp.sources.api_sports_rugby import ApiSportsRugbySource
 from efanxp.sources.base import BaseSource
 from efanxp.sources.thesportsdb import TheSportsDBSource
@@ -34,6 +35,7 @@ log = get_logger(__name__)
 
 ADAPTER_MAP: dict[str, type[BaseSource]] = {
     "thesportsdb": TheSportsDBSource,
+    "api_sports_football": ApiSportsFootballSource,
     "api_sports_rugby": ApiSportsRugbySource,
     "venue_scraper": VenueScraperSource,
 }
