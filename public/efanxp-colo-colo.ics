@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Colo-Colo vs Palestino
 DTSTART;TZID=America/Santiago:20260419T223000
 DTEND;TZID=America/Santiago:20260420T003000
-DTSTAMP:20260420T202144Z
+DTSTAMP:20260421T045745Z
 UID:thesportsdb_colo-colo_2412983@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Monumental David Arellano\n🏆 Competenci
  a: Chile Primera Division\n👥 Cliente: Colo Colo\n🌐 País: Chile\n
  📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_colo-colo_2412983\n
- 🔄 Última actualización: 2026-04-20 20:21 UTC
-LAST-MODIFIED:20260420T202143Z
+ 🔄 Última actualización: 2026-04-21 04:57 UTC
+LAST-MODIFIED:20260421T045726Z
 LOCATION:Estadio Monumental David Arellano
 STATUS:CONFIRMED
 X-EFANXP-CLUB:colo-colo

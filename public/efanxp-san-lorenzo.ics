@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Lorenzo vs Vélez Sarsfield
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260420T223000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260421T003000
-DTSTAMP:20260421T044719Z
+DTSTAMP:20260421T045745Z
 UID:thesportsdb_san-lorenzo_2397932@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Pedro Bidegaín\n🏆 Competencia: Argenti
  nian Primera Division\n👥 Cliente: San Lorenzo\n🌐 País: Argentina\n
  📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_san-lorenzo_2397932
- \n🔄 Última actualización: 2026-04-21 04:47 UTC
-LAST-MODIFIED:20260421T044719Z
+ \n🔄 Última actualización: 2026-04-21 04:57 UTC
+LAST-MODIFIED:20260421T045721Z
 LOCATION:Estadio Pedro Bidegaín
 STATUS:CONFIRMED
 X-EFANXP-CLUB:san-lorenzo

@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alianza Lima vs Cusco
 DTSTART;TZID=America/Lima:20260419T010000
 DTEND;TZID=America/Lima:20260419T030000
-DTSTAMP:20260420T202144Z
+DTSTAMP:20260421T045745Z
 UID:thesportsdb_alianza-lima_2422476@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Alejandro Villanueva\n🏆 Competencia: Pe
  ruvian Primera Division\n👥 Cliente: Alianza Lima\n🌐 País: Peru\n
  📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_alianza-lima_242247
- 6\n🔄 Última actualización: 2026-04-20 20:21 UTC
-LAST-MODIFIED:20260420T202144Z
+ 6\n🔄 Última actualización: 2026-04-21 04:57 UTC
+LAST-MODIFIED:20260421T045745Z
 LOCATION:Estadio Alejandro Villanueva
 STATUS:CONFIRMED
 X-EFANXP-CLUB:alianza-lima
