@@ -10,15 +10,15 @@ X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:⚽ River Plate vs Boca Juniors
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260419T200000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260419T220000
-DTSTAMP:20260421T051233Z
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260419T170000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260419T190000
+DTSTAMP:20260421T052055Z
 UID:espn_river-plate_762995@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Más Monumental\n🏆 Competencia: torneo-
  apertura\n👥 Cliente: River Plate\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_river-plate_762995\n🔄 Última actualización: 202
- 6-04-21 05:12 UTC
-LAST-MODIFIED:20260421T051205Z
+ 6-04-21 05:20 UTC
+LAST-MODIFIED:20260421T052027Z
 LOCATION:Estadio Más Monumental
 STATUS:CONFIRMED
 X-EFANXP-CLUB:river-plate
@@ -28,15 +28,15 @@ X-EFANXP-TYPE:match_home
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ River Plate vs Aldosivi
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260426T003000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260426T023000
-DTSTAMP:20260421T051233Z
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260425T213000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260425T233000
+DTSTAMP:20260421T052055Z
 UID:espn_river-plate_763001@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Más Monumental\n🏆 Competencia: torneo-
  apertura\n👥 Cliente: River Plate\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_river-plate_763001\n🔄 Última actualización: 202
- 6-04-21 05:12 UTC
-LAST-MODIFIED:20260421T051205Z
+ 6-04-21 05:20 UTC
+LAST-MODIFIED:20260421T052027Z
 LOCATION:Estadio Más Monumental
 STATUS:CONFIRMED
 X-EFANXP-CLUB:river-plate
@@ -46,15 +46,15 @@ X-EFANXP-TYPE:match_home
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ River Plate vs Atlético Tucumán
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260503T180000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260503T200000
-DTSTAMP:20260421T051233Z
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260503T150000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260503T170000
+DTSTAMP:20260421T052055Z
 UID:espn_river-plate_762899@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Más Monumental\n🏆 Competencia: torneo-
  apertura\n👥 Cliente: River Plate\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_river-plate_762899\n🔄 Última actualización: 202
- 6-04-21 05:12 UTC
-LAST-MODIFIED:20260421T051207Z
+ 6-04-21 05:20 UTC
+LAST-MODIFIED:20260421T052028Z
 LOCATION:Estadio Más Monumental
 STATUS:CONFIRMED
 X-EFANXP-CLUB:river-plate
