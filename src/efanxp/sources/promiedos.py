@@ -44,10 +44,12 @@ class PromiedosClient:
 
     def get_matches(self, target_date: date) -> list[PromiedosMatch]:
         """Return all matches Promiedos lists for a given date."""
-        date_str = target_date.isoformat()
-        if date_str in self._cache:
-            return self._cache[date_str]
+        cache_key = target_date.isoformat()
+        if cache_key in self._cache:
+            return self._cache[cache_key]
 
+        # Promiedos API expects DD-MM-YYYY, not ISO format
+        date_str = target_date.strftime("%d-%m-%Y")
         url = f"{BASE_URL}/games/{date_str}"
         try:
             with httpx.Client(timeout=TIMEOUT, headers=HEADERS) as client:
@@ -55,18 +57,18 @@ class PromiedosClient:
                 resp.raise_for_status()
                 data = resp.json()
         except httpx.HTTPStatusError as exc:
-            log.warning("promiedos_http_error", date=date_str,
+            log.warning("promiedos_http_error", date=cache_key,
                         status=exc.response.status_code)
-            self._cache[date_str] = []
+            self._cache[cache_key] = []
             return []
         except Exception as exc:
-            log.warning("promiedos_fetch_error", date=date_str, error=str(exc))
-            self._cache[date_str] = []
+            log.warning("promiedos_fetch_error", date=cache_key, error=str(exc))
+            self._cache[cache_key] = []
             return []
 
         matches = self._parse(data)
-        self._cache[date_str] = matches
-        log.debug("promiedos_fetched", date=date_str, count=len(matches))
+        self._cache[cache_key] = matches
+        log.debug("promiedos_fetched", date=cache_key, count=len(matches))
         return matches
 
     def _parse(self, data: dict) -> list[PromiedosMatch]:
