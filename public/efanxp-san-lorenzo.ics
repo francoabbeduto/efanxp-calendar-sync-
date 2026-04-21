@@ -9,21 +9,21 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ San Lorenzo vs Deportivo Cuenca
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260417T003000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260417T023000
-DTSTAMP:20260420T203427Z
-UID:thesportsdb_san-lorenzo_2452928@efanxp.com
-DESCRIPTION:🏟 Venue: Estadio Pedro Bidegaín\n🏆 Competencia: Copa Su
- damericana\n👥 Cliente: San Lorenzo\n🌐 País: Argentina\n📡 Fuente:
-  thesportsdb\n🆔 ID interno: thesportsdb_san-lorenzo_2452928\n🔄 Últi
- ma actualización: 2026-04-20 20:34 UTC
-LAST-MODIFIED:20260420T203427Z
+SUMMARY:⚽ San Lorenzo vs Vélez Sarsfield
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260420T223000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260421T003000
+DTSTAMP:20260421T044719Z
+UID:thesportsdb_san-lorenzo_2397932@efanxp.com
+DESCRIPTION:🏟 Venue: Estadio Pedro Bidegaín\n🏆 Competencia: Argenti
+ nian Primera Division\n👥 Cliente: San Lorenzo\n🌐 País: Argentina\n
+ 📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_san-lorenzo_2397932
+ \n🔄 Última actualización: 2026-04-21 04:47 UTC
+LAST-MODIFIED:20260421T044719Z
 LOCATION:Estadio Pedro Bidegaín
 STATUS:CONFIRMED
 X-EFANXP-CLUB:san-lorenzo
 X-EFANXP-SOURCE:thesportsdb
-X-EFANXP-SOURCE-ID:thesportsdb_san-lorenzo_2452928
+X-EFANXP-SOURCE-ID:thesportsdb_san-lorenzo_2397932
 X-EFANXP-TYPE:match_home
 END:VEVENT
 END:VCALENDAR

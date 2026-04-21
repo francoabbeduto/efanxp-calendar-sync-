@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Estudiantes de La Plata vs Caravel
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260416T003000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260416T023000
-DTSTAMP:20260420T203427Z
+DTSTAMP:20260421T044719Z
 UID:thesportsdb_estudiantes_2464908@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Jorge Luis Hirschi\n🏆 Competencia: Arub
  an Division di Honor\n👥 Cliente: Estudiantes\n🌐 País: Argentina\n
  📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_estudiantes_2464908
- \n🔄 Última actualización: 2026-04-20 20:34 UTC
-LAST-MODIFIED:20260420T203408Z
+ \n🔄 Última actualización: 2026-04-21 04:47 UTC
+LAST-MODIFIED:20260421T044631Z
 LOCATION:Estadio Jorge Luis Hirschi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:estudiantes
