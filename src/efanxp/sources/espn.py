@@ -14,11 +14,19 @@ from efanxp.utils.retry import http_retry
 
 log = get_logger(__name__)
 
+import pytz
+
 BASE_URL = "https://site.api.espn.com/apis/site/v2/sports/soccer"
 HEADERS = {"Accept": "application/json", "Accept-Encoding": "gzip, deflate"}
 
-# Fetch in 30-day chunks to stay within ESPN's limit parameter
 CHUNK_DAYS = 30
+
+LEAGUE_TZ: dict[str, str] = {
+    "arg.1": "America/Argentina/Buenos_Aires",
+    "chi.1": "America/Santiago",
+    "per.1": "America/Lima",
+    "bra.1": "America/Sao_Paulo",
+}
 
 
 class ESPNSource(BaseSource):
@@ -100,13 +108,15 @@ class ESPNSource(BaseSource):
             is_home = str(home_comp.get("id", "")) == self.team_id
             event_type = EventType.MATCH_HOME if is_home else EventType.MATCH_AWAY
 
-            raw_date = event.get("date", "")  # "2026-04-23T23:00Z"
+            raw_date = event.get("date", "")  # "2026-04-23T23:00Z" (UTC)
             start_date: str | None = None
             start_time: str | None = None
+            tz_name = LEAGUE_TZ.get(self.league, "UTC")
             if raw_date:
-                dt = datetime.fromisoformat(raw_date.replace("Z", "+00:00"))
-                start_date = dt.date().isoformat()
-                time_str = dt.strftime("%H:%M")
+                dt_utc = datetime.fromisoformat(raw_date.replace("Z", "+00:00"))
+                dt_local = dt_utc.astimezone(pytz.timezone(tz_name))
+                start_date = dt_local.date().isoformat()
+                time_str = dt_local.strftime("%H:%M")
                 if time_str != "00:00":
                     start_time = time_str
 
@@ -141,7 +151,7 @@ class ESPNSource(BaseSource):
                 event_type=event_type,
                 start_date=start_date,
                 start_time=start_time,
-                timezone="UTC",
+                timezone=tz_name,
                 home_team=home_team,
                 away_team=away_team,
                 competition=competition_name,
