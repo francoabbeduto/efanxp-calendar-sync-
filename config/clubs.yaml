@@ -1,10 +1,6 @@
 # Club and venue configuration for eFanXP calendar sync.
-# Each club has one or more source adapters in priority order.
-# The system tries sources in order and uses the first successful result.
-#
-# API-Sports Football team IDs can be verified at:
-#   https://v3.football.api-sports.io/teams?search=<club+name>
-# (requires your API key in the x-apisports-key header)
+# Sources are tried in order; first successful result is used.
+# Sofascore (unofficial, no key) is primary — full future fixture coverage.
 
 clubs:
 
@@ -15,8 +11,8 @@ clubs:
     home_venue: La Bombonera
     calendar_color: "11"  # Tomato
     sources:
-      - adapter: api_sports_football
-        team_id: "451"
+      - adapter: sofascore
+        team_id: "3202"
         verified: true
       - adapter: thesportsdb
         team_id: "135156"
@@ -32,8 +28,8 @@ clubs:
     home_venue: Estadio Monumental
     calendar_color: "11"  # Tomato
     sources:
-      - adapter: api_sports_football
-        team_id: "435"
+      - adapter: sofascore
+        team_id: "3211"
         verified: true
       - adapter: thesportsdb
         team_id: "135171"
@@ -46,8 +42,8 @@ clubs:
     home_venue: Estadio Jorge Luis Hirschi
     calendar_color: "5"  # Banana
     sources:
-      - adapter: api_sports_football
-        team_id: "450"
+      - adapter: sofascore
+        team_id: "3206"
         verified: true
       - adapter: thesportsdb
         team_id: "135160"
@@ -60,8 +56,8 @@ clubs:
     home_venue: Estadio José Amalfitani
     calendar_color: "2"  # Sage
     sources:
-      - adapter: api_sports_football
-        team_id: "438"
+      - adapter: sofascore
+        team_id: "3208"
         verified: true
       - adapter: thesportsdb
         team_id: "135179"
@@ -74,8 +70,8 @@ clubs:
     home_venue: Estadio Tomás Adolfo Ducó
     calendar_color: "6"  # Tangerine
     sources:
-      - adapter: api_sports_football
-        team_id: "445"
+      - adapter: sofascore
+        team_id: "7629"
         verified: true
       - adapter: thesportsdb
         team_id: "135163"
@@ -88,8 +84,8 @@ clubs:
     home_venue: Estadio Pedro Bidegain
     calendar_color: "9"  # Blueberry
     sources:
-      - adapter: api_sports_football
-        team_id: "460"
+      - adapter: sofascore
+        team_id: "3201"
         verified: true
       - adapter: thesportsdb
         team_id: "135173"
@@ -102,8 +98,8 @@ clubs:
     home_venue: Estadio Nacional Julio Martínez Pradanos
     calendar_color: "9"  # Blueberry
     sources:
-      - adapter: api_sports_football
-        team_id: "2323"
+      - adapter: sofascore
+        team_id: "3161"
         verified: true
       - adapter: thesportsdb
         team_id: "135424"
@@ -116,8 +112,8 @@ clubs:
     home_venue: Estadio Monumental David Arellano
     calendar_color: "1"  # Lavender
     sources:
-      - adapter: api_sports_football
-        team_id: "2315"
+      - adapter: sofascore
+        team_id: "3155"
         verified: true
       - adapter: thesportsdb
         team_id: "137724"
@@ -130,8 +126,8 @@ clubs:
     home_venue: Estadio Alejandro Villanueva
     calendar_color: "11"  # Tomato
     sources:
-      - adapter: api_sports_football
-        team_id: "2553"
+      - adapter: sofascore
+        team_id: "2311"
         verified: true
       - adapter: thesportsdb
         team_id: "138311"
@@ -144,8 +140,8 @@ clubs:
     home_venue: Arena Fonte Nova
     calendar_color: "5"  # Banana
     sources:
-      - adapter: api_sports_football
-        team_id: "118"
+      - adapter: sofascore
+        team_id: "1955"
         verified: true
       - adapter: thesportsdb
         team_id: "133771"
@@ -167,11 +163,11 @@ clubs:
     calendar_color: "10"  # Basil
     sources:
       - adapter: api_sports_rugby
-        team_id: "28"  # Selknam ID in API-Sports Super Rugby Americas
-        league_id: "58"  # Super Rugby Americas
-        verified: false  # verify at https://v1.rugby.api-sports.io/teams
+        team_id: "28"
+        league_id: "58"
+        verified: false
       - adapter: thesportsdb
-        league_id: "5169"  # Super Liga Americana
+        league_id: "5169"
         team_name: "Selknam"
         team_id: null
         verified: false
