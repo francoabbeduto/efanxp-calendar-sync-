@@ -15,7 +15,16 @@ from efanxp.utils.retry import http_retry
 log = get_logger(__name__)
 
 BASE_URL = "https://api.sofascore.com/api/v1"
-HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "Accept": "application/json, text/plain, */*",
+    "Accept-Language": "en-US,en;q=0.9,es;q=0.8",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Referer": "https://www.sofascore.com/",
+    "Origin": "https://www.sofascore.com",
+    "Cache-Control": "no-cache",
+    "Pragma": "no-cache",
+}
 
 STATUS_MAP = {
     "notstarted": EventStatus.SCHEDULED,
@@ -73,12 +82,18 @@ class SofascoreSource(BaseSource):
     @http_retry
     def _fetch_page(self, direction: str, page: int) -> list[dict]:
         url = f"{BASE_URL}/team/{self.team_id}/events/{direction}/{page}"
-        with httpx.Client(timeout=15) as client:
+        with httpx.Client(timeout=15, follow_redirects=True) as client:
             r = client.get(url, headers=HEADERS)
             if r.status_code == 404:
                 return []
+            if r.status_code == 403:
+                log.warning("sofascore_blocked", team=self.team_id, direction=direction, page=page)
+                return []
             r.raise_for_status()
-            return r.json().get("events") or []
+            data = r.json()
+            events = data.get("events") or []
+            log.info("sofascore_fetched", team=self.team_id, direction=direction, page=page, count=len(events))
+            return events
 
     def _filter_and_parse(
         self, raw_events: list[dict], cutoff_past: date, cutoff_future: date
