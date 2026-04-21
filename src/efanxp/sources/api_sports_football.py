@@ -19,15 +19,15 @@ BASE_URL = "https://v3.football.api-sports.io"
 
 STATUS_MAP = {
     "NS": EventStatus.SCHEDULED,
-    "TBD": EventStatus.SCHEDULED,
-    "1H": EventStatus.IN_PROGRESS,
-    "HT": EventStatus.IN_PROGRESS,
-    "2H": EventStatus.IN_PROGRESS,
-    "ET": EventStatus.IN_PROGRESS,
-    "BT": EventStatus.IN_PROGRESS,
-    "P": EventStatus.IN_PROGRESS,
+    "TBD": EventStatus.TBD,
+    "1H": EventStatus.CONFIRMED,
+    "HT": EventStatus.CONFIRMED,
+    "2H": EventStatus.CONFIRMED,
+    "ET": EventStatus.CONFIRMED,
+    "BT": EventStatus.CONFIRMED,
+    "P": EventStatus.CONFIRMED,
     "SUSP": EventStatus.POSTPONED,
-    "INT": EventStatus.IN_PROGRESS,
+    "INT": EventStatus.CONFIRMED,
     "FT": EventStatus.FINISHED,
     "AET": EventStatus.FINISHED,
     "PEN": EventStatus.FINISHED,
@@ -36,7 +36,7 @@ STATUS_MAP = {
     "ABD": EventStatus.CANCELLED,
     "AWD": EventStatus.FINISHED,
     "WO": EventStatus.FINISHED,
-    "LIVE": EventStatus.IN_PROGRESS,
+    "LIVE": EventStatus.CONFIRMED,
 }
 
 
