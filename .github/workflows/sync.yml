@@ -55,14 +55,14 @@ jobs:
           efanxp sync $FLAGS
 
       - name: Show ICS files
-        run: ls -lh public/*.ics 2>/dev/null || echo "No ICS files generated"
+        run: ls -lh docs/*.ics 2>/dev/null || echo "No ICS files generated"
 
       - name: Commit and push ICS files
         if: ${{ github.event.inputs.dry_run != 'true' }}
         run: |
           git config user.name "efanxp-bot"
           git config user.email "bot@efanxp.com"
-          git add public/
+          git add docs/
           git diff --staged --quiet && echo "No changes to commit" || \
             git commit -m "sync: update ICS $(date -u +'%Y-%m-%dT%H:%M:%SZ')" && \
             git push

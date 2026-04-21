@@ -186,7 +186,7 @@ class Orchestrator:
 
     def _write_ics(self, club_ids: list[str] | None, session) -> dict[str, Path]:
         root = Path(__file__).resolve().parents[3]
-        output_dir = root / "public"
+        output_dir = root / "docs"
 
         stmt = select(EventRecord)
         if club_ids:

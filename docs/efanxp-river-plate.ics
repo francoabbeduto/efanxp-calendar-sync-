@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eFanXP//Calendar Sync//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Fixtures y eventos — river-plate
+X-WR-CALNAME:eFanXP — River Plate
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ River Plate vs Boca Juniors
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260419T170000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260419T190000
+DTSTAMP:20260421T144718Z
+UID:espn_river-plate_762995@efanxp.com
+DESCRIPTION:🏟 Venue: Estadio Más Monumental\n🏆 Competencia: torneo-
+ apertura\n👥 Cliente: River Plate\n🌐 País: N/D\n📡 Fuente: espn\n
+ 🆔 ID interno: espn_river-plate_762995\n🔄 Última actualización: 202
+ 6-04-21 14:47 UTC
+LAST-MODIFIED:20260421T142600Z
+LOCATION:Estadio Más Monumental
+STATUS:CONFIRMED
+X-EFANXP-CLUB:river-plate
+X-EFANXP-SOURCE:espn
+X-EFANXP-SOURCE-ID:espn_river-plate_762995
+X-EFANXP-TYPE:match_home
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ River Plate vs Aldosivi
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260425T213000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260425T233000
+DTSTAMP:20260421T144718Z
+UID:espn_river-plate_763001@efanxp.com
+DESCRIPTION:🏟 Venue: Estadio Más Monumental\n🏆 Competencia: torneo-
+ apertura\n👥 Cliente: River Plate\n🌐 País: N/D\n📡 Fuente: espn\n
+ 🆔 ID interno: espn_river-plate_763001\n🔄 Última actualización: 202
+ 6-04-21 14:47 UTC
+LAST-MODIFIED:20260421T142600Z
+LOCATION:Estadio Más Monumental
+STATUS:CONFIRMED
+X-EFANXP-CLUB:river-plate
+X-EFANXP-SOURCE:espn
+X-EFANXP-SOURCE-ID:espn_river-plate_763001
+X-EFANXP-TYPE:match_home
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ River Plate vs Atlético Tucumán
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260503T150000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260503T170000
+DTSTAMP:20260421T144718Z
+UID:espn_river-plate_762899@efanxp.com
+DESCRIPTION:🏟 Venue: Estadio Más Monumental\n🏆 Competencia: torneo-
+ apertura\n👥 Cliente: River Plate\n🌐 País: N/D\n📡 Fuente: espn\n
+ 🆔 ID interno: espn_river-plate_762899\n🔄 Última actualización: 202
+ 6-04-21 14:47 UTC
+LAST-MODIFIED:20260421T142605Z
+LOCATION:Estadio Más Monumental
+STATUS:CONFIRMED
+X-EFANXP-CLUB:river-plate
+X-EFANXP-SOURCE:espn
+X-EFANXP-SOURCE-ID:espn_river-plate_762899
+X-EFANXP-TYPE:match_home
+END:VEVENT
+END:VCALENDAR

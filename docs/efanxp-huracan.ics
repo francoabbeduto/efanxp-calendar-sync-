@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eFanXP//Calendar Sync//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Fixtures y eventos — huracan
+X-WR-CALNAME:eFanXP — Huracan
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Huracán vs Argentinos Juniors
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260427T210000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260427T230000
+DTSTAMP:20260421T144718Z
+UID:espn_huracan_763007@efanxp.com
+DESCRIPTION:🏟 Venue: Estadio Tomás Adolfo Ducó\n🏆 Competencia: tor
+ neo-apertura\n👥 Cliente: Huracan\n🌐 País: N/D\n📡 Fuente: espn\n
+ 🆔 ID interno: espn_huracan_763007\n🔄 Última actualización: 2026-04
+ -21 14:47 UTC
+LAST-MODIFIED:20260421T142622Z
+LOCATION:Estadio Tomás Adolfo Ducó
+STATUS:CONFIRMED
+X-EFANXP-CLUB:huracan
+X-EFANXP-SOURCE:espn
+X-EFANXP-SOURCE-ID:espn_huracan_763007
+X-EFANXP-TYPE:match_home
+END:VEVENT
+END:VCALENDAR
