@@ -14,6 +14,7 @@ import yaml
 from efanxp.config import Settings, get_settings
 from efanxp.core.deduplicator import dedup_events
 from efanxp.core.normalizer import normalize
+from efanxp.core.validator import validate_against_promiedos
 from efanxp.database import (
     init_db,
     session_scope,
@@ -143,6 +144,23 @@ class Orchestrator:
 
         # 4. Dedup
         home_events = dedup_events(home_events)
+
+        # 4.5. Cross-validate against Promiedos (AR football only)
+        if country == "AR" and club.get("sport") == "football":
+            try:
+                val_results = validate_against_promiedos(home_events)
+                mismatches = [r for r in val_results if r.status == "time_mismatch"]
+                not_found = [r for r in val_results if r.status == "not_found"]
+                validated = [r for r in val_results if r.status == "ok"]
+                log.info(
+                    "promiedos_validation",
+                    club=club_id,
+                    ok=len(validated),
+                    time_mismatches=len(mismatches),
+                    not_found=len(not_found),
+                )
+            except Exception as exc:
+                log.warning("promiedos_validation_failed", club=club_id, error=str(exc))
 
         # 5. Persist to DB using the shared session
         for raw in home_events:
