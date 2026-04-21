@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import time
 from datetime import date, timedelta
 from typing import Any
 
@@ -46,13 +47,15 @@ class TheSportsDBSource(BaseSource):
         cutoff_future = today + timedelta(days=lookahead_days)
 
         # Fetch full season (free, up to 250 events) + next/last as fallback
+        # 1-second delay between calls to avoid TheSportsDB rate limiting (429)
         current_year = today.year
-        raw_events = (
-            self._fetch_season(str(current_year))
-            + self._fetch_season(str(current_year + 1))
-            + self._fetch_next_events()
-            + self._fetch_past_events()
-        )
+        raw_events = self._fetch_season(str(current_year))
+        time.sleep(1)
+        raw_events += self._fetch_season(str(current_year + 1))
+        time.sleep(1)
+        raw_events += self._fetch_next_events()
+        time.sleep(1)
+        raw_events += self._fetch_past_events()
 
         events: list[RawEvent] = []
         for ev in raw_events:

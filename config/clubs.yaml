@@ -160,10 +160,12 @@ clubs:
         url: https://www.casadeapostasfontenova.com.br/agenda/
         enabled: true
         selectors:
-          event_list: ".eventos-lista, .agenda-item, article.event"
-          title: "h2, h3, .event-title"
-          date: ".event-date, time"
-          description: ".event-description, p"
+          event_list: ".jet-listing-grid__item"
+          fields: ".jet-listing-dynamic-field__content"
+          date_index: 0
+          title_index: 1
+          competition_index: 2
+          date_locale: "pt"
 
   - id: selknam
     name: Selknam Rugby
