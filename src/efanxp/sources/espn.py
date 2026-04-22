@@ -28,6 +28,8 @@ LEAGUE_TZ: dict[str, str] = {
     "bra.1": "America/Sao_Paulo",
 }
 
+COPA_LEAGUES = ["conmebol.libertadores", "conmebol.sudamericana"]
+
 
 class ESPNSource(BaseSource):
     name = "espn"
@@ -36,16 +38,19 @@ class ESPNSource(BaseSource):
         super().__init__(club_id, source_config)
         self.team_id: str = str(source_config["team_id"])
         self.league: str = source_config["league"]  # e.g. "arg.1", "chi.1"
+        self.home_tz: str = LEAGUE_TZ.get(self.league, "UTC")
 
     def fetch(self, lookahead_days: int = 90, lookback_days: int = 7) -> list[RawEvent]:
         today = date.today()
         date_from = today - timedelta(days=lookback_days)
         date_to = today + timedelta(days=lookahead_days)
 
-        raw_events = self._fetch_range(date_from, date_to)
+        all_raw: list[dict] = []
+        for league in [self.league] + COPA_LEAGUES:
+            all_raw.extend(self._fetch_range(date_from, date_to, league))
 
         events: list[RawEvent] = []
-        for ev in raw_events:
+        for ev in all_raw:
             parsed = self._parse_event(ev)
             if parsed is not None:
                 events.append(parsed)
@@ -55,20 +60,20 @@ class ESPNSource(BaseSource):
             seen[ev.source_id] = ev
         return list(seen.values())
 
-    def _fetch_range(self, date_from: date, date_to: date) -> list[dict]:
+    def _fetch_range(self, date_from: date, date_to: date, league: str) -> list[dict]:
         all_events: list[dict] = []
         chunk_start = date_from
         while chunk_start <= date_to:
             chunk_end = min(chunk_start + timedelta(days=CHUNK_DAYS - 1), date_to)
-            events = self._fetch_scoreboard(chunk_start, chunk_end)
+            events = self._fetch_scoreboard(chunk_start, chunk_end, league)
             all_events.extend(events)
             chunk_start = chunk_end + timedelta(days=1)
         return all_events
 
     @http_retry
-    def _fetch_scoreboard(self, date_from: date, date_to: date) -> list[dict]:
+    def _fetch_scoreboard(self, date_from: date, date_to: date, league: str) -> list[dict]:
         dates_param = f"{date_from.strftime('%Y%m%d')}-{date_to.strftime('%Y%m%d')}"
-        url = f"{BASE_URL}/{self.league}/scoreboard"
+        url = f"{BASE_URL}/{league}/scoreboard"
         params = {"dates": dates_param, "limit": 200}
         with httpx.Client(timeout=20) as client:
             r = client.get(url, headers=HEADERS, params=params)
@@ -111,10 +116,9 @@ class ESPNSource(BaseSource):
             raw_date = event.get("date", "")  # "2026-04-23T23:00Z" (UTC)
             start_date: str | None = None
             start_time: str | None = None
-            tz_name = LEAGUE_TZ.get(self.league, "UTC")
             if raw_date:
                 dt_utc = datetime.fromisoformat(raw_date.replace("Z", "+00:00"))
-                dt_local = dt_utc.astimezone(pytz.timezone(tz_name))
+                dt_local = dt_utc.astimezone(pytz.timezone(self.home_tz))
                 start_date = dt_local.date().isoformat()
                 time_str = dt_local.strftime("%H:%M")
                 if time_str != "00:00":
@@ -151,7 +155,7 @@ class ESPNSource(BaseSource):
                 event_type=event_type,
                 start_date=start_date,
                 start_time=start_time,
-                timezone=tz_name,
+                timezone=self.home_tz,
                 home_team=home_team,
                 away_team=away_team,
                 competition=competition_name,
