@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Boca Juniors vs Cruzeiro
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260519T213000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260519T233000
-DTSTAMP:20260423T170515Z
+DTSTAMP:20260423T210933Z
 UID:espn_boca-juniors_401865538@efanxp.com
 DESCRIPTION:🏟 Venue: Alberto José Armando (La Bombonera)\n🏆 Compete
  ncia: group-stage\n👥 Cliente: Boca Juniors\n🌐 País: N/D\n📡 Fuent
  e: espn\n🆔 ID interno: espn_boca-juniors_401865538\n🔄 Última actual
- ización: 2026-04-23 17:05 UTC
-LAST-MODIFIED:20260423T170405Z
+ ización: 2026-04-23 21:09 UTC
+LAST-MODIFIED:20260423T210828Z
 LOCATION:Alberto José Armando (La Bombonera)
 STATUS:CONFIRMED
 X-EFANXP-CLUB:boca-juniors
@@ -30,13 +30,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Boca Juniors vs Universidad Católica
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260528T213000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260528T233000
-DTSTAMP:20260423T170515Z
+DTSTAMP:20260423T210933Z
 UID:espn_boca-juniors_401865549@efanxp.com
 DESCRIPTION:🏟 Venue: Alberto José Armando (La Bombonera)\n🏆 Compete
  ncia: group-stage\n👥 Cliente: Boca Juniors\n🌐 País: N/D\n📡 Fuent
  e: espn\n🆔 ID interno: espn_boca-juniors_401865549\n🔄 Última actual
- ización: 2026-04-23 17:05 UTC
-LAST-MODIFIED:20260423T170411Z
+ ización: 2026-04-23 21:09 UTC
+LAST-MODIFIED:20260423T210834Z
 LOCATION:Alberto José Armando (La Bombonera)
 STATUS:CONFIRMED
 X-EFANXP-CLUB:boca-juniors
