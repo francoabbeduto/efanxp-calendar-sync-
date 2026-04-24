@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alianza Lima vs Cusco FC
 DTSTART;TZID=America/Lima:20260418T200000
 DTEND;TZID=America/Lima:20260418T220000
-DTSTAMP:20260423T210933Z
+DTSTAMP:20260424T063133Z
 UID:espn_alianza-lima_401857462@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Alejandro Villanueva\n🏆 Competencia: ap
  ertura\n👥 Cliente: Alianza Lima\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_alianza-lima_401857462\n🔄 Última actualización:
-  2026-04-23 21:09 UTC
-LAST-MODIFIED:20260423T210912Z
+  2026-04-24 06:31 UTC
+LAST-MODIFIED:20260424T063112Z
 LOCATION:Estadio Alejandro Villanueva
 STATUS:CONFIRMED
 X-EFANXP-CLUB:alianza-lima
@@ -30,13 +30,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alianza Lima vs Deportivo Moquegua
 DTSTART;TZID=America/Lima:20260502T200000
 DTEND;TZID=America/Lima:20260502T220000
-DTSTAMP:20260423T210933Z
+DTSTAMP:20260424T063133Z
 UID:espn_alianza-lima_401857479@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Alejandro Villanueva\n🏆 Competencia: ap
  ertura\n👥 Cliente: Alianza Lima\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_alianza-lima_401857479\n🔄 Última actualización:
-  2026-04-23 21:09 UTC
-LAST-MODIFIED:20260423T210912Z
+  2026-04-24 06:31 UTC
+LAST-MODIFIED:20260424T063112Z
 LOCATION:Estadio Alejandro Villanueva
 STATUS:CONFIRMED
 X-EFANXP-CLUB:alianza-lima
@@ -48,13 +48,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alianza Lima vs Sporting Cristal
 DTSTART;TZID=America/Lima:20260509T200000
 DTEND;TZID=America/Lima:20260509T220000
-DTSTAMP:20260423T210933Z
+DTSTAMP:20260424T063133Z
 UID:espn_alianza-lima_401857487@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Alejandro Villanueva\n🏆 Competencia: ap
  ertura\n👥 Cliente: Alianza Lima\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_alianza-lima_401857487\n🔄 Última actualización:
-  2026-04-23 21:09 UTC
-LAST-MODIFIED:20260423T210912Z
+  2026-04-24 06:31 UTC
+LAST-MODIFIED:20260424T063112Z
 LOCATION:Estadio Alejandro Villanueva
 STATUS:CONFIRMED
 X-EFANXP-CLUB:alianza-lima
@@ -66,12 +66,12 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alianza Lima vs Los Chankas
 DTSTART;TZID=America/Lima:20260523T130000
 DTEND;TZID=America/Lima:20260523T150000
-DTSTAMP:20260423T210933Z
+DTSTAMP:20260424T063133Z
 UID:espn_alianza-lima_401857506@efanxp.com
 DESCRIPTION:🏟 Venue: TBC\n🏆 Competencia: apertura\n👥 Cliente: Ali
  anza Lima\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID interno: espn_alian
- za-lima_401857506\n🔄 Última actualización: 2026-04-23 21:09 UTC
-LAST-MODIFIED:20260423T210918Z
+ za-lima_401857506\n🔄 Última actualización: 2026-04-24 06:31 UTC
+LAST-MODIFIED:20260424T063118Z
 LOCATION:TBC
 STATUS:CONFIRMED
 X-EFANXP-CLUB:alianza-lima
