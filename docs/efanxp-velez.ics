@@ -12,12 +12,12 @@ BEGIN:VEVENT
 SUMMARY:⚽ Vélez Sarsfield vs Unión (Santa Fe)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260427T184500
 DTEND;TZID=America/Argentina/Buenos_Aires:20260427T204500
-DTSTAMP:20260425T143232Z
+DTSTAMP:20260425T195848Z
 UID:espn_velez_763003@efanxp.com
 DESCRIPTION:🏟 Venue: José Amalfitani\n🏆 Competencia: torneo-apertur
  a\n👥 Cliente: Velez\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID intern
- o: espn_velez_763003\n🔄 Última actualización: 2026-04-25 14:32 UTC
-LAST-MODIFIED:20260425T143143Z
+ o: espn_velez_763003\n🔄 Última actualización: 2026-04-25 19:58 UTC
+LAST-MODIFIED:20260425T195805Z
 LOCATION:José Amalfitani
 STATUS:CONFIRMED
 X-EFANXP-CLUB:velez
@@ -29,12 +29,12 @@ BEGIN:VEVENT
 SUMMARY:⚽ Vélez Sarsfield vs Newell's Old Boys
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260503T150000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260503T170000
-DTSTAMP:20260425T143232Z
+DTSTAMP:20260425T195848Z
 UID:espn_velez_762903@efanxp.com
 DESCRIPTION:🏟 Venue: José Amalfitani\n🏆 Competencia: torneo-apertur
  a\n👥 Cliente: Velez\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID intern
- o: espn_velez_762903\n🔄 Última actualización: 2026-04-25 14:32 UTC
-LAST-MODIFIED:20260425T143148Z
+ o: espn_velez_762903\n🔄 Última actualización: 2026-04-25 19:58 UTC
+LAST-MODIFIED:20260425T195810Z
 LOCATION:José Amalfitani
 STATUS:CONFIRMED
 X-EFANXP-CLUB:velez

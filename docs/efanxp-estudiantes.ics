@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Estudiantes de La Plata vs Talleres (Córdoba)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260425T170000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260425T190000
-DTSTAMP:20260425T143232Z
+DTSTAMP:20260425T195848Z
 UID:espn_estudiantes_763008@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Jorge Luis Hirschi\n🏆 Competencia: torn
  eo-apertura\n👥 Cliente: Estudiantes\n🌐 País: N/D\n📡 Fuente: espn
  \n🆔 ID interno: espn_estudiantes_763008\n🔄 Última actualización: 2
- 026-04-25 14:32 UTC
-LAST-MODIFIED:20260425T143134Z
+ 026-04-25 19:58 UTC
+LAST-MODIFIED:20260425T195800Z
 LOCATION:Estadio Jorge Luis Hirschi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:estudiantes
@@ -30,13 +30,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Estudiantes de La Plata vs Flamengo
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260429T213000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260429T233000
-DTSTAMP:20260425T143232Z
+DTSTAMP:20260425T195848Z
 UID:espn_estudiantes_401865507@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Jorge Luis Hirschi\n🏆 Competencia: grou
  p-stage\n👥 Cliente: Estudiantes\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_estudiantes_401865507\n🔄 Última actualización: 
- 2026-04-25 14:32 UTC
-LAST-MODIFIED:20260425T143134Z
+ 2026-04-25 19:58 UTC
+LAST-MODIFIED:20260425T195800Z
 LOCATION:Estadio Jorge Luis Hirschi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:estudiantes
@@ -48,13 +48,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Estudiantes de La Plata vs Independiente Medellín
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260526T213000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260526T233000
-DTSTAMP:20260425T143232Z
+DTSTAMP:20260425T195848Z
 UID:espn_estudiantes_401865554@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Jorge Luis Hirschi\n🏆 Competencia: grou
  p-stage\n👥 Cliente: Estudiantes\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_estudiantes_401865554\n🔄 Última actualización: 
- 2026-04-25 14:32 UTC
-LAST-MODIFIED:20260425T143143Z
+ 2026-04-25 19:58 UTC
+LAST-MODIFIED:20260425T195805Z
 LOCATION:Estadio Jorge Luis Hirschi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:estudiantes
