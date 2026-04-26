@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Huracán vs Argentinos Juniors
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260427T210000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260427T230000
-DTSTAMP:20260425T195848Z
+DTSTAMP:20260426T063207Z
 UID:espn_huracan_763007@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Tomás Adolfo Ducó\n🏆 Competencia: tor
  neo-apertura\n👥 Cliente: Huracan\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_huracan_763007\n🔄 Última actualización: 2026-04
- -25 19:58 UTC
-LAST-MODIFIED:20260425T195815Z
+ -26 06:32 UTC
+LAST-MODIFIED:20260426T063130Z
 LOCATION:Estadio Tomás Adolfo Ducó
 STATUS:CONFIRMED
 X-EFANXP-CLUB:huracan

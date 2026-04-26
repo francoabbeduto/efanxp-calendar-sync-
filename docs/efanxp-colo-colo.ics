@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Colo Colo vs Palestino
 DTSTART;TZID=America/Santiago:20260419T183000
 DTEND;TZID=America/Santiago:20260419T203000
-DTSTAMP:20260425T195848Z
+DTSTAMP:20260426T063207Z
 UID:espn_colo-colo_401850549@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Monumental David Arellano\n🏆 Competenci
  a: 2026-primera-division-de-chile\n👥 Cliente: Colo Colo\n🌐 País: N/
  D\n📡 Fuente: espn\n🆔 ID interno: espn_colo-colo_401850549\n🔄 Últ
- ima actualización: 2026-04-25 19:58 UTC
-LAST-MODIFIED:20260425T195824Z
+ ima actualización: 2026-04-26 06:32 UTC
+LAST-MODIFIED:20260426T063140Z
 LOCATION:Estadio Monumental David Arellano
 STATUS:CONFIRMED
 X-EFANXP-CLUB:colo-colo
@@ -30,13 +30,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Colo Colo vs Coquimbo Unido
 DTSTART;TZID=America/Santiago:20260503T173000
 DTEND;TZID=America/Santiago:20260503T193000
-DTSTAMP:20260425T195848Z
+DTSTAMP:20260426T063207Z
 UID:espn_colo-colo_401850545@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Monumental David Arellano\n🏆 Competenci
  a: 2026-primera-division-de-chile\n👥 Cliente: Colo Colo\n🌐 País: N/
  D\n📡 Fuente: espn\n🆔 ID interno: espn_colo-colo_401850545\n🔄 Últ
- ima actualización: 2026-04-25 19:58 UTC
-LAST-MODIFIED:20260425T195824Z
+ ima actualización: 2026-04-26 06:32 UTC
+LAST-MODIFIED:20260426T063140Z
 LOCATION:Estadio Monumental David Arellano
 STATUS:CONFIRMED
 X-EFANXP-CLUB:colo-colo
@@ -48,13 +48,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Colo Colo vs Ñublense
 DTSTART;TZID=America/Santiago:20260517T173000
 DTEND;TZID=America/Santiago:20260517T193000
-DTSTAMP:20260425T195848Z
+DTSTAMP:20260426T063207Z
 UID:espn_colo-colo_401850565@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Monumental David Arellano\n🏆 Competenci
  a: 2026-primera-division-de-chile\n👥 Cliente: Colo Colo\n🌐 País: N/
  D\n📡 Fuente: espn\n🆔 ID interno: espn_colo-colo_401850565\n🔄 Últ
- ima actualización: 2026-04-25 19:58 UTC
-LAST-MODIFIED:20260425T195824Z
+ ima actualización: 2026-04-26 06:32 UTC
+LAST-MODIFIED:20260426T063140Z
 LOCATION:Estadio Monumental David Arellano
 STATUS:CONFIRMED
 X-EFANXP-CLUB:colo-colo
@@ -66,13 +66,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Colo Colo vs Cobresal
 DTSTART;TZID=America/Santiago:20260613T173000
 DTEND;TZID=America/Santiago:20260613T193000
-DTSTAMP:20260425T195848Z
+DTSTAMP:20260426T063207Z
 UID:espn_colo-colo_401850589@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Monumental David Arellano\n🏆 Competenci
  a: 2026-primera-division-de-chile\n👥 Cliente: Colo Colo\n🌐 País: N/
  D\n📡 Fuente: espn\n🆔 ID interno: espn_colo-colo_401850589\n🔄 Últ
- ima actualización: 2026-04-25 19:58 UTC
-LAST-MODIFIED:20260425T195829Z
+ ima actualización: 2026-04-26 06:32 UTC
+LAST-MODIFIED:20260426T063147Z
 LOCATION:Estadio Monumental David Arellano
 STATUS:CONFIRMED
 X-EFANXP-CLUB:colo-colo
