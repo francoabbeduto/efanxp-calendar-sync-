@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Universidad de Chile vs Universidad Católica
 DTSTART;TZID=America/Santiago:20260425T180000
 DTEND;TZID=America/Santiago:20260425T200000
-DTSTAMP:20260426T143327Z
+DTSTAMP:20260426T200122Z
 UID:espn_universidad-de-chile_401850559@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Nacional Julio Martínez Prádanos\n🏆 C
  ompetencia: 2026-primera-division-de-chile\n👥 Cliente: Universidad De C
  hile\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID interno: espn_universida
- d-de-chile_401850559\n🔄 Última actualización: 2026-04-26 14:33 UTC
-LAST-MODIFIED:20260426T143255Z
+ d-de-chile_401850559\n🔄 Última actualización: 2026-04-26 20:01 UTC
+LAST-MODIFIED:20260426T200049Z
 LOCATION:Estadio Nacional Julio Martínez Prádanos
 STATUS:CONFIRMED
 X-EFANXP-CLUB:universidad-de-chile
@@ -30,13 +30,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Universidad de Chile vs O'Higgins
 DTSTART;TZID=America/Santiago:20260523T173000
 DTEND;TZID=America/Santiago:20260523T193000
-DTSTAMP:20260426T143327Z
+DTSTAMP:20260426T200122Z
 UID:espn_universidad-de-chile_401850578@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Nacional Julio Martínez Prádanos\n🏆 C
  ompetencia: 2026-primera-division-de-chile\n👥 Cliente: Universidad De C
  hile\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID interno: espn_universida
- d-de-chile_401850578\n🔄 Última actualización: 2026-04-26 14:33 UTC
-LAST-MODIFIED:20260426T143255Z
+ d-de-chile_401850578\n🔄 Última actualización: 2026-04-26 20:01 UTC
+LAST-MODIFIED:20260426T200049Z
 LOCATION:Estadio Nacional Julio Martínez Prádanos
 STATUS:CONFIRMED
 X-EFANXP-CLUB:universidad-de-chile
@@ -48,13 +48,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Universidad de Chile vs Deportes Concepcion
 DTSTART;TZID=America/Santiago:20260530T173000
 DTEND;TZID=America/Santiago:20260530T193000
-DTSTAMP:20260426T143327Z
+DTSTAMP:20260426T200122Z
 UID:espn_universidad-de-chile_401850583@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Nacional Julio Martínez Prádanos\n🏆 C
  ompetencia: 2026-primera-division-de-chile\n👥 Cliente: Universidad De C
  hile\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID interno: espn_universida
- d-de-chile_401850583\n🔄 Última actualización: 2026-04-26 14:33 UTC
-LAST-MODIFIED:20260426T143302Z
+ d-de-chile_401850583\n🔄 Última actualización: 2026-04-26 20:01 UTC
+LAST-MODIFIED:20260426T200056Z
 LOCATION:Estadio Nacional Julio Martínez Prádanos
 STATUS:CONFIRMED
 X-EFANXP-CLUB:universidad-de-chile
