@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Belgrano (Córdoba) vs Gimnasia La Plata
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260426T173000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260426T193000
-DTSTAMP:20260427T075929Z
+DTSTAMP:20260427T171251Z
 UID:espn_belgrano_763000@efanxp.com
 DESCRIPTION:🏟 Venue: El Gigante de Alberdi\n🏆 Competencia: torneo-ap
  ertura\n👥 Cliente: Belgrano\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
- D interno: espn_belgrano_763000\n🔄 Última actualización: 2026-04-27 0
- 7:59 UTC
-LAST-MODIFIED:20260427T075915Z
+ D interno: espn_belgrano_763000\n🔄 Última actualización: 2026-04-27 1
+ 7:12 UTC
+LAST-MODIFIED:20260427T171237Z
 LOCATION:El Gigante de Alberdi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:belgrano
@@ -30,13 +30,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Belgrano (Córdoba) vs Sarmiento (Junín)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260503T150000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260503T170000
-DTSTAMP:20260427T075929Z
+DTSTAMP:20260427T171251Z
 UID:espn_belgrano_762906@efanxp.com
 DESCRIPTION:🏟 Venue: El Gigante de Alberdi\n🏆 Competencia: torneo-ap
  ertura\n👥 Cliente: Belgrano\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
- D interno: espn_belgrano_762906\n🔄 Última actualización: 2026-04-27 0
- 7:59 UTC
-LAST-MODIFIED:20260427T075915Z
+ D interno: espn_belgrano_762906\n🔄 Última actualización: 2026-04-27 1
+ 7:12 UTC
+LAST-MODIFIED:20260427T171237Z
 LOCATION:El Gigante de Alberdi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:belgrano
@@ -48,13 +48,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Belgrano (Córdoba) vs Rosario Central
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T160000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260726T180000
-DTSTAMP:20260427T075929Z
+DTSTAMP:20260427T171251Z
 UID:espn_belgrano_401841435@efanxp.com
 DESCRIPTION:🏟 Venue: El Gigante de Alberdi\n🏆 Competencia: torneo-cl
  ausura\n👥 Cliente: Belgrano\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
  D interno: espn_belgrano_401841435\n🔄 Última actualización: 2026-04-2
- 7 07:59 UTC
-LAST-MODIFIED:20260427T075921Z
+ 7 17:12 UTC
+LAST-MODIFIED:20260427T171243Z
 LOCATION:El Gigante de Alberdi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:belgrano
