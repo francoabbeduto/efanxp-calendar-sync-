@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Estudiantes de La Plata vs Talleres (Córdoba)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260425T170000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260425T190000
-DTSTAMP:20260426T200122Z
+DTSTAMP:20260427T075929Z
 UID:espn_estudiantes_763008@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Jorge Luis Hirschi\n🏆 Competencia: torn
  eo-apertura\n👥 Cliente: Estudiantes\n🌐 País: N/D\n📡 Fuente: espn
  \n🆔 ID interno: espn_estudiantes_763008\n🔄 Última actualización: 2
- 026-04-26 20:01 UTC
-LAST-MODIFIED:20260426T200027Z
+ 026-04-27 07:59 UTC
+LAST-MODIFIED:20260427T075835Z
 LOCATION:Estadio Jorge Luis Hirschi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:estudiantes
@@ -27,16 +27,34 @@ X-EFANXP-SOURCE-ID:espn_estudiantes_763008
 X-EFANXP-TYPE:match_home
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:⚽ Estudiantes de La Plata vs Independiente
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T160000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260726T180000
+DTSTAMP:20260427T075929Z
+UID:espn_estudiantes_401841445@efanxp.com
+DESCRIPTION:🏟 Venue: Estadio Jorge Luis Hirschi\n🏆 Competencia: torn
+ eo-clausura\n👥 Cliente: Estudiantes\n🌐 País: N/D\n📡 Fuente: espn
+ \n🆔 ID interno: espn_estudiantes_401841445\n🔄 Última actualización
+ : 2026-04-27 07:59 UTC
+LAST-MODIFIED:20260427T075835Z
+LOCATION:Estadio Jorge Luis Hirschi
+STATUS:CONFIRMED
+X-EFANXP-CLUB:estudiantes
+X-EFANXP-SOURCE:espn
+X-EFANXP-SOURCE-ID:espn_estudiantes_401841445
+X-EFANXP-TYPE:match_home
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:⚽ Estudiantes de La Plata vs Flamengo
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260429T213000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260429T233000
-DTSTAMP:20260426T200122Z
+DTSTAMP:20260427T075929Z
 UID:espn_estudiantes_401865507@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Jorge Luis Hirschi\n🏆 Competencia: grou
  p-stage\n👥 Cliente: Estudiantes\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_estudiantes_401865507\n🔄 Última actualización: 
- 2026-04-26 20:01 UTC
-LAST-MODIFIED:20260426T200027Z
+ 2026-04-27 07:59 UTC
+LAST-MODIFIED:20260427T075835Z
 LOCATION:Estadio Jorge Luis Hirschi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:estudiantes
@@ -48,13 +66,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Estudiantes de La Plata vs Independiente Medellín
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260526T213000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260526T233000
-DTSTAMP:20260426T200122Z
+DTSTAMP:20260427T075929Z
 UID:espn_estudiantes_401865554@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Jorge Luis Hirschi\n🏆 Competencia: grou
  p-stage\n👥 Cliente: Estudiantes\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_estudiantes_401865554\n🔄 Última actualización: 
- 2026-04-26 20:01 UTC
-LAST-MODIFIED:20260426T200027Z
+ 2026-04-27 07:59 UTC
+LAST-MODIFIED:20260427T075835Z
 LOCATION:Estadio Jorge Luis Hirschi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:estudiantes
@@ -66,13 +84,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Estudiantes de La Plata vs Talleres de Córdoba
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260425T200000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260425T220000
-DTSTAMP:20260426T200122Z
+DTSTAMP:20260427T075929Z
 UID:thesportsdb_estudiantes_2397940@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Jorge Luis Hirschi\n🏆 Competencia: Arge
  ntinian Primera Division\n👥 Cliente: Estudiantes\n🌐 País: Argentina
  \n📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_estudiantes_23979
- 40\n🔄 Última actualización: 2026-04-26 20:01 UTC
-LAST-MODIFIED:20260426T200033Z
+ 40\n🔄 Última actualización: 2026-04-27 07:59 UTC
+LAST-MODIFIED:20260427T075841Z
 LOCATION:Estadio Jorge Luis Hirschi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:estudiantes
