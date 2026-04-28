@@ -9,34 +9,16 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ San Lorenzo vs Vélez Sarsfield
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260420T193000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260420T213000
-DTSTAMP:20260427T213820Z
-UID:espn_san-lorenzo_762997@efanxp.com
-DESCRIPTION:🏟 Venue: Estadio Pedro Bidegain\n🏆 Competencia: torneo-a
- pertura\n👥 Cliente: San Lorenzo\n🌐 País: N/D\n📡 Fuente: espn\n
- 🆔 ID interno: espn_san-lorenzo_762997\n🔄 Última actualización: 202
- 6-04-27 21:38 UTC
-LAST-MODIFIED:20260427T213744Z
-LOCATION:Estadio Pedro Bidegain
-STATUS:CONFIRMED
-X-EFANXP-CLUB:san-lorenzo
-X-EFANXP-SOURCE:espn
-X-EFANXP-SOURCE-ID:espn_san-lorenzo_762997
-X-EFANXP-TYPE:match_home
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⚽ San Lorenzo vs Independiente
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260503T150000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260503T170000
-DTSTAMP:20260427T213820Z
+DTSTAMP:20260428T075846Z
 UID:espn_san-lorenzo_762901@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Pedro Bidegain\n🏆 Competencia: torneo-a
  pertura\n👥 Cliente: San Lorenzo\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_san-lorenzo_762901\n🔄 Última actualización: 202
- 6-04-27 21:38 UTC
-LAST-MODIFIED:20260427T213744Z
+ 6-04-28 07:58 UTC
+LAST-MODIFIED:20260428T075811Z
 LOCATION:Estadio Pedro Bidegain
 STATUS:CONFIRMED
 X-EFANXP-CLUB:san-lorenzo
@@ -48,13 +30,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Lorenzo vs Santos
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260428T190000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260428T210000
-DTSTAMP:20260427T213820Z
+DTSTAMP:20260428T075846Z
 UID:espn_san-lorenzo_401865416@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Pedro Bidegain\n🏆 Competencia: group-st
  age\n👥 Cliente: San Lorenzo\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
  D interno: espn_san-lorenzo_401865416\n🔄 Última actualización: 2026-0
- 4-27 21:38 UTC
-LAST-MODIFIED:20260427T213744Z
+ 4-28 07:58 UTC
+LAST-MODIFIED:20260428T075811Z
 LOCATION:Estadio Pedro Bidegain
 STATUS:CONFIRMED
 X-EFANXP-CLUB:san-lorenzo
@@ -66,13 +48,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Lorenzo vs Deportivo Recoleta
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260526T213000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260526T233000
-DTSTAMP:20260427T213820Z
+DTSTAMP:20260428T075846Z
 UID:espn_san-lorenzo_401865461@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Pedro Bidegain\n🏆 Competencia: group-st
  age\n👥 Cliente: San Lorenzo\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
  D interno: espn_san-lorenzo_401865461\n🔄 Última actualización: 2026-0
- 4-27 21:38 UTC
-LAST-MODIFIED:20260427T213749Z
+ 4-28 07:58 UTC
+LAST-MODIFIED:20260428T075816Z
 LOCATION:Estadio Pedro Bidegain
 STATUS:CONFIRMED
 X-EFANXP-CLUB:san-lorenzo
