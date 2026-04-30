@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Belgrano (Córdoba) vs Gimnasia La Plata
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260426T173000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260426T193000
-DTSTAMP:20260429T214435Z
+DTSTAMP:20260430T075556Z
 UID:espn_belgrano_763000@efanxp.com
 DESCRIPTION:🏟 Venue: El Gigante de Alberdi\n🏆 Competencia: torneo-ap
  ertura\n👥 Cliente: Belgrano\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
- D interno: espn_belgrano_763000\n🔄 Última actualización: 2026-04-29 2
- 1:44 UTC
-LAST-MODIFIED:20260429T214414Z
+ D interno: espn_belgrano_763000\n🔄 Última actualización: 2026-04-30 0
+ 7:55 UTC
+LAST-MODIFIED:20260430T075540Z
 LOCATION:El Gigante de Alberdi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:belgrano
@@ -30,13 +30,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Belgrano (Córdoba) vs Sarmiento (Junín)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260503T160000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260503T180000
-DTSTAMP:20260429T214435Z
+DTSTAMP:20260430T075556Z
 UID:espn_belgrano_762906@efanxp.com
 DESCRIPTION:🏟 Venue: El Gigante de Alberdi\n🏆 Competencia: torneo-ap
  ertura\n👥 Cliente: Belgrano\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
- D interno: espn_belgrano_762906\n🔄 Última actualización: 2026-04-29 2
- 1:44 UTC
-LAST-MODIFIED:20260429T214414Z
+ D interno: espn_belgrano_762906\n🔄 Última actualización: 2026-04-30 0
+ 7:55 UTC
+LAST-MODIFIED:20260430T075540Z
 LOCATION:El Gigante de Alberdi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:belgrano
@@ -48,13 +48,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Belgrano (Córdoba) vs Rosario Central
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T160000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260726T180000
-DTSTAMP:20260429T214435Z
+DTSTAMP:20260430T075556Z
 UID:espn_belgrano_401841435@efanxp.com
 DESCRIPTION:🏟 Venue: El Gigante de Alberdi\n🏆 Competencia: torneo-cl
  ausura\n👥 Cliente: Belgrano\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
- D interno: espn_belgrano_401841435\n🔄 Última actualización: 2026-04-2
- 9 21:44 UTC
-LAST-MODIFIED:20260429T214426Z
+ D interno: espn_belgrano_401841435\n🔄 Última actualización: 2026-04-3
+ 0 07:55 UTC
+LAST-MODIFIED:20260430T075548Z
 LOCATION:El Gigante de Alberdi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:belgrano
