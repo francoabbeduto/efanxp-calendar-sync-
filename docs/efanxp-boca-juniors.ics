@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Boca Juniors vs Estudiantes de La Plata
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260729T160000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260729T180000
-DTSTAMP:20260503T200724Z
+DTSTAMP:20260504T090752Z
 UID:espn_boca-juniors_401841460@efanxp.com
 DESCRIPTION:🏟 Venue: Alberto José Armando (La Bombonera)\n🏆 Compete
  ncia: torneo-clausura\n👥 Cliente: Boca Juniors\n🌐 País: N/D\n📡 F
  uente: espn\n🆔 ID interno: espn_boca-juniors_401841460\n🔄 Última ac
- tualización: 2026-05-03 20:07 UTC
-LAST-MODIFIED:20260503T200604Z
+ tualización: 2026-05-04 09:07 UTC
+LAST-MODIFIED:20260504T090641Z
 LOCATION:Alberto José Armando (La Bombonera)
 STATUS:CONFIRMED
 X-EFANXP-CLUB:boca-juniors
@@ -30,13 +30,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Boca Juniors vs Cruzeiro
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260519T213000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260519T233000
-DTSTAMP:20260503T200724Z
+DTSTAMP:20260504T090752Z
 UID:espn_boca-juniors_401865538@efanxp.com
 DESCRIPTION:🏟 Venue: Alberto José Armando (La Bombonera)\n🏆 Compete
  ncia: group-stage\n👥 Cliente: Boca Juniors\n🌐 País: N/D\n📡 Fuent
  e: espn\n🆔 ID interno: espn_boca-juniors_401865538\n🔄 Última actual
- ización: 2026-05-03 20:07 UTC
-LAST-MODIFIED:20260503T200604Z
+ ización: 2026-05-04 09:07 UTC
+LAST-MODIFIED:20260504T090641Z
 LOCATION:Alberto José Armando (La Bombonera)
 STATUS:CONFIRMED
 X-EFANXP-CLUB:boca-juniors
@@ -48,13 +48,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Boca Juniors vs Universidad Católica
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260528T213000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260528T233000
-DTSTAMP:20260503T200724Z
+DTSTAMP:20260504T090752Z
 UID:espn_boca-juniors_401865549@efanxp.com
 DESCRIPTION:🏟 Venue: Alberto José Armando (La Bombonera)\n🏆 Compete
  ncia: group-stage\n👥 Cliente: Boca Juniors\n🌐 País: N/D\n📡 Fuent
  e: espn\n🆔 ID interno: espn_boca-juniors_401865549\n🔄 Última actual
- ización: 2026-05-03 20:07 UTC
-LAST-MODIFIED:20260503T200626Z
+ ización: 2026-05-04 09:07 UTC
+LAST-MODIFIED:20260504T090647Z
 LOCATION:Alberto José Armando (La Bombonera)
 STATUS:CONFIRMED
 X-EFANXP-CLUB:boca-juniors

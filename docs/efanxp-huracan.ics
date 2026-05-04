@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Huracán vs Argentinos Juniors
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260427T210000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260427T230000
-DTSTAMP:20260503T200725Z
+DTSTAMP:20260504T090752Z
 UID:espn_huracan_763007@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Tomás Adolfo Ducó\n🏆 Competencia: tor
  neo-apertura\n👥 Cliente: Huracan\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_huracan_763007\n🔄 Última actualización: 2026-05
- -03 20:07 UTC
-LAST-MODIFIED:20260503T200644Z
+ -04 09:07 UTC
+LAST-MODIFIED:20260504T090710Z
 LOCATION:Estadio Tomás Adolfo Ducó
 STATUS:CONFIRMED
 X-EFANXP-CLUB:huracan
@@ -30,13 +30,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Huracán vs Banfield
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T160000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260726T180000
-DTSTAMP:20260503T200725Z
+DTSTAMP:20260504T090752Z
 UID:espn_huracan_401841443@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Tomás Adolfo Ducó\n🏆 Competencia: tor
  neo-clausura\n👥 Cliente: Huracan\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_huracan_401841443\n🔄 Última actualización: 2026
- -05-03 20:07 UTC
-LAST-MODIFIED:20260503T200644Z
+ -05-04 09:07 UTC
+LAST-MODIFIED:20260504T090710Z
 LOCATION:Estadio Tomás Adolfo Ducó
 STATUS:CONFIRMED
 X-EFANXP-CLUB:huracan
@@ -45,17 +45,35 @@ X-EFANXP-SOURCE-ID:espn_huracan_401841443
 X-EFANXP-TYPE:match_home
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:⚽ Huracán vs Atlético Tucumán
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T160000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260802T180000
+DTSTAMP:20260504T090752Z
+UID:espn_huracan_401841471@efanxp.com
+DESCRIPTION:🏟 Venue: Estadio Tomás Adolfo Ducó\n🏆 Competencia: tor
+ neo-clausura\n👥 Cliente: Huracan\n🌐 País: N/D\n📡 Fuente: espn\n
+ 🆔 ID interno: espn_huracan_401841471\n🔄 Última actualización: 2026
+ -05-04 09:07 UTC
+LAST-MODIFIED:20260504T090710Z
+LOCATION:Estadio Tomás Adolfo Ducó
+STATUS:CONFIRMED
+X-EFANXP-CLUB:huracan
+X-EFANXP-SOURCE:espn
+X-EFANXP-SOURCE-ID:espn_huracan_401841471
+X-EFANXP-TYPE:match_home
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:⚽ Huracán vs Argentinos Juniors
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260428
-DTSTAMP:20260503T200725Z
+DTSTAMP:20260504T090752Z
 UID:thesportsdb_huracan_2397942@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Tomás Adolfo Ducó\n🏆 Competencia: Arg
  entinian Primera Division\n👥 Cliente: Huracan\n🌐 País: Argentina\n
  📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_huracan_2397942\n
- 🔄 Última actualización: 2026-05-03 20:07 UTC\n⚠️  Notas: Hora no 
+ 🔄 Última actualización: 2026-05-04 09:07 UTC\n⚠️  Notas: Hora no 
  confirmada
-LAST-MODIFIED:20260503T200649Z
+LAST-MODIFIED:20260504T090715Z
 LOCATION:Estadio Tomás Adolfo Ducó
 STATUS:CONFIRMED
 X-EFANXP-CLUB:huracan

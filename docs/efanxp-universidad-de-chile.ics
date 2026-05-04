@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Universidad de Chile vs Deportes Concepcion
 DTSTART;TZID=America/Santiago:20260530T173000
 DTEND;TZID=America/Santiago:20260530T193000
-DTSTAMP:20260503T200725Z
+DTSTAMP:20260504T090752Z
 UID:espn_universidad-de-chile_401850583@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Nacional Julio Martínez Prádanos\n🏆 C
  ompetencia: 2026-primera-division-de-chile\n👥 Cliente: Universidad De C
  hile\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID interno: espn_universida
- d-de-chile_401850583\n🔄 Última actualización: 2026-05-03 20:07 UTC
-LAST-MODIFIED:20260503T200654Z
+ d-de-chile_401850583\n🔄 Última actualización: 2026-05-04 09:07 UTC
+LAST-MODIFIED:20260504T090719Z
 LOCATION:Estadio Nacional Julio Martínez Prádanos
 STATUS:CONFIRMED
 X-EFANXP-CLUB:universidad-de-chile
@@ -30,18 +30,36 @@ BEGIN:VEVENT
 SUMMARY:⚽ Universidad de Chile vs O'Higgins
 DTSTART;TZID=America/Santiago:20260610T200000
 DTEND;TZID=America/Santiago:20260610T220000
-DTSTAMP:20260503T200725Z
+DTSTAMP:20260504T090752Z
 UID:espn_universidad-de-chile_401850578@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Nacional Julio Martínez Prádanos\n🏆 C
  ompetencia: 2026-primera-division-de-chile\n👥 Cliente: Universidad De C
  hile\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID interno: espn_universida
- d-de-chile_401850578\n🔄 Última actualización: 2026-05-03 20:07 UTC
-LAST-MODIFIED:20260503T200659Z
+ d-de-chile_401850578\n🔄 Última actualización: 2026-05-04 09:07 UTC
+LAST-MODIFIED:20260504T090719Z
 LOCATION:Estadio Nacional Julio Martínez Prádanos
 STATUS:CONFIRMED
 X-EFANXP-CLUB:universidad-de-chile
 X-EFANXP-SOURCE:espn
 X-EFANXP-SOURCE-ID:espn_universidad-de-chile_401850578
+X-EFANXP-TYPE:match_home
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Universidad de Chile vs Huachipato
+DTSTART;TZID=America/Santiago:20260802T140000
+DTEND;TZID=America/Santiago:20260802T160000
+DTSTAMP:20260504T090752Z
+UID:espn_universidad-de-chile_401850607@efanxp.com
+DESCRIPTION:🏟 Venue: Estadio Nacional Julio Martínez Prádanos\n🏆 C
+ ompetencia: 2026-primera-division-de-chile\n👥 Cliente: Universidad De C
+ hile\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID interno: espn_universida
+ d-de-chile_401850607\n🔄 Última actualización: 2026-05-04 09:07 UTC
+LAST-MODIFIED:20260504T090724Z
+LOCATION:Estadio Nacional Julio Martínez Prádanos
+STATUS:CONFIRMED
+X-EFANXP-CLUB:universidad-de-chile
+X-EFANXP-SOURCE:espn
+X-EFANXP-SOURCE-ID:espn_universidad-de-chile_401850607
 X-EFANXP-TYPE:match_home
 END:VEVENT
 END:VCALENDAR
