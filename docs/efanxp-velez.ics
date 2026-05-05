@@ -12,12 +12,12 @@ BEGIN:VEVENT
 SUMMARY:⚽ Vélez Sarsfield vs Newell's Old Boys
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260504T191500
 DTEND;TZID=America/Argentina/Buenos_Aires:20260504T211500
-DTSTAMP:20260505T073355Z
+DTSTAMP:20260505T171127Z
 UID:espn_velez_762903@efanxp.com
 DESCRIPTION:🏟 Venue: José Amalfitani\n🏆 Competencia: torneo-apertur
  a\n👥 Cliente: Velez\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID intern
- o: espn_velez_762903\n🔄 Última actualización: 2026-05-05 07:33 UTC
-LAST-MODIFIED:20260505T073304Z
+ o: espn_velez_762903\n🔄 Última actualización: 2026-05-05 17:11 UTC
+LAST-MODIFIED:20260505T170958Z
 LOCATION:José Amalfitani
 STATUS:CONFIRMED
 X-EFANXP-CLUB:velez
@@ -29,13 +29,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Vélez Sarsfield vs Gimnasia La Plata
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260510T213000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260510T233000
-DTSTAMP:20260505T073355Z
+DTSTAMP:20260505T171127Z
 UID:espn_velez_401871436@efanxp.com
 DESCRIPTION:🏟 Venue: José Amalfitani\n🏆 Competencia: apertura---rou
  nd-of-16\n👥 Cliente: Velez\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID
-  interno: espn_velez_401871436\n🔄 Última actualización: 2026-05-05 07
- :33 UTC
-LAST-MODIFIED:20260505T073304Z
+  interno: espn_velez_401871436\n🔄 Última actualización: 2026-05-05 17
+ :11 UTC
+LAST-MODIFIED:20260505T170958Z
 LOCATION:José Amalfitani
 STATUS:CONFIRMED
 X-EFANXP-CLUB:velez
@@ -47,12 +47,12 @@ BEGIN:VEVENT
 SUMMARY:⚽ Vélez Sarsfield vs Instituto (Córdoba)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T160000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260726T180000
-DTSTAMP:20260505T073355Z
+DTSTAMP:20260505T171127Z
 UID:espn_velez_401841436@efanxp.com
 DESCRIPTION:🏟 Venue: José Amalfitani\n🏆 Competencia: torneo-clausur
  a\n👥 Cliente: Velez\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID intern
- o: espn_velez_401841436\n🔄 Última actualización: 2026-05-05 07:33 UTC
-LAST-MODIFIED:20260505T073304Z
+ o: espn_velez_401841436\n🔄 Última actualización: 2026-05-05 17:11 UTC
+LAST-MODIFIED:20260505T170958Z
 LOCATION:José Amalfitani
 STATUS:CONFIRMED
 X-EFANXP-CLUB:velez
@@ -64,12 +64,12 @@ BEGIN:VEVENT
 SUMMARY:⚽ Vélez Sarsfield vs Independiente
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T160000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260802T180000
-DTSTAMP:20260505T073355Z
+DTSTAMP:20260505T171127Z
 UID:espn_velez_401841465@efanxp.com
 DESCRIPTION:🏟 Venue: José Amalfitani\n🏆 Competencia: torneo-clausur
  a\n👥 Cliente: Velez\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID intern
- o: espn_velez_401841465\n🔄 Última actualización: 2026-05-05 07:33 UTC
-LAST-MODIFIED:20260505T073304Z
+ o: espn_velez_401841465\n🔄 Última actualización: 2026-05-05 17:11 UTC
+LAST-MODIFIED:20260505T170958Z
 LOCATION:José Amalfitani
 STATUS:CONFIRMED
 X-EFANXP-CLUB:velez
@@ -78,21 +78,21 @@ X-EFANXP-SOURCE-ID:espn_velez_401841465
 X-EFANXP-TYPE:match_home
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Vélez Sarsfield vs Instituto
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T200000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260726T220000
-DTSTAMP:20260505T073355Z
-UID:thesportsdb_velez_2397965@efanxp.com
+SUMMARY:⚽ Vélez Sarsfield vs Gimnasia y Esgrima de La Plata
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260511T003000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260511T023000
+DTSTAMP:20260505T171127Z
+UID:thesportsdb_velez_2470115@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio José Amalfitani\n🏆 Competencia: Argent
  inian Primera Division\n👥 Cliente: Velez\n🌐 País: Argentina\n📡 F
- uente: thesportsdb\n🆔 ID interno: thesportsdb_velez_2397965\n🔄 Últi
- ma actualización: 2026-05-05 07:33 UTC
-LAST-MODIFIED:20260505T073310Z
+ uente: thesportsdb\n🆔 ID interno: thesportsdb_velez_2470115\n🔄 Últi
+ ma actualización: 2026-05-05 17:11 UTC
+LAST-MODIFIED:20260505T171028Z
 LOCATION:Estadio José Amalfitani
 STATUS:CONFIRMED
 X-EFANXP-CLUB:velez
 X-EFANXP-SOURCE:thesportsdb
-X-EFANXP-SOURCE-ID:thesportsdb_velez_2397965
+X-EFANXP-SOURCE-ID:thesportsdb_velez_2470115
 X-EFANXP-TYPE:match_home
 END:VEVENT
 END:VCALENDAR
