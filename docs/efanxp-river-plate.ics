@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ River Plate vs Atlético Tucumán
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260503T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260503T203000
-DTSTAMP:20260505T214543Z
+DTSTAMP:20260506T124617Z
 UID:espn_river-plate_762899@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Más Monumental\n🏆 Competencia: torneo-
  apertura\n👥 Cliente: River Plate\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_river-plate_762899\n🔄 Última actualización: 202
- 6-05-05 21:45 UTC
-LAST-MODIFIED:20260505T214157Z
+ 6-05-06 12:46 UTC
+LAST-MODIFIED:20260506T124522Z
 LOCATION:Estadio Más Monumental
 STATUS:CONFIRMED
 X-EFANXP-CLUB:river-plate
@@ -30,13 +30,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ River Plate vs San Lorenzo
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260510T190000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260510T210000
-DTSTAMP:20260505T214543Z
+DTSTAMP:20260506T124617Z
 UID:espn_river-plate_401871430@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Más Monumental\n🏆 Competencia: apertur
  a---round-of-16\n👥 Cliente: River Plate\n🌐 País: N/D\n📡 Fuente: 
  espn\n🆔 ID interno: espn_river-plate_401871430\n🔄 Última actualizac
- ión: 2026-05-05 21:45 UTC
-LAST-MODIFIED:20260505T214157Z
+ ión: 2026-05-06 12:46 UTC
+LAST-MODIFIED:20260506T124522Z
 LOCATION:Estadio Más Monumental
 STATUS:CONFIRMED
 X-EFANXP-CLUB:river-plate
@@ -48,13 +48,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ River Plate vs Barracas Central
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T160000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260726T180000
-DTSTAMP:20260505T214543Z
+DTSTAMP:20260506T124617Z
 UID:espn_river-plate_401841438@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Más Monumental\n🏆 Competencia: torneo-
  clausura\n👥 Cliente: River Plate\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_river-plate_401841438\n🔄 Última actualización: 
- 2026-05-05 21:45 UTC
-LAST-MODIFIED:20260505T214157Z
+ 2026-05-06 12:46 UTC
+LAST-MODIFIED:20260506T124522Z
 LOCATION:Estadio Más Monumental
 STATUS:CONFIRMED
 X-EFANXP-CLUB:river-plate
@@ -66,13 +66,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ River Plate vs Rosario Central
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T160000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260802T180000
-DTSTAMP:20260505T214543Z
+DTSTAMP:20260506T124617Z
 UID:espn_river-plate_401841476@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Más Monumental\n🏆 Competencia: torneo-
  clausura\n👥 Cliente: River Plate\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_river-plate_401841476\n🔄 Última actualización: 
- 2026-05-05 21:45 UTC
-LAST-MODIFIED:20260505T214157Z
+ 2026-05-06 12:46 UTC
+LAST-MODIFIED:20260506T124522Z
 LOCATION:Estadio Más Monumental
 STATUS:CONFIRMED
 X-EFANXP-CLUB:river-plate
@@ -84,13 +84,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ River Plate vs Red Bull Bragantino
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260520T213000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260520T233000
-DTSTAMP:20260505T214543Z
+DTSTAMP:20260506T124617Z
 UID:espn_river-plate_401865445@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Más Monumental\n🏆 Competencia: group-s
  tage\n👥 Cliente: River Plate\n🌐 País: N/D\n📡 Fuente: espn\n🆔 
  ID interno: espn_river-plate_401865445\n🔄 Última actualización: 2026-
- 05-05 21:45 UTC
-LAST-MODIFIED:20260505T214157Z
+ 05-06 12:46 UTC
+LAST-MODIFIED:20260506T124522Z
 LOCATION:Estadio Más Monumental
 STATUS:CONFIRMED
 X-EFANXP-CLUB:river-plate
@@ -102,13 +102,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ River Plate vs Blooming
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260527T213000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260527T233000
-DTSTAMP:20260505T214543Z
+DTSTAMP:20260506T124617Z
 UID:espn_river-plate_401865462@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Más Monumental\n🏆 Competencia: group-s
  tage\n👥 Cliente: River Plate\n🌐 País: N/D\n📡 Fuente: espn\n🆔 
  ID interno: espn_river-plate_401865462\n🔄 Última actualización: 2026-
- 05-05 21:45 UTC
-LAST-MODIFIED:20260505T214253Z
+ 05-06 12:46 UTC
+LAST-MODIFIED:20260506T124527Z
 LOCATION:Estadio Más Monumental
 STATUS:CONFIRMED
 X-EFANXP-CLUB:river-plate
