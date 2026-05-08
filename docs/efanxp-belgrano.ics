@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Belgrano (Córdoba) vs Sarmiento (Junín)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260503T160000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260503T180000
-DTSTAMP:20260508T165442Z
+DTSTAMP:20260508T213743Z
 UID:espn_belgrano_762906@efanxp.com
 DESCRIPTION:🏟 Venue: El Gigante de Alberdi\n🏆 Competencia: torneo-ap
  ertura\n👥 Cliente: Belgrano\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
- D interno: espn_belgrano_762906\n🔄 Última actualización: 2026-05-08 1
- 6:54 UTC
-LAST-MODIFIED:20260508T165428Z
+ D interno: espn_belgrano_762906\n🔄 Última actualización: 2026-05-08 2
+ 1:37 UTC
+LAST-MODIFIED:20260508T213729Z
 LOCATION:El Gigante de Alberdi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:belgrano
@@ -30,13 +30,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Belgrano (Córdoba) vs Rosario Central
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T160000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260726T180000
-DTSTAMP:20260508T165442Z
+DTSTAMP:20260508T213743Z
 UID:espn_belgrano_401841435@efanxp.com
 DESCRIPTION:🏟 Venue: El Gigante de Alberdi\n🏆 Competencia: torneo-cl
  ausura\n👥 Cliente: Belgrano\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
  D interno: espn_belgrano_401841435\n🔄 Última actualización: 2026-05-0
- 8 16:54 UTC
-LAST-MODIFIED:20260508T165428Z
+ 8 21:37 UTC
+LAST-MODIFIED:20260508T213729Z
 LOCATION:El Gigante de Alberdi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:belgrano
@@ -48,13 +48,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Belgrano (Córdoba) vs Argentinos Juniors
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T160000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260802T180000
-DTSTAMP:20260508T165442Z
+DTSTAMP:20260508T213743Z
 UID:espn_belgrano_401841469@efanxp.com
 DESCRIPTION:🏟 Venue: El Gigante de Alberdi\n🏆 Competencia: torneo-cl
  ausura\n👥 Cliente: Belgrano\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
  D interno: espn_belgrano_401841469\n🔄 Última actualización: 2026-05-0
- 8 16:54 UTC
-LAST-MODIFIED:20260508T165434Z
+ 8 21:37 UTC
+LAST-MODIFIED:20260508T213734Z
 LOCATION:El Gigante de Alberdi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:belgrano
