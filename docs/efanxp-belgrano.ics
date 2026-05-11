@@ -9,34 +9,34 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Belgrano (Córdoba) vs Sarmiento (Junín)
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260503T160000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260503T180000
-DTSTAMP:20260510T201344Z
-UID:espn_belgrano_762906@efanxp.com
-DESCRIPTION:🏟 Venue: El Gigante de Alberdi\n🏆 Competencia: torneo-ap
- ertura\n👥 Cliente: Belgrano\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
- D interno: espn_belgrano_762906\n🔄 Última actualización: 2026-05-10 2
- 0:13 UTC
-LAST-MODIFIED:20260510T201331Z
+SUMMARY:⚽ Belgrano (Córdoba) vs Unión (Santa Fe)
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260512T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260512T210000
+DTSTAMP:20260511T114928Z
+UID:espn_belgrano_401872290@efanxp.com
+DESCRIPTION:🏟 Venue: El Gigante de Alberdi\n🏆 Competencia: apertura-
+ --quarterfinals\n👥 Cliente: Belgrano\n🌐 País: N/D\n📡 Fuente: esp
+ n\n🆔 ID interno: espn_belgrano_401872290\n🔄 Última actualización: 
+ 2026-05-11 11:49 UTC
+LAST-MODIFIED:20260511T114914Z
 LOCATION:El Gigante de Alberdi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:belgrano
 X-EFANXP-SOURCE:espn
-X-EFANXP-SOURCE-ID:espn_belgrano_762906
+X-EFANXP-SOURCE-ID:espn_belgrano_401872290
 X-EFANXP-TYPE:match_home
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Belgrano (Córdoba) vs Rosario Central
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T160000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260726T180000
-DTSTAMP:20260510T201344Z
+DTSTAMP:20260511T114928Z
 UID:espn_belgrano_401841435@efanxp.com
 DESCRIPTION:🏟 Venue: El Gigante de Alberdi\n🏆 Competencia: torneo-cl
  ausura\n👥 Cliente: Belgrano\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
  D interno: espn_belgrano_401841435\n🔄 Última actualización: 2026-05-1
- 0 20:13 UTC
-LAST-MODIFIED:20260510T201331Z
+ 1 11:49 UTC
+LAST-MODIFIED:20260511T114914Z
 LOCATION:El Gigante de Alberdi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:belgrano
@@ -48,36 +48,18 @@ BEGIN:VEVENT
 SUMMARY:⚽ Belgrano (Córdoba) vs Argentinos Juniors
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T160000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260802T180000
-DTSTAMP:20260510T201344Z
+DTSTAMP:20260511T114928Z
 UID:espn_belgrano_401841469@efanxp.com
 DESCRIPTION:🏟 Venue: El Gigante de Alberdi\n🏆 Competencia: torneo-cl
  ausura\n👥 Cliente: Belgrano\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
  D interno: espn_belgrano_401841469\n🔄 Última actualización: 2026-05-1
- 0 20:13 UTC
-LAST-MODIFIED:20260510T201331Z
+ 1 11:49 UTC
+LAST-MODIFIED:20260511T114920Z
 LOCATION:El Gigante de Alberdi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:belgrano
 X-EFANXP-SOURCE:espn
 X-EFANXP-SOURCE-ID:espn_belgrano_401841469
-X-EFANXP-TYPE:match_home
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Belgrano vs Sarmiento
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260503T190000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260503T210000
-DTSTAMP:20260510T201344Z
-UID:thesportsdb_belgrano_2397833@efanxp.com
-DESCRIPTION:🏟 Venue: Estadio Julio César Villagra\n🏆 Competencia: A
- rgentinian Primera Division\n👥 Cliente: Belgrano\n🌐 País: Argentina
- \n📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_belgrano_2397833\
- n🔄 Última actualización: 2026-05-10 20:13 UTC
-LAST-MODIFIED:20260510T201336Z
-LOCATION:Estadio Julio César Villagra
-STATUS:CONFIRMED
-X-EFANXP-CLUB:belgrano
-X-EFANXP-SOURCE:thesportsdb
-X-EFANXP-SOURCE-ID:thesportsdb_belgrano_2397833
 X-EFANXP-TYPE:match_home
 END:VEVENT
 END:VCALENDAR
