@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Belgrano (Córdoba) vs Unión (Santa Fe)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260512T190000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260512T210000
-DTSTAMP:20260516T073258Z
+DTSTAMP:20260516T153954Z
 UID:espn_belgrano_401872290@efanxp.com
 DESCRIPTION:🏟 Venue: El Gigante de Alberdi\n🏆 Competencia: apertura-
  --quarterfinals\n👥 Cliente: Belgrano\n🌐 País: N/D\n📡 Fuente: esp
  n\n🆔 ID interno: espn_belgrano_401872290\n🔄 Última actualización: 
- 2026-05-16 07:32 UTC
-LAST-MODIFIED:20260516T073244Z
+ 2026-05-16 15:39 UTC
+LAST-MODIFIED:20260516T153937Z
 LOCATION:El Gigante de Alberdi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:belgrano
@@ -30,13 +30,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Belgrano (Córdoba) vs Rosario Central
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T160000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260726T180000
-DTSTAMP:20260516T073258Z
+DTSTAMP:20260516T153954Z
 UID:espn_belgrano_401841435@efanxp.com
 DESCRIPTION:🏟 Venue: El Gigante de Alberdi\n🏆 Competencia: torneo-cl
  ausura\n👥 Cliente: Belgrano\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
  D interno: espn_belgrano_401841435\n🔄 Última actualización: 2026-05-1
- 6 07:32 UTC
-LAST-MODIFIED:20260516T073244Z
+ 6 15:39 UTC
+LAST-MODIFIED:20260516T153937Z
 LOCATION:El Gigante de Alberdi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:belgrano
@@ -48,18 +48,36 @@ BEGIN:VEVENT
 SUMMARY:⚽ Belgrano (Córdoba) vs Argentinos Juniors
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T160000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260802T180000
-DTSTAMP:20260516T073258Z
+DTSTAMP:20260516T153954Z
 UID:espn_belgrano_401841469@efanxp.com
 DESCRIPTION:🏟 Venue: El Gigante de Alberdi\n🏆 Competencia: torneo-cl
  ausura\n👥 Cliente: Belgrano\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
  D interno: espn_belgrano_401841469\n🔄 Última actualización: 2026-05-1
- 6 07:32 UTC
-LAST-MODIFIED:20260516T073250Z
+ 6 15:39 UTC
+LAST-MODIFIED:20260516T153937Z
 LOCATION:El Gigante de Alberdi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:belgrano
 X-EFANXP-SOURCE:espn
 X-EFANXP-SOURCE-ID:espn_belgrano_401841469
+X-EFANXP-TYPE:match_home
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Belgrano vs Unión
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260512T220000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260513T000000
+DTSTAMP:20260516T153954Z
+UID:thesportsdb_belgrano_2472432@efanxp.com
+DESCRIPTION:🏟 Venue: Estadio Julio César Villagra\n🏆 Competencia: A
+ rgentinian Primera Division\n👥 Cliente: Belgrano\n🌐 País: Argentina
+ \n📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_belgrano_2472432\
+ n🔄 Última actualización: 2026-05-16 15:39 UTC
+LAST-MODIFIED:20260516T153943Z
+LOCATION:Estadio Julio César Villagra
+STATUS:CONFIRMED
+X-EFANXP-CLUB:belgrano
+X-EFANXP-SOURCE:thesportsdb
+X-EFANXP-SOURCE-ID:thesportsdb_belgrano_2472432
 X-EFANXP-TYPE:match_home
 END:VEVENT
 END:VCALENDAR
