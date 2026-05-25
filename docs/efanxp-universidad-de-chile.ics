@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Universidad de Chile vs Deportes Concepcion
 DTSTART;TZID=America/Santiago:20260530T173000
 DTEND;TZID=America/Santiago:20260530T193000
-DTSTAMP:20260524T191440Z
+DTSTAMP:20260525T033340Z
 UID:espn_universidad-de-chile_401850583@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Nacional Julio Martínez Prádanos\n🏆 C
  ompetencia: 2026-primera-division-de-chile\n👥 Cliente: Universidad De C
  hile\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID interno: espn_universida
- d-de-chile_401850583\n🔄 Última actualización: 2026-05-24 19:14 UTC
-LAST-MODIFIED:20260524T191410Z
+ d-de-chile_401850583\n🔄 Última actualización: 2026-05-25 03:33 UTC
+LAST-MODIFIED:20260525T033310Z
 LOCATION:Estadio Nacional Julio Martínez Prádanos
 STATUS:CONFIRMED
 X-EFANXP-CLUB:universidad-de-chile
@@ -30,13 +30,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Universidad de Chile vs O'Higgins
 DTSTART;TZID=America/Santiago:20260618T200000
 DTEND;TZID=America/Santiago:20260618T220000
-DTSTAMP:20260524T191440Z
+DTSTAMP:20260525T033340Z
 UID:espn_universidad-de-chile_401850578@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Nacional Julio Martínez Prádanos\n🏆 C
  ompetencia: 2026-primera-division-de-chile\n👥 Cliente: Universidad De C
  hile\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID interno: espn_universida
- d-de-chile_401850578\n🔄 Última actualización: 2026-05-24 19:14 UTC
-LAST-MODIFIED:20260524T191410Z
+ d-de-chile_401850578\n🔄 Última actualización: 2026-05-25 03:33 UTC
+LAST-MODIFIED:20260525T033310Z
 LOCATION:Estadio Nacional Julio Martínez Prádanos
 STATUS:CONFIRMED
 X-EFANXP-CLUB:universidad-de-chile
@@ -48,13 +48,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Universidad de Chile vs Huachipato
 DTSTART;TZID=America/Santiago:20260802T140000
 DTEND;TZID=America/Santiago:20260802T160000
-DTSTAMP:20260524T191440Z
+DTSTAMP:20260525T033340Z
 UID:espn_universidad-de-chile_401850607@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Nacional Julio Martínez Prádanos\n🏆 C
  ompetencia: 2026-primera-division-de-chile\n👥 Cliente: Universidad De C
  hile\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID interno: espn_universida
- d-de-chile_401850607\n🔄 Última actualización: 2026-05-24 19:14 UTC
-LAST-MODIFIED:20260524T191410Z
+ d-de-chile_401850607\n🔄 Última actualización: 2026-05-25 03:33 UTC
+LAST-MODIFIED:20260525T033310Z
 LOCATION:Estadio Nacional Julio Martínez Prádanos
 STATUS:CONFIRMED
 X-EFANXP-CLUB:universidad-de-chile
@@ -66,18 +66,36 @@ BEGIN:VEVENT
 SUMMARY:⚽ Universidad de Chile vs Palestino
 DTSTART;TZID=America/Santiago:20260809T140000
 DTEND;TZID=America/Santiago:20260809T160000
-DTSTAMP:20260524T191440Z
+DTSTAMP:20260525T033340Z
 UID:espn_universidad-de-chile_401850613@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Nacional Julio Martínez Prádanos\n🏆 C
  ompetencia: 2026-primera-division-de-chile\n👥 Cliente: Universidad De C
  hile\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID interno: espn_universida
- d-de-chile_401850613\n🔄 Última actualización: 2026-05-24 19:14 UTC
-LAST-MODIFIED:20260524T191414Z
+ d-de-chile_401850613\n🔄 Última actualización: 2026-05-25 03:33 UTC
+LAST-MODIFIED:20260525T033310Z
 LOCATION:Estadio Nacional Julio Martínez Prádanos
 STATUS:CONFIRMED
 X-EFANXP-CLUB:universidad-de-chile
 X-EFANXP-SOURCE:espn
 X-EFANXP-SOURCE-ID:espn_universidad-de-chile_401850613
+X-EFANXP-TYPE:match_home
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Universidad de Chile vs Colo Colo
+DTSTART;TZID=America/Santiago:20260823T140000
+DTEND;TZID=America/Santiago:20260823T160000
+DTSTAMP:20260525T033340Z
+UID:espn_universidad-de-chile_401850630@efanxp.com
+DESCRIPTION:🏟 Venue: Estadio Nacional Julio Martínez Prádanos\n🏆 C
+ ompetencia: 2026-primera-division-de-chile\n👥 Cliente: Universidad De C
+ hile\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID interno: espn_universida
+ d-de-chile_401850630\n🔄 Última actualización: 2026-05-25 03:33 UTC
+LAST-MODIFIED:20260525T033315Z
+LOCATION:Estadio Nacional Julio Martínez Prádanos
+STATUS:CONFIRMED
+X-EFANXP-CLUB:universidad-de-chile
+X-EFANXP-SOURCE:espn
+X-EFANXP-SOURCE-ID:espn_universidad-de-chile_401850630
 X-EFANXP-TYPE:match_home
 END:VEVENT
 END:VCALENDAR
