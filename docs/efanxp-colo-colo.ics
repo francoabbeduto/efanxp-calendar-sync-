@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Colo Colo vs Cobresal
 DTSTART;TZID=America/Santiago:20260613T173000
 DTEND;TZID=America/Santiago:20260613T193000
-DTSTAMP:20260527T094135Z
+DTSTAMP:20260527T153524Z
 UID:espn_colo-colo_401850589@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Monumental David Arellano\n🏆 Competenci
  a: 2026-primera-division-de-chile\n👥 Cliente: Colo Colo\n🌐 País: N/
  D\n📡 Fuente: espn\n🆔 ID interno: espn_colo-colo_401850589\n🔄 Últ
- ima actualización: 2026-05-27 09:41 UTC
-LAST-MODIFIED:20260527T094107Z
+ ima actualización: 2026-05-27 15:35 UTC
+LAST-MODIFIED:20260527T153458Z
 LOCATION:Estadio Monumental David Arellano
 STATUS:CONFIRMED
 X-EFANXP-CLUB:colo-colo
@@ -28,15 +28,16 @@ X-EFANXP-TYPE:match_home
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Colo Colo vs Deportes Limache
-DTSTART;TZID=America/Santiago:20260726T140000
-DTEND;TZID=America/Santiago:20260726T160000
-DTSTAMP:20260527T094135Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260726
+DTSTAMP:20260527T153524Z
 UID:espn_colo-colo_401850597@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Monumental David Arellano\n🏆 Competenci
  a: 2026-primera-division-de-chile\n👥 Cliente: Colo Colo\n🌐 País: N/
  D\n📡 Fuente: espn\n🆔 ID interno: espn_colo-colo_401850597\n🔄 Últ
- ima actualización: 2026-05-27 09:41 UTC
-LAST-MODIFIED:20260527T094107Z
+ ima actualización: 2026-05-27 15:35 UTC\n⚠️  Notas: Hora no confirmad
+ a
+LAST-MODIFIED:20260527T153458Z
 LOCATION:Estadio Monumental David Arellano
 STATUS:CONFIRMED
 X-EFANXP-CLUB:colo-colo
@@ -46,15 +47,16 @@ X-EFANXP-TYPE:match_home
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Colo Colo vs O'Higgins
-DTSTART;TZID=America/Santiago:20260816T140000
-DTEND;TZID=America/Santiago:20260816T160000
-DTSTAMP:20260527T094135Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260816
+DTSTAMP:20260527T153524Z
 UID:espn_colo-colo_401850621@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Monumental David Arellano\n🏆 Competenci
  a: 2026-primera-division-de-chile\n👥 Cliente: Colo Colo\n🌐 País: N/
  D\n📡 Fuente: espn\n🆔 ID interno: espn_colo-colo_401850621\n🔄 Últ
- ima actualización: 2026-05-27 09:41 UTC
-LAST-MODIFIED:20260527T094112Z
+ ima actualización: 2026-05-27 15:35 UTC\n⚠️  Notas: Hora no confirmad
+ a
+LAST-MODIFIED:20260527T153503Z
 LOCATION:Estadio Monumental David Arellano
 STATUS:CONFIRMED
 X-EFANXP-CLUB:colo-colo
