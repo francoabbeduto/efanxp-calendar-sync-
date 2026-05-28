@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Huracán vs Banfield
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T160000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260726T180000
-DTSTAMP:20260528T095826Z
+DTSTAMP:20260528T154525Z
 UID:espn_huracan_401841443@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Tomás Adolfo Ducó\n🏆 Competencia: tor
  neo-clausura\n👥 Cliente: Huracan\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_huracan_401841443\n🔄 Última actualización: 2026
- -05-28 09:58 UTC
-LAST-MODIFIED:20260528T095742Z
+ -05-28 15:45 UTC
+LAST-MODIFIED:20260528T154442Z
 LOCATION:Estadio Tomás Adolfo Ducó
 STATUS:CONFIRMED
 X-EFANXP-CLUB:huracan
@@ -30,13 +30,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Huracán vs Atlético Tucumán
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T160000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260802T180000
-DTSTAMP:20260528T095826Z
+DTSTAMP:20260528T154525Z
 UID:espn_huracan_401841471@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Tomás Adolfo Ducó\n🏆 Competencia: tor
  neo-clausura\n👥 Cliente: Huracan\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_huracan_401841471\n🔄 Última actualización: 2026
- -05-28 09:58 UTC
-LAST-MODIFIED:20260528T095742Z
+ -05-28 15:45 UTC
+LAST-MODIFIED:20260528T154442Z
 LOCATION:Estadio Tomás Adolfo Ducó
 STATUS:CONFIRMED
 X-EFANXP-CLUB:huracan
@@ -48,13 +48,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Huracán vs Deportivo Riestra
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260823T160000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260823T180000
-DTSTAMP:20260528T095826Z
+DTSTAMP:20260528T154525Z
 UID:espn_huracan_401841513@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Tomás Adolfo Ducó\n🏆 Competencia: tor
  neo-clausura\n👥 Cliente: Huracan\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_huracan_401841513\n🔄 Última actualización: 2026
- -05-28 09:58 UTC
-LAST-MODIFIED:20260528T095748Z
+ -05-28 15:45 UTC
+LAST-MODIFIED:20260528T154447Z
 LOCATION:Estadio Tomás Adolfo Ducó
 STATUS:CONFIRMED
 X-EFANXP-CLUB:huracan
