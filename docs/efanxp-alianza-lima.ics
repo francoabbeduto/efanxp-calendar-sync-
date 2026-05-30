@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alianza Lima vs Los Chankas
 DTSTART;TZID=America/Lima:20260523T203000
 DTEND;TZID=America/Lima:20260523T223000
-DTSTAMP:20260529T202235Z
+DTSTAMP:20260530T024926Z
 UID:espn_alianza-lima_401857506@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Alejandro Villanueva\n🏆 Competencia: ap
  ertura\n👥 Cliente: Alianza Lima\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_alianza-lima_401857506\n🔄 Última actualización:
-  2026-05-29 20:22 UTC
-LAST-MODIFIED:20260529T202221Z
+  2026-05-30 02:49 UTC
+LAST-MODIFIED:20260530T024911Z
 LOCATION:Estadio Alejandro Villanueva
 STATUS:CONFIRMED
 X-EFANXP-CLUB:alianza-lima
