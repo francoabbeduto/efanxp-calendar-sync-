@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Colo Colo vs Cobresal
 DTSTART;TZID=America/Santiago:20260613T173000
 DTEND;TZID=America/Santiago:20260613T193000
-DTSTAMP:20260531T084308Z
+DTSTAMP:20260531T134056Z
 UID:espn_colo-colo_401850589@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Monumental David Arellano\n🏆 Competenci
  a: 2026-primera-division-de-chile\n👥 Cliente: Colo Colo\n🌐 País: N/
  D\n📡 Fuente: espn\n🆔 ID interno: espn_colo-colo_401850589\n🔄 Últ
- ima actualización: 2026-05-31 08:43 UTC
-LAST-MODIFIED:20260531T084239Z
+ ima actualización: 2026-05-31 13:40 UTC
+LAST-MODIFIED:20260531T134029Z
 LOCATION:Estadio Monumental David Arellano
 STATUS:CONFIRMED
 X-EFANXP-CLUB:colo-colo
@@ -30,14 +30,14 @@ BEGIN:VEVENT
 SUMMARY:⚽ Colo Colo vs Deportes Limache
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260726
-DTSTAMP:20260531T084308Z
+DTSTAMP:20260531T134056Z
 UID:espn_colo-colo_401850597@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Monumental David Arellano\n🏆 Competenci
  a: 2026-primera-division-de-chile\n👥 Cliente: Colo Colo\n🌐 País: N/
  D\n📡 Fuente: espn\n🆔 ID interno: espn_colo-colo_401850597\n🔄 Últ
- ima actualización: 2026-05-31 08:43 UTC\n⚠️  Notas: Hora no confirmad
+ ima actualización: 2026-05-31 13:40 UTC\n⚠️  Notas: Hora no confirmad
  a
-LAST-MODIFIED:20260531T084239Z
+LAST-MODIFIED:20260531T134029Z
 LOCATION:Estadio Monumental David Arellano
 STATUS:CONFIRMED
 X-EFANXP-CLUB:colo-colo
@@ -49,14 +49,14 @@ BEGIN:VEVENT
 SUMMARY:⚽ Colo Colo vs O'Higgins
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260531T084308Z
+DTSTAMP:20260531T134056Z
 UID:espn_colo-colo_401850621@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Monumental David Arellano\n🏆 Competenci
  a: 2026-primera-division-de-chile\n👥 Cliente: Colo Colo\n🌐 País: N/
  D\n📡 Fuente: espn\n🆔 ID interno: espn_colo-colo_401850621\n🔄 Últ
- ima actualización: 2026-05-31 08:43 UTC\n⚠️  Notas: Hora no confirmad
+ ima actualización: 2026-05-31 13:40 UTC\n⚠️  Notas: Hora no confirmad
  a
-LAST-MODIFIED:20260531T084244Z
+LAST-MODIFIED:20260531T134043Z
 LOCATION:Estadio Monumental David Arellano
 STATUS:CONFIRMED
 X-EFANXP-CLUB:colo-colo
