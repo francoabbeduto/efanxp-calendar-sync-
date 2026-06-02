@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Estudiantes de La Plata vs Independiente
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T010000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260726T030000
-DTSTAMP:20260602T101934Z
+DTSTAMP:20260602T161935Z
 UID:espn_estudiantes_401841445@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Jorge Luis Hirschi\n🏆 Competencia: torn
  eo-clausura\n👥 Cliente: Estudiantes\n🌐 País: N/D\n📡 Fuente: espn
  \n🆔 ID interno: espn_estudiantes_401841445\n🔄 Última actualización
- : 2026-06-02 10:19 UTC
-LAST-MODIFIED:20260602T101837Z
+ : 2026-06-02 16:19 UTC
+LAST-MODIFIED:20260602T161842Z
 LOCATION:Estadio Jorge Luis Hirschi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:estudiantes
@@ -30,13 +30,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Estudiantes de La Plata vs Defensa y Justicia
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T010000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260802T030000
-DTSTAMP:20260602T101934Z
+DTSTAMP:20260602T161935Z
 UID:espn_estudiantes_401841478@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Jorge Luis Hirschi\n🏆 Competencia: torn
  eo-clausura\n👥 Cliente: Estudiantes\n🌐 País: N/D\n📡 Fuente: espn
  \n🆔 ID interno: espn_estudiantes_401841478\n🔄 Última actualización
- : 2026-06-02 10:19 UTC
-LAST-MODIFIED:20260602T101837Z
+ : 2026-06-02 16:19 UTC
+LAST-MODIFIED:20260602T161842Z
 LOCATION:Estadio Jorge Luis Hirschi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:estudiantes
@@ -48,13 +48,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Estudiantes de La Plata vs Gimnasia La Plata
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260816T010000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260816T030000
-DTSTAMP:20260602T101934Z
+DTSTAMP:20260602T161935Z
 UID:espn_estudiantes_401841499@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Jorge Luis Hirschi\n🏆 Competencia: torn
  eo-clausura\n👥 Cliente: Estudiantes\n🌐 País: N/D\n📡 Fuente: espn
  \n🆔 ID interno: espn_estudiantes_401841499\n🔄 Última actualización
- : 2026-06-02 10:19 UTC
-LAST-MODIFIED:20260602T101837Z
+ : 2026-06-02 16:19 UTC
+LAST-MODIFIED:20260602T161842Z
 LOCATION:Estadio Jorge Luis Hirschi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:estudiantes
@@ -66,13 +66,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Estudiantes de La Plata vs Newell's Old Boys
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260830T010000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260830T030000
-DTSTAMP:20260602T101934Z
+DTSTAMP:20260602T161935Z
 UID:espn_estudiantes_401841530@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Jorge Luis Hirschi\n🏆 Competencia: torn
  eo-clausura\n👥 Cliente: Estudiantes\n🌐 País: N/D\n📡 Fuente: espn
  \n🆔 ID interno: espn_estudiantes_401841530\n🔄 Última actualización
- : 2026-06-02 10:19 UTC
-LAST-MODIFIED:20260602T101837Z
+ : 2026-06-02 16:19 UTC
+LAST-MODIFIED:20260602T161842Z
 LOCATION:Estadio Jorge Luis Hirschi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:estudiantes
@@ -84,13 +84,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Estudiantes de La Plata vs Independiente Medellín
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260526T213000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260526T233000
-DTSTAMP:20260602T101934Z
+DTSTAMP:20260602T161935Z
 UID:espn_estudiantes_401865554@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Jorge Luis Hirschi\n🏆 Competencia: grou
  p-stage\n👥 Cliente: Estudiantes\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_estudiantes_401865554\n🔄 Última actualización: 
- 2026-06-02 10:19 UTC
-LAST-MODIFIED:20260602T101837Z
+ 2026-06-02 16:19 UTC
+LAST-MODIFIED:20260602T161842Z
 LOCATION:Estadio Jorge Luis Hirschi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:estudiantes
@@ -102,13 +102,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Estudiantes de La Plata vs Rosario Central
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260531T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260531T203000
-DTSTAMP:20260602T101934Z
+DTSTAMP:20260602T161935Z
 UID:thesportsdb_estudiantes_2462446@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Jorge Luis Hirschi\n🏆 Competencia: Copa
   Argentina\n👥 Cliente: Estudiantes\n🌐 País: Argentina\n📡 Fuente:
   thesportsdb\n🆔 ID interno: thesportsdb_estudiantes_2462446\n🔄 Últi
- ma actualización: 2026-06-02 10:19 UTC
-LAST-MODIFIED:20260602T101842Z
+ ma actualización: 2026-06-02 16:19 UTC
+LAST-MODIFIED:20260602T161847Z
 LOCATION:Estadio Jorge Luis Hirschi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:estudiantes

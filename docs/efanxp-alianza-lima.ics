@@ -9,21 +9,19 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Alianza Lima vs Los Chankas
-DTSTART;TZID=America/Lima:20260524T013000
-DTEND;TZID=America/Lima:20260524T033000
-DTSTAMP:20260531T084308Z
-UID:thesportsdb_alianza-lima_2422521@efanxp.com
-DESCRIPTION:🏟 Venue: Estadio Alejandro Villanueva\n🏆 Competencia: Pe
- ruvian Primera Division\n👥 Cliente: Alianza Lima\n🌐 País: Peru\n
- 📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_alianza-lima_242252
- 1\n🔄 Última actualización: 2026-05-31 08:43 UTC
-LAST-MODIFIED:20260531T084253Z
-LOCATION:Estadio Alejandro Villanueva
+SUMMARY:⚽ Alianza Lima vs Sport Huancayo
+DTSTART;TZID=America/Lima:20260718T230000
+DTEND;TZID=America/Lima:20260719T010000
+DTSTAMP:20260602T161935Z
+UID:espn_alianza-lima_401874357@efanxp.com
+DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: apertura\n👥 Cliente: Ali
+ anza Lima\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID interno: espn_alian
+ za-lima_401874357\n🔄 Última actualización: 2026-06-02 16:19 UTC
+LAST-MODIFIED:20260602T161921Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:alianza-lima
-X-EFANXP-SOURCE:thesportsdb
-X-EFANXP-SOURCE-ID:thesportsdb_alianza-lima_2422521
+X-EFANXP-SOURCE:espn
+X-EFANXP-SOURCE-ID:espn_alianza-lima_401874357
 X-EFANXP-TYPE:match_home
 END:VEVENT
 END:VCALENDAR
