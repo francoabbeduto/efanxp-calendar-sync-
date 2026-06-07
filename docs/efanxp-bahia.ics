@@ -9,34 +9,16 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Bahia vs Botafogo
-DTSTART;TZID=America/Sao_Paulo:20260530T173000
-DTEND;TZID=America/Sao_Paulo:20260530T193000
-DTSTAMP:20260606T191858Z
-UID:espn_bahia_401841146@efanxp.com
-DESCRIPTION:🏟 Venue: Arena Fonte Nova\n🏆 Competencia: 2026-brasileir
- o-serie-a\n👥 Cliente: Bahia\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
- D interno: espn_bahia_401841146\n🔄 Última actualización: 2026-06-06 1
- 9:18 UTC
-LAST-MODIFIED:20260606T191850Z
-LOCATION:Arena Fonte Nova
-STATUS:CONFIRMED
-X-EFANXP-CLUB:bahia
-X-EFANXP-SOURCE:espn
-X-EFANXP-SOURCE-ID:espn_bahia_401841146
-X-EFANXP-TYPE:match_home
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⚽ Bahia vs Corinthians
 DTSTART;TZID=America/Sao_Paulo:20260725T010000
 DTEND;TZID=America/Sao_Paulo:20260725T030000
-DTSTAMP:20260606T191858Z
+DTSTAMP:20260607T033627Z
 UID:espn_bahia_401841159@efanxp.com
 DESCRIPTION:🏟 Venue: Arena Fonte Nova\n🏆 Competencia: 2026-brasileir
  o-serie-a\n👥 Cliente: Bahia\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
- D interno: espn_bahia_401841159\n🔄 Última actualización: 2026-06-06 1
- 9:18 UTC
-LAST-MODIFIED:20260606T191850Z
+ D interno: espn_bahia_401841159\n🔄 Última actualización: 2026-06-07 0
+ 3:36 UTC
+LAST-MODIFIED:20260607T033618Z
 LOCATION:Arena Fonte Nova
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
@@ -48,13 +30,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bahia vs Vasco da Gama
 DTSTART;TZID=America/Sao_Paulo:20260808T010000
 DTEND;TZID=America/Sao_Paulo:20260808T030000
-DTSTAMP:20260606T191858Z
+DTSTAMP:20260607T033627Z
 UID:espn_bahia_401841186@efanxp.com
 DESCRIPTION:🏟 Venue: Arena Fonte Nova\n🏆 Competencia: 2026-brasileir
  o-serie-a\n👥 Cliente: Bahia\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
- D interno: espn_bahia_401841186\n🔄 Última actualización: 2026-06-06 1
- 9:18 UTC
-LAST-MODIFIED:20260606T191850Z
+ D interno: espn_bahia_401841186\n🔄 Última actualización: 2026-06-07 0
+ 3:36 UTC
+LAST-MODIFIED:20260607T033618Z
 LOCATION:Arena Fonte Nova
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
@@ -66,13 +48,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bahia vs Internacional
 DTSTART;TZID=America/Sao_Paulo:20260829T010000
 DTEND;TZID=America/Sao_Paulo:20260829T030000
-DTSTAMP:20260606T191858Z
+DTSTAMP:20260607T033627Z
 UID:espn_bahia_401841215@efanxp.com
 DESCRIPTION:🏟 Venue: Arena Fonte Nova\n🏆 Competencia: 2026-brasileir
  o-serie-a\n👥 Cliente: Bahia\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
- D interno: espn_bahia_401841215\n🔄 Última actualización: 2026-06-06 1
- 9:18 UTC
-LAST-MODIFIED:20260606T191850Z
+ D interno: espn_bahia_401841215\n🔄 Última actualización: 2026-06-07 0
+ 3:36 UTC
+LAST-MODIFIED:20260607T033618Z
 LOCATION:Arena Fonte Nova
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
@@ -84,13 +66,13 @@ BEGIN:VEVENT
 SUMMARY:📅 Kib Abelha - Eu tive um sonho
 DTSTART;TZID=America/Bahia:20260711T210000
 DTEND;TZID=America/Bahia:20260711T230000
-DTSTAMP:20260606T191858Z
+DTSTAMP:20260607T033627Z
 UID:venue_scraper_bahia_scraped_6_kib-abelha-eu-tive-um-sonho@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
  r_bahia_scraped_6_kib-abelha-eu-tive-um-sonho\n🔄 Última actualización
- : 2026-06-06 19:18 UTC
-LAST-MODIFIED:20260606T191850Z
+ : 2026-06-07 03:36 UTC
+LAST-MODIFIED:20260607T033618Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
@@ -102,13 +84,13 @@ BEGIN:VEVENT
 SUMMARY:📅 Luan - Registro Histórico
 DTSTART;TZID=America/Bahia:20260822T170000
 DTEND;TZID=America/Bahia:20260822T190000
-DTSTAMP:20260606T191858Z
+DTSTAMP:20260607T033627Z
 UID:venue_scraper_bahia_scraped_7_luan-registro-hist-rico@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
  r_bahia_scraped_7_luan-registro-hist-rico\n🔄 Última actualización: 20
- 26-06-06 19:18 UTC
-LAST-MODIFIED:20260606T191850Z
+ 26-06-07 03:36 UTC
+LAST-MODIFIED:20260607T033618Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
@@ -119,13 +101,13 @@ BEGIN:VEVENT
 SUMMARY:📅 Maroon 5
 DTSTART;TZID=America/Bahia:20260910T160000
 DTEND;TZID=America/Bahia:20260910T180000
-DTSTAMP:20260606T191858Z
+DTSTAMP:20260607T033627Z
 UID:venue_scraper_bahia_scraped_8_maroon-5@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
- r_bahia_scraped_8_maroon-5\n🔄 Última actualización: 2026-06-06 19:18 
+ r_bahia_scraped_8_maroon-5\n🔄 Última actualización: 2026-06-07 03:36 
  UTC
-LAST-MODIFIED:20260606T191850Z
+LAST-MODIFIED:20260607T033618Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
@@ -136,13 +118,13 @@ BEGIN:VEVENT
 SUMMARY:📅 Xande de Pilares e Revelação
 DTSTART;TZID=America/Bahia:20260926T200000
 DTEND;TZID=America/Bahia:20260926T220000
-DTSTAMP:20260606T191858Z
+DTSTAMP:20260607T033627Z
 UID:venue_scraper_bahia_scraped_9_xande-de-pilares-e-revela-o@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
  r_bahia_scraped_9_xande-de-pilares-e-revela-o\n🔄 Última actualización
- : 2026-06-06 19:18 UTC
-LAST-MODIFIED:20260606T191850Z
+ : 2026-06-07 03:36 UTC
+LAST-MODIFIED:20260607T033618Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
@@ -154,13 +136,13 @@ BEGIN:VEVENT
 SUMMARY:📅 Liniker | Bye Bye Caju
 DTSTART;TZID=America/Bahia:20261107T170000
 DTEND;TZID=America/Bahia:20261107T190000
-DTSTAMP:20260606T191858Z
+DTSTAMP:20260607T033627Z
 UID:venue_scraper_bahia_scraped_10_liniker-bye-bye-caju@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
  r_bahia_scraped_10_liniker-bye-bye-caju\n🔄 Última actualización: 2026
- -06-06 19:18 UTC
-LAST-MODIFIED:20260606T191850Z
+ -06-07 03:36 UTC
+LAST-MODIFIED:20260607T033618Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
@@ -171,13 +153,13 @@ BEGIN:VEVENT
 SUMMARY:📅 O Maior Encontro do Samba
 DTSTART;TZID=America/Bahia:20261219T160000
 DTEND;TZID=America/Bahia:20261219T180000
-DTSTAMP:20260606T191858Z
+DTSTAMP:20260607T033627Z
 UID:venue_scraper_bahia_scraped_11_o-maior-encontro-do-samba@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
  r_bahia_scraped_11_o-maior-encontro-do-samba\n🔄 Última actualización:
-  2026-06-06 19:18 UTC
-LAST-MODIFIED:20260606T191858Z
+  2026-06-07 03:36 UTC
+LAST-MODIFIED:20260607T033627Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
