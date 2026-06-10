@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ River Plate vs Barracas Central
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T010000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260726T030000
-DTSTAMP:20260610T152824Z
+DTSTAMP:20260610T202727Z
 UID:espn_river-plate_401841438@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Más Monumental\n🏆 Competencia: torneo-
  clausura\n👥 Cliente: River Plate\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_river-plate_401841438\n🔄 Última actualización: 
- 2026-06-10 15:28 UTC
-LAST-MODIFIED:20260610T152713Z
+ 2026-06-10 20:27 UTC
+LAST-MODIFIED:20260610T202630Z
 LOCATION:Estadio Más Monumental
 STATUS:CONFIRMED
 X-EFANXP-CLUB:river-plate
@@ -30,13 +30,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ River Plate vs Rosario Central
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T010000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260802T030000
-DTSTAMP:20260610T152824Z
+DTSTAMP:20260610T202727Z
 UID:espn_river-plate_401841476@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Más Monumental\n🏆 Competencia: torneo-
  clausura\n👥 Cliente: River Plate\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_river-plate_401841476\n🔄 Última actualización: 
- 2026-06-10 15:28 UTC
-LAST-MODIFIED:20260610T152713Z
+ 2026-06-10 20:27 UTC
+LAST-MODIFIED:20260610T202630Z
 LOCATION:Estadio Más Monumental
 STATUS:CONFIRMED
 X-EFANXP-CLUB:river-plate
@@ -48,13 +48,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ River Plate vs Argentinos Juniors
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260816T010000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260816T030000
-DTSTAMP:20260610T152824Z
+DTSTAMP:20260610T202727Z
 UID:espn_river-plate_401841503@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Más Monumental\n🏆 Competencia: torneo-
  clausura\n👥 Cliente: River Plate\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_river-plate_401841503\n🔄 Última actualización: 
- 2026-06-10 15:28 UTC
-LAST-MODIFIED:20260610T152713Z
+ 2026-06-10 20:27 UTC
+LAST-MODIFIED:20260610T202630Z
 LOCATION:Estadio Más Monumental
 STATUS:CONFIRMED
 X-EFANXP-CLUB:river-plate
@@ -66,13 +66,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ River Plate vs Vélez Sarsfield
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260823T010000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260823T030000
-DTSTAMP:20260610T152824Z
+DTSTAMP:20260610T202727Z
 UID:espn_river-plate_401841518@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Más Monumental\n🏆 Competencia: torneo-
  clausura\n👥 Cliente: River Plate\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_river-plate_401841518\n🔄 Última actualización: 
- 2026-06-10 15:28 UTC
-LAST-MODIFIED:20260610T152713Z
+ 2026-06-10 20:27 UTC
+LAST-MODIFIED:20260610T202630Z
 LOCATION:Estadio Más Monumental
 STATUS:CONFIRMED
 X-EFANXP-CLUB:river-plate
@@ -84,13 +84,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ River Plate vs Independiente Rivadavia
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260906T010000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260906T030000
-DTSTAMP:20260610T152824Z
+DTSTAMP:20260610T202727Z
 UID:espn_river-plate_401841549@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Más Monumental\n🏆 Competencia: torneo-
  clausura\n👥 Cliente: River Plate\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_river-plate_401841549\n🔄 Última actualización: 
- 2026-06-10 15:28 UTC
-LAST-MODIFIED:20260610T152713Z
+ 2026-06-10 20:27 UTC
+LAST-MODIFIED:20260610T202630Z
 LOCATION:Estadio Más Monumental
 STATUS:CONFIRMED
 X-EFANXP-CLUB:river-plate
@@ -102,13 +102,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ River Plate vs Aldosivi
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260607T200000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260607T220000
-DTSTAMP:20260610T152824Z
+DTSTAMP:20260610T202727Z
 UID:thesportsdb_river-plate_2462442@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Mâs Monumental\n🏆 Competencia: Copa Ar
  gentina\n👥 Cliente: River Plate\n🌐 País: Argentina\n📡 Fuente: th
  esportsdb\n🆔 ID interno: thesportsdb_river-plate_2462442\n🔄 Última 
- actualización: 2026-06-10 15:28 UTC
-LAST-MODIFIED:20260610T152721Z
+ actualización: 2026-06-10 20:27 UTC
+LAST-MODIFIED:20260610T202635Z
 LOCATION:Estadio Mâs Monumental
 STATUS:CONFIRMED
 X-EFANXP-CLUB:river-plate
