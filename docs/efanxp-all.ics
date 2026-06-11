@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Boca Juniors vs Estudiantes de La Plata
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260729T010000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260729T030000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_boca-juniors_401841460@efanxp.com
 DESCRIPTION:🏟 Venue: Alberto José Armando (La Bombonera)\n🏆 Compete
  ncia: torneo-clausura\n👥 Cliente: Boca Juniors\n🌐 País: N/D\n📡 F
  uente: espn\n🆔 ID interno: espn_boca-juniors_401841460\n🔄 Última ac
- tualización: 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102210Z
+ tualización: 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155430Z
 LOCATION:Alberto José Armando (La Bombonera)
 STATUS:CONFIRMED
 X-EFANXP-CLUB:boca-juniors
@@ -30,13 +30,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Boca Juniors vs Vélez Sarsfield
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260809T010000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260809T030000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_boca-juniors_401841482@efanxp.com
 DESCRIPTION:🏟 Venue: Alberto José Armando (La Bombonera)\n🏆 Compete
  ncia: torneo-clausura\n👥 Cliente: Boca Juniors\n🌐 País: N/D\n📡 F
  uente: espn\n🆔 ID interno: espn_boca-juniors_401841482\n🔄 Última ac
- tualización: 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102210Z
+ tualización: 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155430Z
 LOCATION:Alberto José Armando (La Bombonera)
 STATUS:CONFIRMED
 X-EFANXP-CLUB:boca-juniors
@@ -48,13 +48,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Boca Juniors vs Lanús
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260830T010000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260830T030000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_boca-juniors_401841527@efanxp.com
 DESCRIPTION:🏟 Venue: Alberto José Armando (La Bombonera)\n🏆 Compete
  ncia: torneo-clausura\n👥 Cliente: Boca Juniors\n🌐 País: N/D\n📡 F
  uente: espn\n🆔 ID interno: espn_boca-juniors_401841527\n🔄 Última ac
- tualización: 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102210Z
+ tualización: 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155430Z
 LOCATION:Alberto José Armando (La Bombonera)
 STATUS:CONFIRMED
 X-EFANXP-CLUB:boca-juniors
@@ -66,13 +66,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Boca Juniors vs O'Higgins
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260723T213000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260723T233000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_boca-juniors_401874154@efanxp.com
 DESCRIPTION:🏟 Venue: Alberto José Armando (La Bombonera)\n🏆 Compete
  ncia: knockout-round-playoffs\n👥 Cliente: Boca Juniors\n🌐 País: N/D
  \n📡 Fuente: espn\n🆔 ID interno: espn_boca-juniors_401874154\n🔄 Ú
- ltima actualización: 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102210Z
+ ltima actualización: 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155430Z
 LOCATION:Alberto José Armando (La Bombonera)
 STATUS:CONFIRMED
 X-EFANXP-CLUB:boca-juniors
@@ -84,13 +84,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Boca Juniors vs O'Higgins
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260722T200000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260722T220000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:thesportsdb_boca-juniors_2478485@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Alberto José Armando\n🏆 Competencia: C
  opa Sudamericana\n👥 Cliente: Boca Juniors\n🌐 País: Argentina\n📡 
  Fuente: thesportsdb\n🆔 ID interno: thesportsdb_boca-juniors_2478485\n
- 🔄 Última actualización: 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102217Z
+ 🔄 Última actualización: 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155436Z
 LOCATION:Estadio Alberto José Armando
 STATUS:CONFIRMED
 X-EFANXP-CLUB:boca-juniors
@@ -102,13 +102,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ River Plate vs Barracas Central
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T010000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260726T030000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_river-plate_401841438@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Más Monumental\n🏆 Competencia: torneo-
  clausura\n👥 Cliente: River Plate\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_river-plate_401841438\n🔄 Última actualización: 
- 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102217Z
+ 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155436Z
 LOCATION:Estadio Más Monumental
 STATUS:CONFIRMED
 X-EFANXP-CLUB:river-plate
@@ -120,13 +120,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ River Plate vs Rosario Central
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T010000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260802T030000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_river-plate_401841476@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Más Monumental\n🏆 Competencia: torneo-
  clausura\n👥 Cliente: River Plate\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_river-plate_401841476\n🔄 Última actualización: 
- 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102217Z
+ 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155436Z
 LOCATION:Estadio Más Monumental
 STATUS:CONFIRMED
 X-EFANXP-CLUB:river-plate
@@ -138,13 +138,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ River Plate vs Argentinos Juniors
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260816T010000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260816T030000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_river-plate_401841503@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Más Monumental\n🏆 Competencia: torneo-
  clausura\n👥 Cliente: River Plate\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_river-plate_401841503\n🔄 Última actualización: 
- 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102217Z
+ 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155436Z
 LOCATION:Estadio Más Monumental
 STATUS:CONFIRMED
 X-EFANXP-CLUB:river-plate
@@ -156,13 +156,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ River Plate vs Vélez Sarsfield
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260823T010000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260823T030000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_river-plate_401841518@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Más Monumental\n🏆 Competencia: torneo-
  clausura\n👥 Cliente: River Plate\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_river-plate_401841518\n🔄 Última actualización: 
- 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102217Z
+ 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155436Z
 LOCATION:Estadio Más Monumental
 STATUS:CONFIRMED
 X-EFANXP-CLUB:river-plate
@@ -174,13 +174,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ River Plate vs Independiente Rivadavia
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260906T010000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260906T030000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_river-plate_401841549@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Más Monumental\n🏆 Competencia: torneo-
  clausura\n👥 Cliente: River Plate\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_river-plate_401841549\n🔄 Última actualización: 
- 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102217Z
+ 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155436Z
 LOCATION:Estadio Más Monumental
 STATUS:CONFIRMED
 X-EFANXP-CLUB:river-plate
@@ -192,13 +192,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ River Plate vs Aldosivi
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260607T200000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260607T220000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:thesportsdb_river-plate_2462442@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Mâs Monumental\n🏆 Competencia: Copa Ar
  gentina\n👥 Cliente: River Plate\n🌐 País: Argentina\n📡 Fuente: th
  esportsdb\n🆔 ID interno: thesportsdb_river-plate_2462442\n🔄 Última 
- actualización: 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102224Z
+ actualización: 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155442Z
 LOCATION:Estadio Mâs Monumental
 STATUS:CONFIRMED
 X-EFANXP-CLUB:river-plate
@@ -210,13 +210,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Estudiantes de La Plata vs Independiente
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T010000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260726T030000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_estudiantes_401841445@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Jorge Luis Hirschi\n🏆 Competencia: torn
  eo-clausura\n👥 Cliente: Estudiantes\n🌐 País: N/D\n📡 Fuente: espn
  \n🆔 ID interno: espn_estudiantes_401841445\n🔄 Última actualización
- : 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102224Z
+ : 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155442Z
 LOCATION:Estadio Jorge Luis Hirschi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:estudiantes
@@ -228,13 +228,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Estudiantes de La Plata vs Defensa y Justicia
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T150000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260802T170000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_estudiantes_401841478@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Jorge Luis Hirschi\n🏆 Competencia: torn
  eo-clausura\n👥 Cliente: Estudiantes\n🌐 País: N/D\n📡 Fuente: espn
  \n🆔 ID interno: espn_estudiantes_401841478\n🔄 Última actualización
- : 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102224Z
+ : 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155442Z
 LOCATION:Estadio Jorge Luis Hirschi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:estudiantes
@@ -246,13 +246,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Estudiantes de La Plata vs Gimnasia La Plata
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260816T010000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260816T030000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_estudiantes_401841499@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Jorge Luis Hirschi\n🏆 Competencia: torn
  eo-clausura\n👥 Cliente: Estudiantes\n🌐 País: N/D\n📡 Fuente: espn
  \n🆔 ID interno: espn_estudiantes_401841499\n🔄 Última actualización
- : 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102224Z
+ : 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155442Z
 LOCATION:Estadio Jorge Luis Hirschi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:estudiantes
@@ -264,13 +264,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Estudiantes de La Plata vs Newell's Old Boys
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260830T010000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260830T030000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_estudiantes_401841530@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Jorge Luis Hirschi\n🏆 Competencia: torn
  eo-clausura\n👥 Cliente: Estudiantes\n🌐 País: N/D\n📡 Fuente: espn
  \n🆔 ID interno: espn_estudiantes_401841530\n🔄 Última actualización
- : 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102224Z
+ : 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155442Z
 LOCATION:Estadio Jorge Luis Hirschi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:estudiantes
@@ -282,13 +282,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Estudiantes de La Plata vs Universidad Católica
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260811T213000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260811T233000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_estudiantes_401874145@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Jorge Luis Hirschi\n🏆 Competencia: roun
  d-of-16\n👥 Cliente: Estudiantes\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_estudiantes_401874145\n🔄 Última actualización: 
- 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102231Z
+ 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155446Z
 LOCATION:Estadio Jorge Luis Hirschi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:estudiantes
@@ -300,12 +300,12 @@ BEGIN:VEVENT
 SUMMARY:⚽ Vélez Sarsfield vs Instituto (Córdoba)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T010000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260726T030000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_velez_401841436@efanxp.com
 DESCRIPTION:🏟 Venue: José Amalfitani\n🏆 Competencia: torneo-clausur
  a\n👥 Cliente: Velez\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID intern
- o: espn_velez_401841436\n🔄 Última actualización: 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102231Z
+ o: espn_velez_401841436\n🔄 Última actualización: 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155446Z
 LOCATION:José Amalfitani
 STATUS:CONFIRMED
 X-EFANXP-CLUB:velez
@@ -317,12 +317,12 @@ BEGIN:VEVENT
 SUMMARY:⚽ Vélez Sarsfield vs Independiente
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T010000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260802T030000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_velez_401841465@efanxp.com
 DESCRIPTION:🏟 Venue: José Amalfitani\n🏆 Competencia: torneo-clausur
  a\n👥 Cliente: Velez\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID intern
- o: espn_velez_401841465\n🔄 Última actualización: 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102231Z
+ o: espn_velez_401841465\n🔄 Última actualización: 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155446Z
 LOCATION:José Amalfitani
 STATUS:CONFIRMED
 X-EFANXP-CLUB:velez
@@ -334,12 +334,12 @@ BEGIN:VEVENT
 SUMMARY:⚽ Vélez Sarsfield vs Defensa y Justicia
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260816T150000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260816T170000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_velez_401841495@efanxp.com
 DESCRIPTION:🏟 Venue: José Amalfitani\n🏆 Competencia: torneo-clausur
  a\n👥 Cliente: Velez\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID intern
- o: espn_velez_401841495\n🔄 Última actualización: 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102231Z
+ o: espn_velez_401841495\n🔄 Última actualización: 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155446Z
 LOCATION:José Amalfitani
 STATUS:CONFIRMED
 X-EFANXP-CLUB:velez
@@ -351,12 +351,12 @@ BEGIN:VEVENT
 SUMMARY:⚽ Vélez Sarsfield vs Estudiantes de La Plata
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260906T010000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260906T030000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_velez_401841540@efanxp.com
 DESCRIPTION:🏟 Venue: José Amalfitani\n🏆 Competencia: torneo-clausur
  a\n👥 Cliente: Velez\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID intern
- o: espn_velez_401841540\n🔄 Última actualización: 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102231Z
+ o: espn_velez_401841540\n🔄 Última actualización: 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155446Z
 LOCATION:José Amalfitani
 STATUS:CONFIRMED
 X-EFANXP-CLUB:velez
@@ -368,13 +368,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Vélez Sarsfield vs Instituto
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T200000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260726T220000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:thesportsdb_velez_2397965@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio José Amalfitani\n🏆 Competencia: Argent
  inian Primera Division\n👥 Cliente: Velez\n🌐 País: Argentina\n📡 F
  uente: thesportsdb\n🆔 ID interno: thesportsdb_velez_2397965\n🔄 Últi
- ma actualización: 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102239Z
+ ma actualización: 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155452Z
 LOCATION:Estadio José Amalfitani
 STATUS:CONFIRMED
 X-EFANXP-CLUB:velez
@@ -386,13 +386,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Huracán vs Banfield
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T010000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260726T030000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_huracan_401841443@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Tomás Adolfo Ducó\n🏆 Competencia: tor
  neo-clausura\n👥 Cliente: Huracan\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_huracan_401841443\n🔄 Última actualización: 2026
- -06-11 10:23 UTC
-LAST-MODIFIED:20260611T102239Z
+ -06-11 15:55 UTC
+LAST-MODIFIED:20260611T155452Z
 LOCATION:Estadio Tomás Adolfo Ducó
 STATUS:CONFIRMED
 X-EFANXP-CLUB:huracan
@@ -404,13 +404,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Huracán vs Atlético Tucumán
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T010000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260802T030000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_huracan_401841471@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Tomás Adolfo Ducó\n🏆 Competencia: tor
  neo-clausura\n👥 Cliente: Huracan\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_huracan_401841471\n🔄 Última actualización: 2026
- -06-11 10:23 UTC
-LAST-MODIFIED:20260611T102239Z
+ -06-11 15:55 UTC
+LAST-MODIFIED:20260611T155452Z
 LOCATION:Estadio Tomás Adolfo Ducó
 STATUS:CONFIRMED
 X-EFANXP-CLUB:huracan
@@ -422,13 +422,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Huracán vs Deportivo Riestra
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260823T010000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260823T030000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_huracan_401841513@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Tomás Adolfo Ducó\n🏆 Competencia: tor
  neo-clausura\n👥 Cliente: Huracan\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_huracan_401841513\n🔄 Última actualización: 2026
- -06-11 10:23 UTC
-LAST-MODIFIED:20260611T102239Z
+ -06-11 15:55 UTC
+LAST-MODIFIED:20260611T155452Z
 LOCATION:Estadio Tomás Adolfo Ducó
 STATUS:CONFIRMED
 X-EFANXP-CLUB:huracan
@@ -440,13 +440,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Huracán vs Estudiantes de Río Cuarto
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260830T010000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260830T030000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_huracan_401841531@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Tomás Adolfo Ducó\n🏆 Competencia: tor
  neo-clausura\n👥 Cliente: Huracan\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_huracan_401841531\n🔄 Última actualización: 2026
- -06-11 10:23 UTC
-LAST-MODIFIED:20260611T102247Z
+ -06-11 15:55 UTC
+LAST-MODIFIED:20260611T155458Z
 LOCATION:Estadio Tomás Adolfo Ducó
 STATUS:CONFIRMED
 X-EFANXP-CLUB:huracan
@@ -458,13 +458,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Lorenzo vs Gimnasia (Mendoza)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260729T010000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260729T030000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_san-lorenzo_401841452@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Pedro Bidegain\n🏆 Competencia: torneo-c
  lausura\n👥 Cliente: San Lorenzo\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_san-lorenzo_401841452\n🔄 Última actualización: 
- 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102247Z
+ 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155458Z
 LOCATION:Estadio Pedro Bidegain
 STATUS:CONFIRMED
 X-EFANXP-CLUB:san-lorenzo
@@ -476,13 +476,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Lorenzo vs Huracán
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260809T010000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260809T030000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_san-lorenzo_401841490@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Pedro Bidegain\n🏆 Competencia: torneo-c
  lausura\n👥 Cliente: San Lorenzo\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_san-lorenzo_401841490\n🔄 Última actualización: 
- 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102247Z
+ 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155458Z
 LOCATION:Estadio Pedro Bidegain
 STATUS:CONFIRMED
 X-EFANXP-CLUB:san-lorenzo
@@ -494,13 +494,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Lorenzo vs Unión (Santa Fe)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260816T010000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260816T030000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_san-lorenzo_401841502@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Pedro Bidegain\n🏆 Competencia: torneo-c
  lausura\n👥 Cliente: San Lorenzo\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_san-lorenzo_401841502\n🔄 Última actualización: 
- 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102247Z
+ 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155458Z
 LOCATION:Estadio Pedro Bidegain
 STATUS:CONFIRMED
 X-EFANXP-CLUB:san-lorenzo
@@ -510,15 +510,15 @@ X-EFANXP-TYPE:match_home
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ San Lorenzo vs Talleres (Córdoba)
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260906T010000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260906T030000
-DTSTAMP:20260611T102330Z
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260906T150000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260906T170000
+DTSTAMP:20260611T155535Z
 UID:espn_san-lorenzo_401841551@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Pedro Bidegain\n🏆 Competencia: torneo-c
  lausura\n👥 Cliente: San Lorenzo\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_san-lorenzo_401841551\n🔄 Última actualización: 
- 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102247Z
+ 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155458Z
 LOCATION:Estadio Pedro Bidegain
 STATUS:CONFIRMED
 X-EFANXP-CLUB:san-lorenzo
@@ -530,13 +530,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Lorenzo vs Deportivo Riestra
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260604T001000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260604T021000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:thesportsdb_san-lorenzo_2462448@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Pedro Bidegaín\n🏆 Competencia: Copa Ar
  gentina\n👥 Cliente: San Lorenzo\n🌐 País: Argentina\n📡 Fuente: th
  esportsdb\n🆔 ID interno: thesportsdb_san-lorenzo_2462448\n🔄 Última 
- actualización: 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102253Z
+ actualización: 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155502Z
 LOCATION:Estadio Pedro Bidegaín
 STATUS:CONFIRMED
 X-EFANXP-CLUB:san-lorenzo
@@ -548,13 +548,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Universidad de Chile vs O'Higgins
 DTSTART;TZID=America/Santiago:20260618T200000
 DTEND;TZID=America/Santiago:20260618T220000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_universidad-de-chile_401850578@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Nacional Julio Martínez Prádanos\n🏆 C
  ompetencia: 2026-primera-division-de-chile\n👥 Cliente: Universidad De C
  hile\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID interno: espn_universida
- d-de-chile_401850578\n🔄 Última actualización: 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102253Z
+ d-de-chile_401850578\n🔄 Última actualización: 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155502Z
 LOCATION:Estadio Nacional Julio Martínez Prádanos
 STATUS:CONFIRMED
 X-EFANXP-CLUB:universidad-de-chile
@@ -566,13 +566,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Universidad de Chile vs Huachipato
 DTSTART;TZID=America/Santiago:20260802T140000
 DTEND;TZID=America/Santiago:20260802T160000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_universidad-de-chile_401850607@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Nacional Julio Martínez Prádanos\n🏆 C
  ompetencia: 2026-primera-division-de-chile\n👥 Cliente: Universidad De C
  hile\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID interno: espn_universida
- d-de-chile_401850607\n🔄 Última actualización: 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102253Z
+ d-de-chile_401850607\n🔄 Última actualización: 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155502Z
 LOCATION:Estadio Nacional Julio Martínez Prádanos
 STATUS:CONFIRMED
 X-EFANXP-CLUB:universidad-de-chile
@@ -584,13 +584,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Universidad de Chile vs Palestino
 DTSTART;TZID=America/Santiago:20260809T140000
 DTEND;TZID=America/Santiago:20260809T160000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_universidad-de-chile_401850613@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Nacional Julio Martínez Prádanos\n🏆 C
  ompetencia: 2026-primera-division-de-chile\n👥 Cliente: Universidad De C
  hile\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID interno: espn_universida
- d-de-chile_401850613\n🔄 Última actualización: 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102253Z
+ d-de-chile_401850613\n🔄 Última actualización: 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155502Z
 LOCATION:Estadio Nacional Julio Martínez Prádanos
 STATUS:CONFIRMED
 X-EFANXP-CLUB:universidad-de-chile
@@ -602,13 +602,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Universidad de Chile vs Colo Colo
 DTSTART;TZID=America/Santiago:20260823T140000
 DTEND;TZID=America/Santiago:20260823T160000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_universidad-de-chile_401850630@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Nacional Julio Martínez Prádanos\n🏆 C
  ompetencia: 2026-primera-division-de-chile\n👥 Cliente: Universidad De C
  hile\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID interno: espn_universida
- d-de-chile_401850630\n🔄 Última actualización: 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102253Z
+ d-de-chile_401850630\n🔄 Última actualización: 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155502Z
 LOCATION:Estadio Nacional Julio Martínez Prádanos
 STATUS:CONFIRMED
 X-EFANXP-CLUB:universidad-de-chile
@@ -620,13 +620,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Universidad de Chile vs Coquimbo Unido
 DTSTART;TZID=America/Santiago:20260906T150000
 DTEND;TZID=America/Santiago:20260906T170000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_universidad-de-chile_401850646@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Nacional Julio Martínez Prádanos\n🏆 C
  ompetencia: 2026-primera-division-de-chile\n👥 Cliente: Universidad De C
  hile\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID interno: espn_universida
- d-de-chile_401850646\n🔄 Última actualización: 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102301Z
+ d-de-chile_401850646\n🔄 Última actualización: 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155507Z
 LOCATION:Estadio Nacional Julio Martínez Prádanos
 STATUS:CONFIRMED
 X-EFANXP-CLUB:universidad-de-chile
@@ -638,13 +638,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Colo Colo vs Cobresal
 DTSTART;TZID=America/Santiago:20260613T173000
 DTEND;TZID=America/Santiago:20260613T193000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_colo-colo_401850589@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Monumental David Arellano\n🏆 Competenci
  a: 2026-primera-division-de-chile\n👥 Cliente: Colo Colo\n🌐 País: N/
  D\n📡 Fuente: espn\n🆔 ID interno: espn_colo-colo_401850589\n🔄 Últ
- ima actualización: 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102301Z
+ ima actualización: 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155507Z
 LOCATION:Estadio Monumental David Arellano
 STATUS:CONFIRMED
 X-EFANXP-CLUB:colo-colo
@@ -656,13 +656,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Colo Colo vs Deportes Limache
 DTSTART;TZID=America/Santiago:20260726T140000
 DTEND;TZID=America/Santiago:20260726T160000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_colo-colo_401850597@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Monumental David Arellano\n🏆 Competenci
  a: 2026-primera-division-de-chile\n👥 Cliente: Colo Colo\n🌐 País: N/
  D\n📡 Fuente: espn\n🆔 ID interno: espn_colo-colo_401850597\n🔄 Últ
- ima actualización: 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102301Z
+ ima actualización: 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155507Z
 LOCATION:Estadio Monumental David Arellano
 STATUS:CONFIRMED
 X-EFANXP-CLUB:colo-colo
@@ -674,13 +674,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Colo Colo vs O'Higgins
 DTSTART;TZID=America/Santiago:20260816T140000
 DTEND;TZID=America/Santiago:20260816T160000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_colo-colo_401850621@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Monumental David Arellano\n🏆 Competenci
  a: 2026-primera-division-de-chile\n👥 Cliente: Colo Colo\n🌐 País: N/
  D\n📡 Fuente: espn\n🆔 ID interno: espn_colo-colo_401850621\n🔄 Últ
- ima actualización: 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102301Z
+ ima actualización: 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155507Z
 LOCATION:Estadio Monumental David Arellano
 STATUS:CONFIRMED
 X-EFANXP-CLUB:colo-colo
@@ -692,13 +692,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Colo Colo vs Audax Italiano
 DTSTART;TZID=America/Santiago:20260830T140000
 DTEND;TZID=America/Santiago:20260830T160000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_colo-colo_401850642@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Monumental David Arellano\n🏆 Competenci
  a: 2026-primera-division-de-chile\n👥 Cliente: Colo Colo\n🌐 País: N/
  D\n📡 Fuente: espn\n🆔 ID interno: espn_colo-colo_401850642\n🔄 Últ
- ima actualización: 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102307Z
+ ima actualización: 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155515Z
 LOCATION:Estadio Monumental David Arellano
 STATUS:CONFIRMED
 X-EFANXP-CLUB:colo-colo
@@ -710,12 +710,12 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alianza Lima vs Sport Huancayo
 DTSTART;TZID=America/Lima:20260718T230000
 DTEND;TZID=America/Lima:20260719T010000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_alianza-lima_401874357@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: apertura\n👥 Cliente: Ali
  anza Lima\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID interno: espn_alian
- za-lima_401874357\n🔄 Última actualización: 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102315Z
+ za-lima_401874357\n🔄 Última actualización: 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155521Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:alianza-lima
 X-EFANXP-SOURCE:espn
@@ -726,13 +726,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Belgrano (Córdoba) vs Rosario Central
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T010000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260726T030000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_belgrano_401841435@efanxp.com
 DESCRIPTION:🏟 Venue: El Gigante de Alberdi\n🏆 Competencia: torneo-cl
  ausura\n👥 Cliente: Belgrano\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
  D interno: espn_belgrano_401841435\n🔄 Última actualización: 2026-06-1
- 1 10:23 UTC
-LAST-MODIFIED:20260611T102315Z
+ 1 15:55 UTC
+LAST-MODIFIED:20260611T155521Z
 LOCATION:El Gigante de Alberdi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:belgrano
@@ -744,13 +744,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Belgrano (Córdoba) vs Argentinos Juniors
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T010000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260802T030000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_belgrano_401841469@efanxp.com
 DESCRIPTION:🏟 Venue: El Gigante de Alberdi\n🏆 Competencia: torneo-cl
  ausura\n👥 Cliente: Belgrano\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
  D interno: espn_belgrano_401841469\n🔄 Última actualización: 2026-06-1
- 1 10:23 UTC
-LAST-MODIFIED:20260611T102315Z
+ 1 15:55 UTC
+LAST-MODIFIED:20260611T155521Z
 LOCATION:El Gigante de Alberdi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:belgrano
@@ -762,13 +762,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Belgrano (Córdoba) vs Independiente Rivadavia
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260816T010000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260816T030000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_belgrano_401841496@efanxp.com
 DESCRIPTION:🏟 Venue: El Gigante de Alberdi\n🏆 Competencia: torneo-cl
  ausura\n👥 Cliente: Belgrano\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
  D interno: espn_belgrano_401841496\n🔄 Última actualización: 2026-06-1
- 1 10:23 UTC
-LAST-MODIFIED:20260611T102315Z
+ 1 15:55 UTC
+LAST-MODIFIED:20260611T155521Z
 LOCATION:El Gigante de Alberdi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:belgrano
@@ -780,13 +780,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Belgrano (Córdoba) vs Defensa y Justicia
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260823T150000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260823T170000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_belgrano_401841510@efanxp.com
 DESCRIPTION:🏟 Venue: El Gigante de Alberdi\n🏆 Competencia: torneo-cl
  ausura\n👥 Cliente: Belgrano\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
  D interno: espn_belgrano_401841510\n🔄 Última actualización: 2026-06-1
- 1 10:23 UTC
-LAST-MODIFIED:20260611T102315Z
+ 1 15:55 UTC
+LAST-MODIFIED:20260611T155521Z
 LOCATION:El Gigante de Alberdi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:belgrano
@@ -798,13 +798,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Belgrano (Córdoba) vs Huracán
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260906T010000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260906T030000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_belgrano_401841543@efanxp.com
 DESCRIPTION:🏟 Venue: El Gigante de Alberdi\n🏆 Competencia: torneo-cl
  ausura\n👥 Cliente: Belgrano\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
  D interno: espn_belgrano_401841543\n🔄 Última actualización: 2026-06-1
- 1 10:23 UTC
-LAST-MODIFIED:20260611T102321Z
+ 1 15:55 UTC
+LAST-MODIFIED:20260611T155527Z
 LOCATION:El Gigante de Alberdi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:belgrano
@@ -816,13 +816,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bahia vs Corinthians
 DTSTART;TZID=America/Sao_Paulo:20260725T010000
 DTEND;TZID=America/Sao_Paulo:20260725T030000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_bahia_401841159@efanxp.com
 DESCRIPTION:🏟 Venue: Arena Fonte Nova\n🏆 Competencia: 2026-brasileir
  o-serie-a\n👥 Cliente: Bahia\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
  D interno: espn_bahia_401841159\n🔄 Última actualización: 2026-06-11 1
- 0:23 UTC
-LAST-MODIFIED:20260611T102321Z
+ 5:55 UTC
+LAST-MODIFIED:20260611T155527Z
 LOCATION:Arena Fonte Nova
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
@@ -834,13 +834,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bahia vs Vasco da Gama
 DTSTART;TZID=America/Sao_Paulo:20260808T010000
 DTEND;TZID=America/Sao_Paulo:20260808T030000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_bahia_401841186@efanxp.com
 DESCRIPTION:🏟 Venue: Arena Fonte Nova\n🏆 Competencia: 2026-brasileir
  o-serie-a\n👥 Cliente: Bahia\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
  D interno: espn_bahia_401841186\n🔄 Última actualización: 2026-06-11 1
- 0:23 UTC
-LAST-MODIFIED:20260611T102321Z
+ 5:55 UTC
+LAST-MODIFIED:20260611T155527Z
 LOCATION:Arena Fonte Nova
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
@@ -852,13 +852,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bahia vs Internacional
 DTSTART;TZID=America/Sao_Paulo:20260829T010000
 DTEND;TZID=America/Sao_Paulo:20260829T030000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:espn_bahia_401841215@efanxp.com
 DESCRIPTION:🏟 Venue: Arena Fonte Nova\n🏆 Competencia: 2026-brasileir
  o-serie-a\n👥 Cliente: Bahia\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
  D interno: espn_bahia_401841215\n🔄 Última actualización: 2026-06-11 1
- 0:23 UTC
-LAST-MODIFIED:20260611T102321Z
+ 5:55 UTC
+LAST-MODIFIED:20260611T155527Z
 LOCATION:Arena Fonte Nova
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
@@ -870,13 +870,13 @@ BEGIN:VEVENT
 SUMMARY:📅 Kib Abelha - Eu tive um sonho
 DTSTART;TZID=America/Bahia:20260711T210000
 DTEND;TZID=America/Bahia:20260711T230000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:venue_scraper_bahia_scraped_7_kib-abelha-eu-tive-um-sonho@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
  r_bahia_scraped_7_kib-abelha-eu-tive-um-sonho\n🔄 Última actualización
- : 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102321Z
+ : 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155527Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
@@ -888,13 +888,13 @@ BEGIN:VEVENT
 SUMMARY:📅 Luan - Registro Histórico
 DTSTART;TZID=America/Bahia:20260822T170000
 DTEND;TZID=America/Bahia:20260822T190000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:venue_scraper_bahia_scraped_8_luan-registro-hist-rico@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
  r_bahia_scraped_8_luan-registro-hist-rico\n🔄 Última actualización: 20
- 26-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102321Z
+ 26-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155527Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
@@ -905,13 +905,13 @@ BEGIN:VEVENT
 SUMMARY:📅 Maroon 5
 DTSTART;TZID=America/Bahia:20260910T160000
 DTEND;TZID=America/Bahia:20260910T180000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:venue_scraper_bahia_scraped_9_maroon-5@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
- r_bahia_scraped_9_maroon-5\n🔄 Última actualización: 2026-06-11 10:23 
+ r_bahia_scraped_9_maroon-5\n🔄 Última actualización: 2026-06-11 15:55 
  UTC
-LAST-MODIFIED:20260611T102321Z
+LAST-MODIFIED:20260611T155527Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
@@ -922,13 +922,13 @@ BEGIN:VEVENT
 SUMMARY:📅 Xande de Pilares e Revelação
 DTSTART;TZID=America/Bahia:20260926T200000
 DTEND;TZID=America/Bahia:20260926T220000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:venue_scraper_bahia_scraped_10_xande-de-pilares-e-revela-o@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
  r_bahia_scraped_10_xande-de-pilares-e-revela-o\n🔄 Última actualizació
- n: 2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102321Z
+ n: 2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155527Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
@@ -940,13 +940,13 @@ BEGIN:VEVENT
 SUMMARY:📅 Liniker | Bye Bye Caju
 DTSTART;TZID=America/Bahia:20261107T170000
 DTEND;TZID=America/Bahia:20261107T190000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:venue_scraper_bahia_scraped_11_liniker-bye-bye-caju@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
  r_bahia_scraped_11_liniker-bye-bye-caju\n🔄 Última actualización: 2026
- -06-11 10:23 UTC
-LAST-MODIFIED:20260611T102321Z
+ -06-11 15:55 UTC
+LAST-MODIFIED:20260611T155527Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
@@ -957,13 +957,13 @@ BEGIN:VEVENT
 SUMMARY:📅 O Maior Encontro do Samba
 DTSTART;TZID=America/Bahia:20261219T160000
 DTEND;TZID=America/Bahia:20261219T180000
-DTSTAMP:20260611T102330Z
+DTSTAMP:20260611T155535Z
 UID:venue_scraper_bahia_scraped_12_o-maior-encontro-do-samba@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
  r_bahia_scraped_12_o-maior-encontro-do-samba\n🔄 Última actualización:
-  2026-06-11 10:23 UTC
-LAST-MODIFIED:20260611T102330Z
+  2026-06-11 15:55 UTC
+LAST-MODIFIED:20260611T155535Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
