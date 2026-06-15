@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Boca Juniors vs O'Higgins
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260722T200000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260722T220000
-DTSTAMP:20260615T035840Z
+DTSTAMP:20260615T115927Z
 UID:thesportsdb_boca-juniors_2478485@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Alberto José Armando\n🏆 Competencia: C
  opa Sudamericana\n👥 Cliente: Boca Juniors\n🌐 País: Argentina\n📡 
  Fuente: thesportsdb\n🆔 ID interno: thesportsdb_boca-juniors_2478485\n
- 🔄 Última actualización: 2026-06-15 03:58 UTC
-LAST-MODIFIED:20260615T035743Z
+ 🔄 Última actualización: 2026-06-15 11:59 UTC
+LAST-MODIFIED:20260615T115816Z
 LOCATION:Estadio Alberto José Armando
 STATUS:CONFIRMED
 X-EFANXP-CLUB:boca-juniors
