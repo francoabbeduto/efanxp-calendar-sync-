@@ -10,20 +10,92 @@ X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:⚽ River Plate vs Barracas Central
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T200000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260726T220000
-DTSTAMP:20260619T040201Z
-UID:thesportsdb_river-plate_2397963@efanxp.com
-DESCRIPTION:🏟 Venue: Estadio Mâs Monumental\n🏆 Competencia: Argenti
- nian Primera Division\n👥 Cliente: River Plate\n🌐 País: Argentina\n
- 📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_river-plate_2397963
- \n🔄 Última actualización: 2026-06-19 04:02 UTC
-LAST-MODIFIED:20260619T040108Z
-LOCATION:Estadio Mâs Monumental
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260726T150000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260726T170000
+DTSTAMP:20260619T102234Z
+UID:espn_river-plate_401841438@efanxp.com
+DESCRIPTION:🏟 Venue: Estadio Más Monumental\n🏆 Competencia: torneo-
+ clausura\n👥 Cliente: River Plate\n🌐 País: N/D\n📡 Fuente: espn\n
+ 🆔 ID interno: espn_river-plate_401841438\n🔄 Última actualización: 
+ 2026-06-19 10:22 UTC
+LAST-MODIFIED:20260619T102136Z
+LOCATION:Estadio Más Monumental
 STATUS:CONFIRMED
 X-EFANXP-CLUB:river-plate
-X-EFANXP-SOURCE:thesportsdb
-X-EFANXP-SOURCE-ID:thesportsdb_river-plate_2397963
+X-EFANXP-SOURCE:espn
+X-EFANXP-SOURCE-ID:espn_river-plate_401841438
+X-EFANXP-TYPE:match_home
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ River Plate vs Rosario Central
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260802T150000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260802T170000
+DTSTAMP:20260619T102234Z
+UID:espn_river-plate_401841476@efanxp.com
+DESCRIPTION:🏟 Venue: Estadio Más Monumental\n🏆 Competencia: torneo-
+ clausura\n👥 Cliente: River Plate\n🌐 País: N/D\n📡 Fuente: espn\n
+ 🆔 ID interno: espn_river-plate_401841476\n🔄 Última actualización: 
+ 2026-06-19 10:22 UTC
+LAST-MODIFIED:20260619T102136Z
+LOCATION:Estadio Más Monumental
+STATUS:CONFIRMED
+X-EFANXP-CLUB:river-plate
+X-EFANXP-SOURCE:espn
+X-EFANXP-SOURCE-ID:espn_river-plate_401841476
+X-EFANXP-TYPE:match_home
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ River Plate vs Argentinos Juniors
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260816T150000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260816T170000
+DTSTAMP:20260619T102234Z
+UID:espn_river-plate_401841503@efanxp.com
+DESCRIPTION:🏟 Venue: Estadio Más Monumental\n🏆 Competencia: torneo-
+ clausura\n👥 Cliente: River Plate\n🌐 País: N/D\n📡 Fuente: espn\n
+ 🆔 ID interno: espn_river-plate_401841503\n🔄 Última actualización: 
+ 2026-06-19 10:22 UTC
+LAST-MODIFIED:20260619T102136Z
+LOCATION:Estadio Más Monumental
+STATUS:CONFIRMED
+X-EFANXP-CLUB:river-plate
+X-EFANXP-SOURCE:espn
+X-EFANXP-SOURCE-ID:espn_river-plate_401841503
+X-EFANXP-TYPE:match_home
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ River Plate vs Vélez Sarsfield
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260823T150000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260823T170000
+DTSTAMP:20260619T102234Z
+UID:espn_river-plate_401841518@efanxp.com
+DESCRIPTION:🏟 Venue: Estadio Más Monumental\n🏆 Competencia: torneo-
+ clausura\n👥 Cliente: River Plate\n🌐 País: N/D\n📡 Fuente: espn\n
+ 🆔 ID interno: espn_river-plate_401841518\n🔄 Última actualización: 
+ 2026-06-19 10:22 UTC
+LAST-MODIFIED:20260619T102136Z
+LOCATION:Estadio Más Monumental
+STATUS:CONFIRMED
+X-EFANXP-CLUB:river-plate
+X-EFANXP-SOURCE:espn
+X-EFANXP-SOURCE-ID:espn_river-plate_401841518
+X-EFANXP-TYPE:match_home
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ River Plate vs Independiente Rivadavia
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260906T150000
+DTEND;TZID=America/Argentina/Buenos_Aires:20260906T170000
+DTSTAMP:20260619T102234Z
+UID:espn_river-plate_401841549@efanxp.com
+DESCRIPTION:🏟 Venue: Estadio Más Monumental\n🏆 Competencia: torneo-
+ clausura\n👥 Cliente: River Plate\n🌐 País: N/D\n📡 Fuente: espn\n
+ 🆔 ID interno: espn_river-plate_401841549\n🔄 Última actualización: 
+ 2026-06-19 10:22 UTC
+LAST-MODIFIED:20260619T102141Z
+LOCATION:Estadio Más Monumental
+STATUS:CONFIRMED
+X-EFANXP-CLUB:river-plate
+X-EFANXP-SOURCE:espn
+X-EFANXP-SOURCE-ID:espn_river-plate_401841549
 X-EFANXP-TYPE:match_home
 END:VEVENT
 END:VCALENDAR
