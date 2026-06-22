@@ -12,12 +12,12 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alianza Lima vs Sport Huancayo
 DTSTART;TZID=America/Lima:20260718T230000
 DTEND;TZID=America/Lima:20260719T010000
-DTSTAMP:20260622T114846Z
+DTSTAMP:20260622T165318Z
 UID:espn_alianza-lima_401874357@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: apertura\n👥 Cliente: Ali
  anza Lima\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID interno: espn_alian
- za-lima_401874357\n🔄 Última actualización: 2026-06-22 11:48 UTC
-LAST-MODIFIED:20260622T114832Z
+ za-lima_401874357\n🔄 Última actualización: 2026-06-22 16:53 UTC
+LAST-MODIFIED:20260622T165304Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:alianza-lima
 X-EFANXP-SOURCE:espn
