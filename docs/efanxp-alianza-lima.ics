@@ -12,12 +12,12 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alianza Lima vs Sport Huancayo
 DTSTART;TZID=America/Lima:20260718T230000
 DTEND;TZID=America/Lima:20260719T010000
-DTSTAMP:20260630T030010Z
+DTSTAMP:20260630T092950Z
 UID:espn_alianza-lima_401874357@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: apertura\n👥 Cliente: Ali
  anza Lima\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID interno: espn_alian
- za-lima_401874357\n🔄 Última actualización: 2026-06-30 03:00 UTC
-LAST-MODIFIED:20260630T025945Z
+ za-lima_401874357\n🔄 Última actualización: 2026-06-30 09:29 UTC
+LAST-MODIFIED:20260630T092927Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:alianza-lima
 X-EFANXP-SOURCE:espn
@@ -28,13 +28,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alianza Lima vs Alianza Atlético
 DTSTART;TZID=America/Lima:20260628T180000
 DTEND;TZID=America/Lima:20260628T200000
-DTSTAMP:20260630T030010Z
+DTSTAMP:20260630T092950Z
 UID:thesportsdb_alianza-lima_2499605@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Alejandro Villanueva\n🏆 Competencia: Pe
  ruvian Copa de la Liga\n👥 Cliente: Alianza Lima\n🌐 País: Peru\n📡
   Fuente: thesportsdb\n🆔 ID interno: thesportsdb_alianza-lima_2499605\n
- 🔄 Última actualización: 2026-06-30 03:00 UTC
-LAST-MODIFIED:20260630T025954Z
+ 🔄 Última actualización: 2026-06-30 09:29 UTC
+LAST-MODIFIED:20260630T092936Z
 LOCATION:Estadio Alejandro Villanueva
 STATUS:CONFIRMED
 X-EFANXP-CLUB:alianza-lima
