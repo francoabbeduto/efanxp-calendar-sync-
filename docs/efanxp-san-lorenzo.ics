@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Lorenzo vs Gimnasia (Mendoza)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260728T190000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260728T210000
-DTSTAMP:20260702T192101Z
+DTSTAMP:20260703T024100Z
 UID:espn_san-lorenzo_401841452@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Pedro Bidegain\n🏆 Competencia: torneo-c
  lausura\n👥 Cliente: San Lorenzo\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_san-lorenzo_401841452\n🔄 Última actualización: 
- 2026-07-02 19:21 UTC
-LAST-MODIFIED:20260702T192021Z
+ 2026-07-03 02:41 UTC
+LAST-MODIFIED:20260703T024017Z
 LOCATION:Estadio Pedro Bidegain
 STATUS:CONFIRMED
 X-EFANXP-CLUB:san-lorenzo
@@ -30,13 +30,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Lorenzo vs Huracán
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260809T150000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260809T170000
-DTSTAMP:20260702T192101Z
+DTSTAMP:20260703T024100Z
 UID:espn_san-lorenzo_401841490@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Pedro Bidegain\n🏆 Competencia: torneo-c
  lausura\n👥 Cliente: San Lorenzo\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_san-lorenzo_401841490\n🔄 Última actualización: 
- 2026-07-02 19:21 UTC
-LAST-MODIFIED:20260702T192021Z
+ 2026-07-03 02:41 UTC
+LAST-MODIFIED:20260703T024017Z
 LOCATION:Estadio Pedro Bidegain
 STATUS:CONFIRMED
 X-EFANXP-CLUB:san-lorenzo
@@ -48,13 +48,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Lorenzo vs Unión (Santa Fe)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260816T150000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260816T170000
-DTSTAMP:20260702T192101Z
+DTSTAMP:20260703T024100Z
 UID:espn_san-lorenzo_401841502@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Pedro Bidegain\n🏆 Competencia: torneo-c
  lausura\n👥 Cliente: San Lorenzo\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_san-lorenzo_401841502\n🔄 Última actualización: 
- 2026-07-02 19:21 UTC
-LAST-MODIFIED:20260702T192021Z
+ 2026-07-03 02:41 UTC
+LAST-MODIFIED:20260703T024017Z
 LOCATION:Estadio Pedro Bidegain
 STATUS:CONFIRMED
 X-EFANXP-CLUB:san-lorenzo
@@ -66,13 +66,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Lorenzo vs Talleres (Córdoba)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260906T150000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260906T170000
-DTSTAMP:20260702T192101Z
+DTSTAMP:20260703T024100Z
 UID:espn_san-lorenzo_401841551@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Pedro Bidegain\n🏆 Competencia: torneo-c
  lausura\n👥 Cliente: San Lorenzo\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_san-lorenzo_401841551\n🔄 Última actualización: 
- 2026-07-02 19:21 UTC
-LAST-MODIFIED:20260702T192021Z
+ 2026-07-03 02:41 UTC
+LAST-MODIFIED:20260703T024017Z
 LOCATION:Estadio Pedro Bidegain
 STATUS:CONFIRMED
 X-EFANXP-CLUB:san-lorenzo
@@ -84,13 +84,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Lorenzo vs Boca Juniors
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260920T150000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260920T170000
-DTSTAMP:20260702T192101Z
+DTSTAMP:20260703T024100Z
 UID:espn_san-lorenzo_401841577@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Pedro Bidegain\n🏆 Competencia: torneo-c
  lausura\n👥 Cliente: San Lorenzo\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_san-lorenzo_401841577\n🔄 Última actualización: 
- 2026-07-02 19:21 UTC
-LAST-MODIFIED:20260702T192026Z
+ 2026-07-03 02:41 UTC
+LAST-MODIFIED:20260703T024023Z
 LOCATION:Estadio Pedro Bidegain
 STATUS:CONFIRMED
 X-EFANXP-CLUB:san-lorenzo
