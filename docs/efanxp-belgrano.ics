@@ -9,34 +9,16 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Belgrano (Córdoba) vs Rosario Central
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260723T193000
-DTEND;TZID=America/Argentina/Buenos_Aires:20260723T213000
-DTSTAMP:20260730T192151Z
-UID:espn_belgrano_401841435@efanxp.com
-DESCRIPTION:🏟 Venue: El Gigante de Alberdi\n🏆 Competencia: torneo-cl
- ausura\n👥 Cliente: Belgrano\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
- D interno: espn_belgrano_401841435\n🔄 Última actualización: 2026-07-3
- 0 19:21 UTC
-LAST-MODIFIED:20260730T192136Z
-LOCATION:El Gigante de Alberdi
-STATUS:CONFIRMED
-X-EFANXP-CLUB:belgrano
-X-EFANXP-SOURCE:espn
-X-EFANXP-SOURCE-ID:espn_belgrano_401841435
-X-EFANXP-TYPE:match_home
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⚽ Belgrano (Córdoba) vs Argentinos Juniors
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260801T180000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260801T200000
-DTSTAMP:20260730T192151Z
+DTSTAMP:20260731T023128Z
 UID:espn_belgrano_401841469@efanxp.com
 DESCRIPTION:🏟 Venue: El Gigante de Alberdi\n🏆 Competencia: torneo-cl
  ausura\n👥 Cliente: Belgrano\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
  D interno: espn_belgrano_401841469\n🔄 Última actualización: 2026-07-3
- 0 19:21 UTC
-LAST-MODIFIED:20260730T192136Z
+ 1 02:31 UTC
+LAST-MODIFIED:20260731T023114Z
 LOCATION:El Gigante de Alberdi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:belgrano
@@ -48,13 +30,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Belgrano (Córdoba) vs Independiente Rivadavia
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260816T150000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260816T170000
-DTSTAMP:20260730T192151Z
+DTSTAMP:20260731T023128Z
 UID:espn_belgrano_401841496@efanxp.com
 DESCRIPTION:🏟 Venue: El Gigante de Alberdi\n🏆 Competencia: torneo-cl
  ausura\n👥 Cliente: Belgrano\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
  D interno: espn_belgrano_401841496\n🔄 Última actualización: 2026-07-3
- 0 19:21 UTC
-LAST-MODIFIED:20260730T192136Z
+ 1 02:31 UTC
+LAST-MODIFIED:20260731T023114Z
 LOCATION:El Gigante de Alberdi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:belgrano
@@ -66,13 +48,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Belgrano (Córdoba) vs Defensa y Justicia
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260823T150000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260823T170000
-DTSTAMP:20260730T192151Z
+DTSTAMP:20260731T023128Z
 UID:espn_belgrano_401841510@efanxp.com
 DESCRIPTION:🏟 Venue: El Gigante de Alberdi\n🏆 Competencia: torneo-cl
  ausura\n👥 Cliente: Belgrano\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
  D interno: espn_belgrano_401841510\n🔄 Última actualización: 2026-07-3
- 0 19:21 UTC
-LAST-MODIFIED:20260730T192136Z
+ 1 02:31 UTC
+LAST-MODIFIED:20260731T023114Z
 LOCATION:El Gigante de Alberdi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:belgrano
@@ -84,13 +66,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Belgrano (Córdoba) vs Huracán
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260906T150000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260906T170000
-DTSTAMP:20260730T192151Z
+DTSTAMP:20260731T023128Z
 UID:espn_belgrano_401841543@efanxp.com
 DESCRIPTION:🏟 Venue: El Gigante de Alberdi\n🏆 Competencia: torneo-cl
  ausura\n👥 Cliente: Belgrano\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
  D interno: espn_belgrano_401841543\n🔄 Última actualización: 2026-07-3
- 0 19:21 UTC
-LAST-MODIFIED:20260730T192136Z
+ 1 02:31 UTC
+LAST-MODIFIED:20260731T023114Z
 LOCATION:El Gigante de Alberdi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:belgrano
@@ -102,13 +84,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Belgrano (Córdoba) vs Estudiantes de Río Cuarto
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260920T150000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260920T170000
-DTSTAMP:20260730T192151Z
+DTSTAMP:20260731T023128Z
 UID:espn_belgrano_401841571@efanxp.com
 DESCRIPTION:🏟 Venue: El Gigante de Alberdi\n🏆 Competencia: torneo-cl
  ausura\n👥 Cliente: Belgrano\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
  D interno: espn_belgrano_401841571\n🔄 Última actualización: 2026-07-3
- 0 19:21 UTC
-LAST-MODIFIED:20260730T192136Z
+ 1 02:31 UTC
+LAST-MODIFIED:20260731T023114Z
 LOCATION:El Gigante de Alberdi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:belgrano
@@ -120,13 +102,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Belgrano (Córdoba) vs River Plate
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261018T150000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261018T170000
-DTSTAMP:20260730T192151Z
+DTSTAMP:20260731T023128Z
 UID:espn_belgrano_401841628@efanxp.com
 DESCRIPTION:🏟 Venue: El Gigante de Alberdi\n🏆 Competencia: torneo-cl
  ausura\n👥 Cliente: Belgrano\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
  D interno: espn_belgrano_401841628\n🔄 Última actualización: 2026-07-3
- 0 19:21 UTC
-LAST-MODIFIED:20260730T192142Z
+ 1 02:31 UTC
+LAST-MODIFIED:20260731T023120Z
 LOCATION:El Gigante de Alberdi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:belgrano
