@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alianza Lima vs UTC
 DTSTART;TZID=America/Lima:20260815T193000
 DTEND;TZID=America/Lima:20260815T213000
-DTSTAMP:20260815T182621Z
+DTSTAMP:20260816T010647Z
 UID:espn_alianza-lima_401886229@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Alejandro Villanueva\n🏆 Competencia: cl
  ausura\n👥 Cliente: Alianza Lima\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_alianza-lima_401886229\n🔄 Última actualización:
-  2026-08-15 18:26 UTC
-LAST-MODIFIED:20260815T182539Z
+  2026-08-16 01:06 UTC
+LAST-MODIFIED:20260816T010624Z
 LOCATION:Estadio Alejandro Villanueva
 STATUS:CONFIRMED
 X-EFANXP-CLUB:alianza-lima
@@ -30,13 +30,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alianza Lima vs Deportivo Garcilaso
 DTSTART;TZID=America/Lima:20260829T193000
 DTEND;TZID=America/Lima:20260829T213000
-DTSTAMP:20260815T182621Z
+DTSTAMP:20260816T010647Z
 UID:espn_alianza-lima_401886213@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Alejandro Villanueva\n🏆 Competencia: cl
  ausura\n👥 Cliente: Alianza Lima\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_alianza-lima_401886213\n🔄 Última actualización:
-  2026-08-15 18:26 UTC
-LAST-MODIFIED:20260815T182539Z
+  2026-08-16 01:06 UTC
+LAST-MODIFIED:20260816T010624Z
 LOCATION:Estadio Alejandro Villanueva
 STATUS:CONFIRMED
 X-EFANXP-CLUB:alianza-lima
@@ -48,13 +48,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alianza Lima vs Universitario
 DTSTART;TZID=America/Lima:20260912T130000
 DTEND;TZID=America/Lima:20260912T150000
-DTSTAMP:20260815T182621Z
+DTSTAMP:20260816T010647Z
 UID:espn_alianza-lima_401886202@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Alejandro Villanueva\n🏆 Competencia: cl
  ausura\n👥 Cliente: Alianza Lima\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_alianza-lima_401886202\n🔄 Última actualización:
-  2026-08-15 18:26 UTC
-LAST-MODIFIED:20260815T182539Z
+  2026-08-16 01:06 UTC
+LAST-MODIFIED:20260816T010624Z
 LOCATION:Estadio Alejandro Villanueva
 STATUS:CONFIRMED
 X-EFANXP-CLUB:alianza-lima
@@ -66,13 +66,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alianza Lima vs ADT
 DTSTART;TZID=America/Lima:20260919T130000
 DTEND;TZID=America/Lima:20260919T150000
-DTSTAMP:20260815T182621Z
+DTSTAMP:20260816T010647Z
 UID:espn_alianza-lima_401886199@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Alejandro Villanueva\n🏆 Competencia: cl
  ausura\n👥 Cliente: Alianza Lima\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_alianza-lima_401886199\n🔄 Última actualización:
-  2026-08-15 18:26 UTC
-LAST-MODIFIED:20260815T182539Z
+  2026-08-16 01:06 UTC
+LAST-MODIFIED:20260816T010624Z
 LOCATION:Estadio Alejandro Villanueva
 STATUS:CONFIRMED
 X-EFANXP-CLUB:alianza-lima
@@ -84,13 +84,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alianza Lima vs Atlético Grau
 DTSTART;TZID=America/Lima:20261017T130000
 DTEND;TZID=America/Lima:20261017T150000
-DTSTAMP:20260815T182621Z
+DTSTAMP:20260816T010647Z
 UID:espn_alianza-lima_401886166@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Alejandro Villanueva\n🏆 Competencia: cl
  ausura\n👥 Cliente: Alianza Lima\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_alianza-lima_401886166\n🔄 Última actualización:
-  2026-08-15 18:26 UTC
-LAST-MODIFIED:20260815T182539Z
+  2026-08-16 01:06 UTC
+LAST-MODIFIED:20260816T010624Z
 LOCATION:Estadio Alejandro Villanueva
 STATUS:CONFIRMED
 X-EFANXP-CLUB:alianza-lima
@@ -102,13 +102,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alianza Lima vs Cienciano del Cusco
 DTSTART;TZID=America/Lima:20261031T130000
 DTEND;TZID=America/Lima:20261031T150000
-DTSTAMP:20260815T182621Z
+DTSTAMP:20260816T010647Z
 UID:espn_alianza-lima_401886148@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Alejandro Villanueva\n🏆 Competencia: cl
  ausura\n👥 Cliente: Alianza Lima\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_alianza-lima_401886148\n🔄 Última actualización:
-  2026-08-15 18:26 UTC
-LAST-MODIFIED:20260815T182539Z
+  2026-08-16 01:06 UTC
+LAST-MODIFIED:20260816T010624Z
 LOCATION:Estadio Alejandro Villanueva
 STATUS:CONFIRMED
 X-EFANXP-CLUB:alianza-lima
@@ -117,16 +117,34 @@ X-EFANXP-SOURCE-ID:espn_alianza-lima_401886148
 X-EFANXP-TYPE:match_home
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:⚽ Alianza Lima vs FC Cajamarca
+DTSTART;TZID=America/Lima:20261114T150000
+DTEND;TZID=America/Lima:20261114T170000
+DTSTAMP:20260816T010647Z
+UID:espn_alianza-lima_401886135@efanxp.com
+DESCRIPTION:🏟 Venue: Estadio Alejandro Villanueva\n🏆 Competencia: cl
+ ausura\n👥 Cliente: Alianza Lima\n🌐 País: N/D\n📡 Fuente: espn\n
+ 🆔 ID interno: espn_alianza-lima_401886135\n🔄 Última actualización:
+  2026-08-16 01:06 UTC
+LAST-MODIFIED:20260816T010624Z
+LOCATION:Estadio Alejandro Villanueva
+STATUS:CONFIRMED
+X-EFANXP-CLUB:alianza-lima
+X-EFANXP-SOURCE:espn
+X-EFANXP-SOURCE-ID:espn_alianza-lima_401886135
+X-EFANXP-TYPE:match_home
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:⚽ Alianza Lima vs Universidad Técnica de Cajamarca
 DTSTART;TZID=America/Lima:20260816T003000
 DTEND;TZID=America/Lima:20260816T023000
-DTSTAMP:20260815T182621Z
+DTSTAMP:20260816T010647Z
 UID:thesportsdb_alianza-lima_2481650@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Alejandro Villanueva\n🏆 Competencia: Pe
  ruvian Primera Division\n👥 Cliente: Alianza Lima\n🌐 País: Peru\n
  📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_alianza-lima_248165
- 0\n🔄 Última actualización: 2026-08-15 18:26 UTC
-LAST-MODIFIED:20260815T182555Z
+ 0\n🔄 Última actualización: 2026-08-16 01:06 UTC
+LAST-MODIFIED:20260816T010633Z
 LOCATION:Estadio Alejandro Villanueva
 STATUS:CONFIRMED
 X-EFANXP-CLUB:alianza-lima
