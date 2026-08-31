@@ -12,12 +12,12 @@ BEGIN:VEVENT
 SUMMARY:⚽ Vélez Sarsfield vs Estudiantes de La Plata
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260905T211500
 DTEND;TZID=America/Argentina/Buenos_Aires:20260905T231500
-DTSTAMP:20260831T123810Z
+DTSTAMP:20260831T222458Z
 UID:espn_velez_401841540@efanxp.com
 DESCRIPTION:🏟 Venue: José Amalfitani\n🏆 Competencia: torneo-clausur
  a\n👥 Cliente: Velez\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID intern
- o: espn_velez_401841540\n🔄 Última actualización: 2026-08-31 12:38 UTC
-LAST-MODIFIED:20260831T123715Z
+ o: espn_velez_401841540\n🔄 Última actualización: 2026-08-31 22:24 UTC
+LAST-MODIFIED:20260831T222401Z
 LOCATION:José Amalfitani
 STATUS:CONFIRMED
 X-EFANXP-CLUB:velez
@@ -29,12 +29,12 @@ BEGIN:VEVENT
 SUMMARY:⚽ Vélez Sarsfield vs Tigre
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260920T213000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260920T233000
-DTSTAMP:20260831T123810Z
+DTSTAMP:20260831T222458Z
 UID:espn_velez_401841570@efanxp.com
 DESCRIPTION:🏟 Venue: José Amalfitani\n🏆 Competencia: torneo-clausur
  a\n👥 Cliente: Velez\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID intern
- o: espn_velez_401841570\n🔄 Última actualización: 2026-08-31 12:38 UTC
-LAST-MODIFIED:20260831T123715Z
+ o: espn_velez_401841570\n🔄 Última actualización: 2026-08-31 22:24 UTC
+LAST-MODIFIED:20260831T222401Z
 LOCATION:José Amalfitani
 STATUS:CONFIRMED
 X-EFANXP-CLUB:velez
@@ -46,12 +46,12 @@ BEGIN:VEVENT
 SUMMARY:⚽ Vélez Sarsfield vs Platense
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261005T190000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261005T210000
-DTSTAMP:20260831T123810Z
+DTSTAMP:20260831T222458Z
 UID:espn_velez_401841585@efanxp.com
 DESCRIPTION:🏟 Venue: José Amalfitani\n🏆 Competencia: torneo-clausur
  a\n👥 Cliente: Velez\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID intern
- o: espn_velez_401841585\n🔄 Última actualización: 2026-08-31 12:38 UTC
-LAST-MODIFIED:20260831T123715Z
+ o: espn_velez_401841585\n🔄 Última actualización: 2026-08-31 22:24 UTC
+LAST-MODIFIED:20260831T222401Z
 LOCATION:José Amalfitani
 STATUS:CONFIRMED
 X-EFANXP-CLUB:velez
@@ -63,12 +63,12 @@ BEGIN:VEVENT
 SUMMARY:⚽ Vélez Sarsfield vs Gimnasia (Mendoza)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261018T150000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261018T170000
-DTSTAMP:20260831T123810Z
+DTSTAMP:20260831T222458Z
 UID:espn_velez_401841616@efanxp.com
 DESCRIPTION:🏟 Venue: José Amalfitani\n🏆 Competencia: torneo-clausur
  a\n👥 Cliente: Velez\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID intern
- o: espn_velez_401841616\n🔄 Última actualización: 2026-08-31 12:38 UTC
-LAST-MODIFIED:20260831T123715Z
+ o: espn_velez_401841616\n🔄 Última actualización: 2026-08-31 22:24 UTC
+LAST-MODIFIED:20260831T222401Z
 LOCATION:José Amalfitani
 STATUS:CONFIRMED
 X-EFANXP-CLUB:velez
@@ -80,12 +80,12 @@ BEGIN:VEVENT
 SUMMARY:⚽ Vélez Sarsfield vs San Lorenzo
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261101T170000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261101T190000
-DTSTAMP:20260831T123810Z
+DTSTAMP:20260831T222458Z
 UID:espn_velez_401841646@efanxp.com
 DESCRIPTION:🏟 Venue: José Amalfitani\n🏆 Competencia: torneo-clausur
  a\n👥 Cliente: Velez\n🌐 País: N/D\n📡 Fuente: espn\n🆔 ID intern
- o: espn_velez_401841646\n🔄 Última actualización: 2026-08-31 12:38 UTC
-LAST-MODIFIED:20260831T123715Z
+ o: espn_velez_401841646\n🔄 Última actualización: 2026-08-31 22:24 UTC
+LAST-MODIFIED:20260831T222401Z
 LOCATION:José Amalfitani
 STATUS:CONFIRMED
 X-EFANXP-CLUB:velez
@@ -97,13 +97,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Vélez Sarsfield vs Boca Juniors
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260903T001500
 DTEND;TZID=America/Argentina/Buenos_Aires:20260903T021500
-DTSTAMP:20260831T123810Z
+DTSTAMP:20260831T222458Z
 UID:thesportsdb_velez_2540103@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Mario Alberto Kempes\n🏆 Competencia: Co
  pa Argentina\n👥 Cliente: Velez\n🌐 País: Argentina\n📡 Fuente: the
  sportsdb\n🆔 ID interno: thesportsdb_velez_2540103\n🔄 Última actuali
- zación: 2026-08-31 12:38 UTC
-LAST-MODIFIED:20260831T123724Z
+ zación: 2026-08-31 22:24 UTC
+LAST-MODIFIED:20260831T222406Z
 LOCATION:Estadio Mario Alberto Kempes
 STATUS:CONFIRMED
 X-EFANXP-CLUB:velez
