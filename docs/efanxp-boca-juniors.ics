@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Boca Juniors vs Lanús
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260828T213000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260828T233000
-DTSTAMP:20260831T032721Z
+DTSTAMP:20260831T123810Z
 UID:espn_boca-juniors_401841527@efanxp.com
 DESCRIPTION:🏟 Venue: Alberto José Armando (La Bombonera)\n🏆 Compete
  ncia: torneo-clausura\n👥 Cliente: Boca Juniors\n🌐 País: N/D\n📡 F
  uente: espn\n🆔 ID interno: espn_boca-juniors_401841527\n🔄 Última ac
- tualización: 2026-08-31 03:27 UTC
-LAST-MODIFIED:20260831T032604Z
+ tualización: 2026-08-31 12:38 UTC
+LAST-MODIFIED:20260831T123652Z
 LOCATION:Alberto José Armando (La Bombonera)
 STATUS:CONFIRMED
 X-EFANXP-CLUB:boca-juniors
@@ -30,13 +30,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Boca Juniors vs Central Córdoba (Santiago del Estero)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260911T213000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260911T233000
-DTSTAMP:20260831T032721Z
+DTSTAMP:20260831T123810Z
 UID:espn_boca-juniors_401841557@efanxp.com
 DESCRIPTION:🏟 Venue: Alberto José Armando (La Bombonera)\n🏆 Compete
  ncia: torneo-clausura\n👥 Cliente: Boca Juniors\n🌐 País: N/D\n📡 F
  uente: espn\n🆔 ID interno: espn_boca-juniors_401841557\n🔄 Última ac
- tualización: 2026-08-31 03:27 UTC
-LAST-MODIFIED:20260831T032604Z
+ tualización: 2026-08-31 12:38 UTC
+LAST-MODIFIED:20260831T123652Z
 LOCATION:Alberto José Armando (La Bombonera)
 STATUS:CONFIRMED
 X-EFANXP-CLUB:boca-juniors
@@ -48,13 +48,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Boca Juniors vs Unión (Santa Fe)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261004T191500
 DTEND;TZID=America/Argentina/Buenos_Aires:20261004T211500
-DTSTAMP:20260831T032721Z
+DTSTAMP:20260831T123810Z
 UID:espn_boca-juniors_401841594@efanxp.com
 DESCRIPTION:🏟 Venue: Alberto José Armando (La Bombonera)\n🏆 Compete
  ncia: torneo-clausura\n👥 Cliente: Boca Juniors\n🌐 País: N/D\n📡 F
  uente: espn\n🆔 ID interno: espn_boca-juniors_401841594\n🔄 Última ac
- tualización: 2026-08-31 03:27 UTC
-LAST-MODIFIED:20260831T032604Z
+ tualización: 2026-08-31 12:38 UTC
+LAST-MODIFIED:20260831T123652Z
 LOCATION:Alberto José Armando (La Bombonera)
 STATUS:CONFIRMED
 X-EFANXP-CLUB:boca-juniors
@@ -66,13 +66,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Boca Juniors vs Talleres (Córdoba)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261018T150000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261018T170000
-DTSTAMP:20260831T032721Z
+DTSTAMP:20260831T123810Z
 UID:espn_boca-juniors_401841627@efanxp.com
 DESCRIPTION:🏟 Venue: Alberto José Armando (La Bombonera)\n🏆 Compete
  ncia: torneo-clausura\n👥 Cliente: Boca Juniors\n🌐 País: N/D\n📡 F
  uente: espn\n🆔 ID interno: espn_boca-juniors_401841627\n🔄 Última ac
- tualización: 2026-08-31 03:27 UTC
-LAST-MODIFIED:20260831T032604Z
+ tualización: 2026-08-31 12:38 UTC
+LAST-MODIFIED:20260831T123652Z
 LOCATION:Alberto José Armando (La Bombonera)
 STATUS:CONFIRMED
 X-EFANXP-CLUB:boca-juniors
@@ -84,13 +84,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Boca Juniors vs River Plate
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261101T170000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261101T190000
-DTSTAMP:20260831T032721Z
+DTSTAMP:20260831T123810Z
 UID:espn_boca-juniors_401841658@efanxp.com
 DESCRIPTION:🏟 Venue: Alberto José Armando (La Bombonera)\n🏆 Compete
  ncia: torneo-clausura\n👥 Cliente: Boca Juniors\n🌐 País: N/D\n📡 F
  uente: espn\n🆔 ID interno: espn_boca-juniors_401841658\n🔄 Última ac
- tualización: 2026-08-31 03:27 UTC
-LAST-MODIFIED:20260831T032604Z
+ tualización: 2026-08-31 12:38 UTC
+LAST-MODIFIED:20260831T123652Z
 LOCATION:Alberto José Armando (La Bombonera)
 STATUS:CONFIRMED
 X-EFANXP-CLUB:boca-juniors
@@ -102,13 +102,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Boca Juniors vs Defensa y Justicia
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261108T170000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261108T190000
-DTSTAMP:20260831T032721Z
+DTSTAMP:20260831T123810Z
 UID:espn_boca-juniors_401841669@efanxp.com
 DESCRIPTION:🏟 Venue: Alberto José Armando (La Bombonera)\n🏆 Compete
  ncia: torneo-clausura\n👥 Cliente: Boca Juniors\n🌐 País: N/D\n📡 F
  uente: espn\n🆔 ID interno: espn_boca-juniors_401841669\n🔄 Última ac
- tualización: 2026-08-31 03:27 UTC
-LAST-MODIFIED:20260831T032604Z
+ tualización: 2026-08-31 12:38 UTC
+LAST-MODIFIED:20260831T123652Z
 LOCATION:Alberto José Armando (La Bombonera)
 STATUS:CONFIRMED
 X-EFANXP-CLUB:boca-juniors
@@ -120,13 +120,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Boca Juniors vs São Paulo
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260908T213000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260908T233000
-DTSTAMP:20260831T032721Z
+DTSTAMP:20260831T123810Z
 UID:espn_boca-juniors_401912542@efanxp.com
 DESCRIPTION:🏟 Venue: Alberto José Armando (La Bombonera)\n🏆 Compete
  ncia: quarterfinals\n👥 Cliente: Boca Juniors\n🌐 País: N/D\n📡 Fue
  nte: espn\n🆔 ID interno: espn_boca-juniors_401912542\n🔄 Última actu
- alización: 2026-08-31 03:27 UTC
-LAST-MODIFIED:20260831T032604Z
+ alización: 2026-08-31 12:38 UTC
+LAST-MODIFIED:20260831T123652Z
 LOCATION:Alberto José Armando (La Bombonera)
 STATUS:CONFIRMED
 X-EFANXP-CLUB:boca-juniors
@@ -138,13 +138,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Boca Juniors vs Lanús
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260829T003000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260829T023000
-DTSTAMP:20260831T032721Z
+DTSTAMP:20260831T123810Z
 UID:thesportsdb_boca-juniors_2398044@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Alberto José Armando\n🏆 Competencia: A
  rgentinian Primera Division\n👥 Cliente: Boca Juniors\n🌐 País: Argen
  tina\n📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_boca-juniors_
- 2398044\n🔄 Última actualización: 2026-08-31 03:27 UTC
-LAST-MODIFIED:20260831T032610Z
+ 2398044\n🔄 Última actualización: 2026-08-31 12:38 UTC
+LAST-MODIFIED:20260831T123659Z
 LOCATION:Estadio Alberto José Armando
 STATUS:CONFIRMED
 X-EFANXP-CLUB:boca-juniors
