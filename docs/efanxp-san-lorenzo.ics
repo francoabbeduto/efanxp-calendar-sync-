@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Lorenzo vs Talleres (Córdoba)
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260905T190000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260905T210000
-DTSTAMP:20260903T202903Z
+DTSTAMP:20260904T024838Z
 UID:espn_san-lorenzo_401841551@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Pedro Bidegain\n🏆 Competencia: torneo-c
  lausura\n👥 Cliente: San Lorenzo\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_san-lorenzo_401841551\n🔄 Última actualización: 
- 2026-09-03 20:29 UTC
-LAST-MODIFIED:20260903T202821Z
+ 2026-09-04 02:48 UTC
+LAST-MODIFIED:20260904T024803Z
 LOCATION:Estadio Pedro Bidegain
 STATUS:CONFIRMED
 X-EFANXP-CLUB:san-lorenzo
@@ -30,13 +30,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Lorenzo vs Boca Juniors
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260920T144500
 DTEND;TZID=America/Argentina/Buenos_Aires:20260920T164500
-DTSTAMP:20260903T202903Z
+DTSTAMP:20260904T024838Z
 UID:espn_san-lorenzo_401841577@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Pedro Bidegain\n🏆 Competencia: torneo-c
  lausura\n👥 Cliente: San Lorenzo\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_san-lorenzo_401841577\n🔄 Última actualización: 
- 2026-09-03 20:29 UTC
-LAST-MODIFIED:20260903T202821Z
+ 2026-09-04 02:48 UTC
+LAST-MODIFIED:20260904T024803Z
 LOCATION:Estadio Pedro Bidegain
 STATUS:CONFIRMED
 X-EFANXP-CLUB:san-lorenzo
@@ -48,13 +48,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Lorenzo vs Deportivo Riestra
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261011T150000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261011T170000
-DTSTAMP:20260903T202903Z
+DTSTAMP:20260904T024838Z
 UID:espn_san-lorenzo_401841601@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Pedro Bidegain\n🏆 Competencia: torneo-c
  lausura\n👥 Cliente: San Lorenzo\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_san-lorenzo_401841601\n🔄 Última actualización: 
- 2026-09-03 20:29 UTC
-LAST-MODIFIED:20260903T202821Z
+ 2026-09-04 02:48 UTC
+LAST-MODIFIED:20260904T024803Z
 LOCATION:Estadio Pedro Bidegain
 STATUS:CONFIRMED
 X-EFANXP-CLUB:san-lorenzo
@@ -66,13 +66,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Lorenzo vs Newell's Old Boys
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261025T150000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261025T170000
-DTSTAMP:20260903T202903Z
+DTSTAMP:20260904T024838Z
 UID:espn_san-lorenzo_401841632@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Pedro Bidegain\n🏆 Competencia: torneo-c
  lausura\n👥 Cliente: San Lorenzo\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_san-lorenzo_401841632\n🔄 Última actualización: 
- 2026-09-03 20:29 UTC
-LAST-MODIFIED:20260903T202821Z
+ 2026-09-04 02:48 UTC
+LAST-MODIFIED:20260904T024803Z
 LOCATION:Estadio Pedro Bidegain
 STATUS:CONFIRMED
 X-EFANXP-CLUB:san-lorenzo
@@ -84,13 +84,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Lorenzo vs Platense
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261108T170000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261108T190000
-DTSTAMP:20260903T202903Z
+DTSTAMP:20260904T024838Z
 UID:espn_san-lorenzo_401841662@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Pedro Bidegain\n🏆 Competencia: torneo-c
  lausura\n👥 Cliente: San Lorenzo\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_san-lorenzo_401841662\n🔄 Última actualización: 
- 2026-09-03 20:29 UTC
-LAST-MODIFIED:20260903T202821Z
+ 2026-09-04 02:48 UTC
+LAST-MODIFIED:20260904T024803Z
 LOCATION:Estadio Pedro Bidegain
 STATUS:CONFIRMED
 X-EFANXP-CLUB:san-lorenzo
@@ -102,13 +102,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Lorenzo vs Talleres de Córdoba
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260905T220000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260906T000000
-DTSTAMP:20260903T202903Z
+DTSTAMP:20260904T024838Z
 UID:thesportsdb_san-lorenzo_2398068@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Pedro Bidegaín\n🏆 Competencia: Argenti
  nian Primera Division\n👥 Cliente: San Lorenzo\n🌐 País: Argentina\n
  📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_san-lorenzo_2398068
- \n🔄 Última actualización: 2026-09-03 20:29 UTC
-LAST-MODIFIED:20260903T202827Z
+ \n🔄 Última actualización: 2026-09-04 02:48 UTC
+LAST-MODIFIED:20260904T024808Z
 LOCATION:Estadio Pedro Bidegaín
 STATUS:CONFIRMED
 X-EFANXP-CLUB:san-lorenzo
