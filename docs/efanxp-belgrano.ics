@@ -9,57 +9,21 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:⚽ Belgrano (Córdoba) vs Estudiantes de Río Cuarto
-DTSTART;TZID=America/Argentina/Buenos_Aires:20260920T191500
-DTEND;TZID=America/Argentina/Buenos_Aires:20260920T211500
-DTSTAMP:20260915T161240Z
-UID:espn_belgrano_401841571@efanxp.com
-DESCRIPTION:🏟 Venue: El Gigante de Alberdi\n🏆 Competencia: torneo-cl
- ausura\n👥 Cliente: Belgrano\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
- D interno: espn_belgrano_401841571\n🔄 Última actualización: 2026-09-1
- 5 16:12 UTC
-LAST-MODIFIED:20260915T161224Z
-LOCATION:El Gigante de Alberdi
+SUMMARY:⚽ Belgrano vs Estudiantes de Río Cuarto
+DTSTART;TZID=America/Argentina/Buenos_Aires:20260920T221500
+DTEND;TZID=America/Argentina/Buenos_Aires:20260921T001500
+DTSTAMP:20260915T205141Z
+UID:thesportsdb_belgrano_2398088@efanxp.com
+DESCRIPTION:🏟 Venue: Estadio Julio César Villagra\n🏆 Competencia: A
+ rgentinian Primera Division\n👥 Cliente: Belgrano\n🌐 País: Argentina
+ \n📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_belgrano_2398088
+ \n🔄 Última actualización: 2026-09-15 20:51 UTC
+LAST-MODIFIED:20260915T205133Z
+LOCATION:Estadio Julio César Villagra
 STATUS:CONFIRMED
 X-EFANXP-CLUB:belgrano
-X-EFANXP-SOURCE:espn
-X-EFANXP-SOURCE-ID:espn_belgrano_401841571
-X-EFANXP-TYPE:match_home
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Belgrano (Córdoba) vs River Plate
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261018T150000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261018T170000
-DTSTAMP:20260915T161240Z
-UID:espn_belgrano_401841628@efanxp.com
-DESCRIPTION:🏟 Venue: El Gigante de Alberdi\n🏆 Competencia: torneo-cl
- ausura\n👥 Cliente: Belgrano\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
- D interno: espn_belgrano_401841628\n🔄 Última actualización: 2026-09-1
- 5 16:12 UTC
-LAST-MODIFIED:20260915T161224Z
-LOCATION:El Gigante de Alberdi
-STATUS:CONFIRMED
-X-EFANXP-CLUB:belgrano
-X-EFANXP-SOURCE:espn
-X-EFANXP-SOURCE-ID:espn_belgrano_401841628
-X-EFANXP-TYPE:match_home
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Belgrano (Córdoba) vs Barracas Central
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261101T170000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261101T190000
-DTSTAMP:20260915T161240Z
-UID:espn_belgrano_401841645@efanxp.com
-DESCRIPTION:🏟 Venue: El Gigante de Alberdi\n🏆 Competencia: torneo-cl
- ausura\n👥 Cliente: Belgrano\n🌐 País: N/D\n📡 Fuente: espn\n🆔 I
- D interno: espn_belgrano_401841645\n🔄 Última actualización: 2026-09-1
- 5 16:12 UTC
-LAST-MODIFIED:20260915T161229Z
-LOCATION:El Gigante de Alberdi
-STATUS:CONFIRMED
-X-EFANXP-CLUB:belgrano
-X-EFANXP-SOURCE:espn
-X-EFANXP-SOURCE-ID:espn_belgrano_401841645
+X-EFANXP-SOURCE:thesportsdb
+X-EFANXP-SOURCE-ID:thesportsdb_belgrano_2398088
 X-EFANXP-TYPE:match_home
 END:VEVENT
 END:VCALENDAR
