@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ River Plate vs Huracán
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260919T190000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260919T210000
-DTSTAMP:20260915T031653Z
+DTSTAMP:20260915T110118Z
 UID:espn_river-plate_401841579@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Más Monumental\n🏆 Competencia: torneo-
  clausura\n👥 Cliente: River Plate\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_river-plate_401841579\n🔄 Última actualización: 
- 2026-09-15 03:16 UTC
-LAST-MODIFIED:20260915T031549Z
+ 2026-09-15 11:01 UTC
+LAST-MODIFIED:20260915T110018Z
 LOCATION:Estadio Más Monumental
 STATUS:CONFIRMED
 X-EFANXP-CLUB:river-plate
@@ -30,13 +30,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ River Plate vs Estudiantes de Río Cuarto
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261011T150000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261011T170000
-DTSTAMP:20260915T031653Z
+DTSTAMP:20260915T110118Z
 UID:espn_river-plate_401841603@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Más Monumental\n🏆 Competencia: torneo-
  clausura\n👥 Cliente: River Plate\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_river-plate_401841603\n🔄 Última actualización: 
- 2026-09-15 03:16 UTC
-LAST-MODIFIED:20260915T031549Z
+ 2026-09-15 11:01 UTC
+LAST-MODIFIED:20260915T110018Z
 LOCATION:Estadio Más Monumental
 STATUS:CONFIRMED
 X-EFANXP-CLUB:river-plate
@@ -48,13 +48,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ River Plate vs Racing Club
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261025T150000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261025T170000
-DTSTAMP:20260915T031653Z
+DTSTAMP:20260915T110118Z
 UID:espn_river-plate_401841634@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Más Monumental\n🏆 Competencia: torneo-
  clausura\n👥 Cliente: River Plate\n🌐 País: N/D\n📡 Fuente: espn\n
  🆔 ID interno: espn_river-plate_401841634\n🔄 Última actualización: 
- 2026-09-15 03:16 UTC
-LAST-MODIFIED:20260915T031554Z
+ 2026-09-15 11:01 UTC
+LAST-MODIFIED:20260915T110022Z
 LOCATION:Estadio Más Monumental
 STATUS:CONFIRMED
 X-EFANXP-CLUB:river-plate
