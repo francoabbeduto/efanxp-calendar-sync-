@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Colo-Colo vs Deportes Concepción
 DTSTART;TZID=America/Santiago:20260913T203000
 DTEND;TZID=America/Santiago:20260913T223000
-DTSTAMP:20260916T104937Z
+DTSTAMP:20260916T160528Z
 UID:thesportsdb_colo-colo_2413088@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Monumental David Arellano\n🏆 Competenci
  a: Chile Primera Division\n👥 Cliente: Colo Colo\n🌐 País: Chile\n
  📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_colo-colo_2413088\n
- 🔄 Última actualización: 2026-09-16 10:49 UTC
-LAST-MODIFIED:20260916T104912Z
+ 🔄 Última actualización: 2026-09-16 16:05 UTC
+LAST-MODIFIED:20260916T160459Z
 LOCATION:Estadio Monumental David Arellano
 STATUS:CONFIRMED
 X-EFANXP-CLUB:colo-colo

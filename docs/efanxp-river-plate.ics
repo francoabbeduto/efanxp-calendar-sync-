@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ River Plate vs Huracán
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260919T220000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260920T000000
-DTSTAMP:20260916T104937Z
+DTSTAMP:20260916T160528Z
 UID:thesportsdb_river-plate_2398096@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Mâs Monumental\n🏆 Competencia: Argenti
  nian Primera Division\n👥 Cliente: River Plate\n🌐 País: Argentina\n
  📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_river-plate_2398096
- \n🔄 Última actualización: 2026-09-16 10:49 UTC
-LAST-MODIFIED:20260916T104822Z
+ \n🔄 Última actualización: 2026-09-16 16:05 UTC
+LAST-MODIFIED:20260916T160411Z
 LOCATION:Estadio Mâs Monumental
 STATUS:CONFIRMED
 X-EFANXP-CLUB:river-plate
