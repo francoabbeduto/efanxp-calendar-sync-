@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Boca Juniors vs Central Córdoba de Santiago del Estero
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260912T003000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260912T023000
-DTSTAMP:20260916T031344Z
+DTSTAMP:20260916T104937Z
 UID:thesportsdb_boca-juniors_2398074@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Alberto José Armando\n🏆 Competencia: A
  rgentinian Primera Division\n👥 Cliente: Boca Juniors\n🌐 País: Argen
  tina\n📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_boca-juniors_
- 2398074\n🔄 Última actualización: 2026-09-16 03:13 UTC
-LAST-MODIFIED:20260916T031220Z
+ 2398074\n🔄 Última actualización: 2026-09-16 10:49 UTC
+LAST-MODIFIED:20260916T104813Z
 LOCATION:Estadio Alberto José Armando
 STATUS:CONFIRMED
 X-EFANXP-CLUB:boca-juniors
