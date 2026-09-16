@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Vélez Sarsfield vs Tigre
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260921T003000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260921T023000
-DTSTAMP:20260915T205141Z
+DTSTAMP:20260916T031344Z
 UID:thesportsdb_velez_2398100@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio José Amalfitani\n🏆 Competencia: Argent
  inian Primera Division\n👥 Cliente: Velez\n🌐 País: Argentina\n📡 F
  uente: thesportsdb\n🆔 ID interno: thesportsdb_velez_2398100\n🔄 Últi
- ma actualización: 2026-09-15 20:51 UTC
-LAST-MODIFIED:20260915T205045Z
+ ma actualización: 2026-09-16 03:13 UTC
+LAST-MODIFIED:20260916T031246Z
 LOCATION:Estadio José Amalfitani
 STATUS:CONFIRMED
 X-EFANXP-CLUB:velez
