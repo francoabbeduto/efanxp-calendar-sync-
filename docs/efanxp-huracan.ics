@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Huracán vs Racing Club
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260914T003000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260914T023000
-DTSTAMP:20260918T103221Z
+DTSTAMP:20260918T154751Z
 UID:thesportsdb_huracan_2398078@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Tomás Adolfo Ducó\n🏆 Competencia: Arg
  entinian Primera Division\n👥 Cliente: Huracan\n🌐 País: Argentina\n
  📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_huracan_2398078\n
- 🔄 Última actualización: 2026-09-18 10:32 UTC
-LAST-MODIFIED:20260918T103133Z
+ 🔄 Última actualización: 2026-09-18 15:47 UTC
+LAST-MODIFIED:20260918T154702Z
 LOCATION:Estadio Tomás Adolfo Ducó
 STATUS:CONFIRMED
 X-EFANXP-CLUB:huracan
