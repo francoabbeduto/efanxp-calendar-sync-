@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Estudiantes de La Plata vs Platense
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260912T174500
 DTEND;TZID=America/Argentina/Buenos_Aires:20260912T194500
-DTSTAMP:20260917T205655Z
+DTSTAMP:20260918T030456Z
 UID:thesportsdb_estudiantes_2398077@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Jorge Luis Hirschi\n🏆 Competencia: Arge
  ntinian Primera Division\n👥 Cliente: Estudiantes\n🌐 País: Argentina
  \n📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_estudiantes_23980
- 77\n🔄 Última actualización: 2026-09-17 20:56 UTC
-LAST-MODIFIED:20260917T205550Z
+ 77\n🔄 Última actualización: 2026-09-18 03:04 UTC
+LAST-MODIFIED:20260918T030349Z
 LOCATION:Estadio Jorge Luis Hirschi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:estudiantes
