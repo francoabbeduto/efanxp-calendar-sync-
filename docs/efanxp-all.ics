@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Boca Juniors vs Central Córdoba de Santiago del Estero
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260912T003000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260912T023000
-DTSTAMP:20260919T151959Z
+DTSTAMP:20260919T200133Z
 UID:thesportsdb_boca-juniors_2398074@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Alberto José Armando\n🏆 Competencia: A
  rgentinian Primera Division\n👥 Cliente: Boca Juniors\n🌐 País: Argen
  tina\n📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_boca-juniors_
- 2398074\n🔄 Última actualización: 2026-09-19 15:19 UTC
-LAST-MODIFIED:20260919T151830Z
+ 2398074\n🔄 Última actualización: 2026-09-19 20:01 UTC
+LAST-MODIFIED:20260919T200002Z
 LOCATION:Estadio Alberto José Armando
 STATUS:CONFIRMED
 X-EFANXP-CLUB:boca-juniors
@@ -30,13 +30,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ River Plate vs Huracán
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260919T220000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260920T000000
-DTSTAMP:20260919T151959Z
+DTSTAMP:20260919T200133Z
 UID:thesportsdb_river-plate_2398096@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Mâs Monumental\n🏆 Competencia: Argenti
  nian Primera Division\n👥 Cliente: River Plate\n🌐 País: Argentina\n
  📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_river-plate_2398096
- \n🔄 Última actualización: 2026-09-19 15:19 UTC
-LAST-MODIFIED:20260919T151838Z
+ \n🔄 Última actualización: 2026-09-19 20:01 UTC
+LAST-MODIFIED:20260919T200011Z
 LOCATION:Estadio Mâs Monumental
 STATUS:CONFIRMED
 X-EFANXP-CLUB:river-plate
@@ -48,13 +48,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Estudiantes de La Plata vs Platense
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260912T174500
 DTEND;TZID=America/Argentina/Buenos_Aires:20260912T194500
-DTSTAMP:20260919T151959Z
+DTSTAMP:20260919T200133Z
 UID:thesportsdb_estudiantes_2398077@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Jorge Luis Hirschi\n🏆 Competencia: Arge
  ntinian Primera Division\n👥 Cliente: Estudiantes\n🌐 País: Argentina
  \n📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_estudiantes_23980
- 77\n🔄 Última actualización: 2026-09-19 15:19 UTC
-LAST-MODIFIED:20260919T151846Z
+ 77\n🔄 Última actualización: 2026-09-19 20:01 UTC
+LAST-MODIFIED:20260919T200020Z
 LOCATION:Estadio Jorge Luis Hirschi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:estudiantes
@@ -66,13 +66,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Vélez Sarsfield vs Tigre
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260921T003000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260921T023000
-DTSTAMP:20260919T151959Z
+DTSTAMP:20260919T200133Z
 UID:thesportsdb_velez_2398100@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio José Amalfitani\n🏆 Competencia: Argent
  inian Primera Division\n👥 Cliente: Velez\n🌐 País: Argentina\n📡 F
  uente: thesportsdb\n🆔 ID interno: thesportsdb_velez_2398100\n🔄 Últi
- ma actualización: 2026-09-19 15:19 UTC
-LAST-MODIFIED:20260919T151854Z
+ ma actualización: 2026-09-19 20:01 UTC
+LAST-MODIFIED:20260919T200028Z
 LOCATION:Estadio José Amalfitani
 STATUS:CONFIRMED
 X-EFANXP-CLUB:velez
@@ -84,13 +84,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Huracán vs Racing Club
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260914T003000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260914T023000
-DTSTAMP:20260919T151959Z
+DTSTAMP:20260919T200133Z
 UID:thesportsdb_huracan_2398078@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Tomás Adolfo Ducó\n🏆 Competencia: Arg
  entinian Primera Division\n👥 Cliente: Huracan\n🌐 País: Argentina\n
  📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_huracan_2398078\n
- 🔄 Última actualización: 2026-09-19 15:19 UTC
-LAST-MODIFIED:20260919T151902Z
+ 🔄 Última actualización: 2026-09-19 20:01 UTC
+LAST-MODIFIED:20260919T200037Z
 LOCATION:Estadio Tomás Adolfo Ducó
 STATUS:CONFIRMED
 X-EFANXP-CLUB:huracan
@@ -102,13 +102,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Lorenzo vs Boca Juniors
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260920T174500
 DTEND;TZID=America/Argentina/Buenos_Aires:20260920T194500
-DTSTAMP:20260919T151959Z
+DTSTAMP:20260919T200133Z
 UID:thesportsdb_san-lorenzo_2398098@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Pedro Bidegaín\n🏆 Competencia: Argenti
  nian Primera Division\n👥 Cliente: San Lorenzo\n🌐 País: Argentina\n
  📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_san-lorenzo_2398098
- \n🔄 Última actualización: 2026-09-19 15:19 UTC
-LAST-MODIFIED:20260919T151917Z
+ \n🔄 Última actualización: 2026-09-19 20:01 UTC
+LAST-MODIFIED:20260919T200055Z
 LOCATION:Estadio Pedro Bidegaín
 STATUS:CONFIRMED
 X-EFANXP-CLUB:san-lorenzo
@@ -120,13 +120,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Colo-Colo vs Deportes Concepción
 DTSTART;TZID=America/Santiago:20260913T203000
 DTEND;TZID=America/Santiago:20260913T223000
-DTSTAMP:20260919T151959Z
+DTSTAMP:20260919T200133Z
 UID:thesportsdb_colo-colo_2413088@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Monumental David Arellano\n🏆 Competenci
  a: Chile Primera Division\n👥 Cliente: Colo Colo\n🌐 País: Chile\n
  📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_colo-colo_2413088\n
- 🔄 Última actualización: 2026-09-19 15:19 UTC
-LAST-MODIFIED:20260919T151925Z
+ 🔄 Última actualización: 2026-09-19 20:01 UTC
+LAST-MODIFIED:20260919T200106Z
 LOCATION:Estadio Monumental David Arellano
 STATUS:CONFIRMED
 X-EFANXP-CLUB:colo-colo
@@ -138,13 +138,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alianza Lima vs ADT
 DTSTART;TZID=America/Lima:20260919T010000
 DTEND;TZID=America/Lima:20260919T030000
-DTSTAMP:20260919T151959Z
+DTSTAMP:20260919T200133Z
 UID:thesportsdb_alianza-lima_2481695@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Alejandro Villanueva\n🏆 Competencia: Pe
  ruvian Primera Division\n👥 Cliente: Alianza Lima\n🌐 País: Peru\n
  📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_alianza-lima_248169
- 5\n🔄 Última actualización: 2026-09-19 15:19 UTC
-LAST-MODIFIED:20260919T151925Z
+ 5\n🔄 Última actualización: 2026-09-19 20:01 UTC
+LAST-MODIFIED:20260919T200106Z
 LOCATION:Estadio Alejandro Villanueva
 STATUS:CONFIRMED
 X-EFANXP-CLUB:alianza-lima
@@ -156,13 +156,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alianza Lima vs Universitario
 DTSTART;TZID=America/Lima:20260913T010000
 DTEND;TZID=America/Lima:20260913T030000
-DTSTAMP:20260919T151959Z
+DTSTAMP:20260919T200133Z
 UID:thesportsdb_alianza-lima_2481687@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Alejandro Villanueva\n🏆 Competencia: Pe
  ruvian Primera Division\n👥 Cliente: Alianza Lima\n🌐 País: Peru\n
  📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_alianza-lima_248168
- 7\n🔄 Última actualización: 2026-09-19 15:19 UTC
-LAST-MODIFIED:20260919T151943Z
+ 7\n🔄 Última actualización: 2026-09-19 20:01 UTC
+LAST-MODIFIED:20260919T200115Z
 LOCATION:Estadio Alejandro Villanueva
 STATUS:CONFIRMED
 X-EFANXP-CLUB:alianza-lima
@@ -174,13 +174,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Belgrano vs Estudiantes de Río Cuarto
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260920T221500
 DTEND;TZID=America/Argentina/Buenos_Aires:20260921T001500
-DTSTAMP:20260919T151959Z
+DTSTAMP:20260919T200133Z
 UID:thesportsdb_belgrano_2398088@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Julio César Villagra\n🏆 Competencia: A
  rgentinian Primera Division\n👥 Cliente: Belgrano\n🌐 País: Argentina
  \n📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_belgrano_2398088
- \n🔄 Última actualización: 2026-09-19 15:19 UTC
-LAST-MODIFIED:20260919T151951Z
+ \n🔄 Última actualización: 2026-09-19 20:01 UTC
+LAST-MODIFIED:20260919T200125Z
 LOCATION:Estadio Julio César Villagra
 STATUS:CONFIRMED
 X-EFANXP-CLUB:belgrano
@@ -192,13 +192,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bahia x Remo
 DTSTART;TZID=America/Bahia:20260914T200000
 DTEND;TZID=America/Bahia:20260914T220000
-DTSTAMP:20260919T151959Z
+DTSTAMP:20260919T200133Z
 UID:venue_scraper_bahia_scraped_8_bahia-x-remo@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: Campeonato Brasileiro\n👥
   Cliente: Bahia\n🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID inte
  rno: venue_scraper_bahia_scraped_8_bahia-x-remo\n🔄 Última actualizaci
- ón: 2026-09-19 15:19 UTC
-LAST-MODIFIED:20260919T151951Z
+ ón: 2026-09-19 20:01 UTC
+LAST-MODIFIED:20260919T200125Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
@@ -209,13 +209,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bahia x Corinthians
 DTSTART;TZID=America/Bahia:20260915T213000
 DTEND;TZID=America/Bahia:20260915T233000
-DTSTAMP:20260919T151959Z
+DTSTAMP:20260919T200133Z
 UID:venue_scraper_bahia_scraped_9_bahia-x-corinthians@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: Campeonato Brasileiro Femin
  ino\n👥 Cliente: Bahia\n🌐 País: N/D\n📡 Fuente: venue_scraper\n
  🆔 ID interno: venue_scraper_bahia_scraped_9_bahia-x-corinthians\n🔄 
- Última actualización: 2026-09-19 15:19 UTC
-LAST-MODIFIED:20260919T151951Z
+ Última actualización: 2026-09-19 20:01 UTC
+LAST-MODIFIED:20260919T200125Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
@@ -226,13 +226,13 @@ BEGIN:VEVENT
 SUMMARY:📅 6ª Feijoada do Amor
 DTSTART;TZID=America/Bahia:20260919T000000
 DTEND;TZID=America/Bahia:20260919T020000
-DTSTAMP:20260919T151959Z
+DTSTAMP:20260919T200133Z
 UID:venue_scraper_bahia_scraped_10_6-feijoada-do-amor@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
  r_bahia_scraped_10_6-feijoada-do-amor\n🔄 Última actualización: 2026-0
- 9-19 15:19 UTC
-LAST-MODIFIED:20260919T151951Z
+ 9-19 20:01 UTC
+LAST-MODIFIED:20260919T200125Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
@@ -243,13 +243,13 @@ BEGIN:VEVENT
 SUMMARY:📅 Xande de Pilares e Revelação
 DTSTART;TZID=America/Bahia:20260926T200000
 DTEND;TZID=America/Bahia:20260926T220000
-DTSTAMP:20260919T151959Z
+DTSTAMP:20260919T200133Z
 UID:venue_scraper_bahia_scraped_11_xande-de-pilares-e-revela-o@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
  r_bahia_scraped_11_xande-de-pilares-e-revela-o\n🔄 Última actualizació
- n: 2026-09-19 15:19 UTC
-LAST-MODIFIED:20260919T151951Z
+ n: 2026-09-19 20:01 UTC
+LAST-MODIFIED:20260919T200125Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
@@ -261,13 +261,13 @@ BEGIN:VEVENT
 SUMMARY:📅 Liniker | Bye Bye Caju
 DTSTART;TZID=America/Bahia:20261218T170000
 DTEND;TZID=America/Bahia:20261218T190000
-DTSTAMP:20260919T151959Z
+DTSTAMP:20260919T200133Z
 UID:venue_scraper_bahia_scraped_12_liniker-bye-bye-caju@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
  r_bahia_scraped_12_liniker-bye-bye-caju\n🔄 Última actualización: 2026
- -09-19 15:19 UTC
-LAST-MODIFIED:20260919T151951Z
+ -09-19 20:01 UTC
+LAST-MODIFIED:20260919T200125Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
@@ -278,13 +278,13 @@ BEGIN:VEVENT
 SUMMARY:📅 O Maior Encontro do Samba
 DTSTART;TZID=America/Bahia:20261219T160000
 DTEND;TZID=America/Bahia:20261219T180000
-DTSTAMP:20260919T151959Z
+DTSTAMP:20260919T200133Z
 UID:venue_scraper_bahia_scraped_13_o-maior-encontro-do-samba@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
  r_bahia_scraped_13_o-maior-encontro-do-samba\n🔄 Última actualización:
-  2026-09-19 15:19 UTC
-LAST-MODIFIED:20260919T151959Z
+  2026-09-19 20:01 UTC
+LAST-MODIFIED:20260919T200133Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
