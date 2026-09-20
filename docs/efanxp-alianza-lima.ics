@@ -12,36 +12,18 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alianza Lima vs ADT
 DTSTART;TZID=America/Lima:20260919T010000
 DTEND;TZID=America/Lima:20260919T030000
-DTSTAMP:20260919T200133Z
+DTSTAMP:20260920T031703Z
 UID:thesportsdb_alianza-lima_2481695@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Alejandro Villanueva\n🏆 Competencia: Pe
  ruvian Primera Division\n👥 Cliente: Alianza Lima\n🌐 País: Peru\n
  📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_alianza-lima_248169
- 5\n🔄 Última actualización: 2026-09-19 20:01 UTC
-LAST-MODIFIED:20260919T200106Z
+ 5\n🔄 Última actualización: 2026-09-20 03:17 UTC
+LAST-MODIFIED:20260920T031646Z
 LOCATION:Estadio Alejandro Villanueva
 STATUS:CONFIRMED
 X-EFANXP-CLUB:alianza-lima
 X-EFANXP-SOURCE:thesportsdb
 X-EFANXP-SOURCE-ID:thesportsdb_alianza-lima_2481695
-X-EFANXP-TYPE:match_home
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Alianza Lima vs Universitario
-DTSTART;TZID=America/Lima:20260913T010000
-DTEND;TZID=America/Lima:20260913T030000
-DTSTAMP:20260919T200133Z
-UID:thesportsdb_alianza-lima_2481687@efanxp.com
-DESCRIPTION:🏟 Venue: Estadio Alejandro Villanueva\n🏆 Competencia: Pe
- ruvian Primera Division\n👥 Cliente: Alianza Lima\n🌐 País: Peru\n
- 📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_alianza-lima_248168
- 7\n🔄 Última actualización: 2026-09-19 20:01 UTC
-LAST-MODIFIED:20260919T200115Z
-LOCATION:Estadio Alejandro Villanueva
-STATUS:CONFIRMED
-X-EFANXP-CLUB:alianza-lima
-X-EFANXP-SOURCE:thesportsdb
-X-EFANXP-SOURCE-ID:thesportsdb_alianza-lima_2481687
 X-EFANXP-TYPE:match_home
 END:VEVENT
 END:VCALENDAR
