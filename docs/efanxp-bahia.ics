@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bahia x Remo
 DTSTART;TZID=America/Bahia:20260914T200000
 DTEND;TZID=America/Bahia:20260914T220000
-DTSTAMP:20260920T201823Z
+DTSTAMP:20260921T031248Z
 UID:venue_scraper_bahia_scraped_8_bahia-x-remo@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: Campeonato Brasileiro\n👥
   Cliente: Bahia\n🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID inte
  rno: venue_scraper_bahia_scraped_8_bahia-x-remo\n🔄 Última actualizaci
- ón: 2026-09-20 20:18 UTC
-LAST-MODIFIED:20260920T201816Z
+ ón: 2026-09-21 03:12 UTC
+LAST-MODIFIED:20260921T031240Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
@@ -29,13 +29,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bahia x Corinthians
 DTSTART;TZID=America/Bahia:20260915T213000
 DTEND;TZID=America/Bahia:20260915T233000
-DTSTAMP:20260920T201824Z
+DTSTAMP:20260921T031248Z
 UID:venue_scraper_bahia_scraped_9_bahia-x-corinthians@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: Campeonato Brasileiro Femin
  ino\n👥 Cliente: Bahia\n🌐 País: N/D\n📡 Fuente: venue_scraper\n
  🆔 ID interno: venue_scraper_bahia_scraped_9_bahia-x-corinthians\n🔄 
- Última actualización: 2026-09-20 20:18 UTC
-LAST-MODIFIED:20260920T201816Z
+ Última actualización: 2026-09-21 03:12 UTC
+LAST-MODIFIED:20260921T031240Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
@@ -46,13 +46,13 @@ BEGIN:VEVENT
 SUMMARY:📅 6ª Feijoada do Amor
 DTSTART;TZID=America/Bahia:20260919T000000
 DTEND;TZID=America/Bahia:20260919T020000
-DTSTAMP:20260920T201824Z
+DTSTAMP:20260921T031248Z
 UID:venue_scraper_bahia_scraped_10_6-feijoada-do-amor@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
  r_bahia_scraped_10_6-feijoada-do-amor\n🔄 Última actualización: 2026-0
- 9-20 20:18 UTC
-LAST-MODIFIED:20260920T201816Z
+ 9-21 03:12 UTC
+LAST-MODIFIED:20260921T031240Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
@@ -63,13 +63,13 @@ BEGIN:VEVENT
 SUMMARY:📅 Xande de Pilares e Revelação
 DTSTART;TZID=America/Bahia:20260926T200000
 DTEND;TZID=America/Bahia:20260926T220000
-DTSTAMP:20260920T201824Z
+DTSTAMP:20260921T031248Z
 UID:venue_scraper_bahia_scraped_11_xande-de-pilares-e-revela-o@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
  r_bahia_scraped_11_xande-de-pilares-e-revela-o\n🔄 Última actualizació
- n: 2026-09-20 20:18 UTC
-LAST-MODIFIED:20260920T201816Z
+ n: 2026-09-21 03:12 UTC
+LAST-MODIFIED:20260921T031240Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
@@ -81,13 +81,13 @@ BEGIN:VEVENT
 SUMMARY:📅 Liniker | Bye Bye Caju
 DTSTART;TZID=America/Bahia:20261218T170000
 DTEND;TZID=America/Bahia:20261218T190000
-DTSTAMP:20260920T201824Z
+DTSTAMP:20260921T031248Z
 UID:venue_scraper_bahia_scraped_12_liniker-bye-bye-caju@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
  r_bahia_scraped_12_liniker-bye-bye-caju\n🔄 Última actualización: 2026
- -09-20 20:18 UTC
-LAST-MODIFIED:20260920T201816Z
+ -09-21 03:12 UTC
+LAST-MODIFIED:20260921T031240Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
@@ -98,13 +98,13 @@ BEGIN:VEVENT
 SUMMARY:📅 O Maior Encontro do Samba
 DTSTART;TZID=America/Bahia:20261219T160000
 DTEND;TZID=America/Bahia:20261219T180000
-DTSTAMP:20260920T201824Z
+DTSTAMP:20260921T031248Z
 UID:venue_scraper_bahia_scraped_13_o-maior-encontro-do-samba@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
  r_bahia_scraped_13_o-maior-encontro-do-samba\n🔄 Última actualización:
-  2026-09-20 20:18 UTC
-LAST-MODIFIED:20260920T201823Z
+  2026-09-21 03:12 UTC
+LAST-MODIFIED:20260921T031248Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
