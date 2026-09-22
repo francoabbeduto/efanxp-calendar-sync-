@@ -9,16 +9,34 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
+SUMMARY:⚽ Vélez Sarsfield vs Platense
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261005T220000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261006T000000
+DTSTAMP:20260922T031149Z
+UID:thesportsdb_velez_2398115@efanxp.com
+DESCRIPTION:🏟 Venue: Estadio José Amalfitani\n🏆 Competencia: Argent
+ inian Primera Division\n👥 Cliente: Velez\n🌐 País: Argentina\n📡 F
+ uente: thesportsdb\n🆔 ID interno: thesportsdb_velez_2398115\n🔄 Últi
+ ma actualización: 2026-09-22 03:11 UTC
+LAST-MODIFIED:20260922T031045Z
+LOCATION:Estadio José Amalfitani
+STATUS:CONFIRMED
+X-EFANXP-CLUB:velez
+X-EFANXP-SOURCE:thesportsdb
+X-EFANXP-SOURCE-ID:thesportsdb_velez_2398115
+X-EFANXP-TYPE:match_home
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:⚽ Vélez Sarsfield vs Tigre
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260921T003000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260921T023000
-DTSTAMP:20260921T214233Z
+DTSTAMP:20260922T031149Z
 UID:thesportsdb_velez_2398100@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio José Amalfitani\n🏆 Competencia: Argent
  inian Primera Division\n👥 Cliente: Velez\n🌐 País: Argentina\n📡 F
  uente: thesportsdb\n🆔 ID interno: thesportsdb_velez_2398100\n🔄 Últi
- ma actualización: 2026-09-21 21:42 UTC
-LAST-MODIFIED:20260921T214136Z
+ ma actualización: 2026-09-22 03:11 UTC
+LAST-MODIFIED:20260922T031053Z
 LOCATION:Estadio José Amalfitani
 STATUS:CONFIRMED
 X-EFANXP-CLUB:velez
