@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Belgrano vs Estudiantes de Río Cuarto
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260920T221500
 DTEND;TZID=America/Argentina/Buenos_Aires:20260921T001500
-DTSTAMP:20260922T031149Z
+DTSTAMP:20260922T105655Z
 UID:thesportsdb_belgrano_2398088@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Julio César Villagra\n🏆 Competencia: A
  rgentinian Primera Division\n👥 Cliente: Belgrano\n🌐 País: Argentina
  \n📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_belgrano_2398088
- \n🔄 Última actualización: 2026-09-22 03:11 UTC
-LAST-MODIFIED:20260922T031141Z
+ \n🔄 Última actualización: 2026-09-22 10:56 UTC
+LAST-MODIFIED:20260922T105643Z
 LOCATION:Estadio Julio César Villagra
 STATUS:CONFIRMED
 X-EFANXP-CLUB:belgrano
