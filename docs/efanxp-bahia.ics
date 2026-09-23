@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:📅 6ª Feijoada do Amor
 DTSTART;TZID=America/Bahia:20260919T000000
 DTEND;TZID=America/Bahia:20260919T020000
-DTSTAMP:20260923T160342Z
+DTSTAMP:20260923T210355Z
 UID:venue_scraper_bahia_scraped_8_6-feijoada-do-amor@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
  r_bahia_scraped_8_6-feijoada-do-amor\n🔄 Última actualización: 2026-09
- -23 16:03 UTC
-LAST-MODIFIED:20260923T160334Z
+ -23 21:03 UTC
+LAST-MODIFIED:20260923T210347Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
@@ -29,13 +29,13 @@ BEGIN:VEVENT
 SUMMARY:📅 Xande de Pilares e Revelação
 DTSTART;TZID=America/Bahia:20260926T200000
 DTEND;TZID=America/Bahia:20260926T220000
-DTSTAMP:20260923T160342Z
+DTSTAMP:20260923T210355Z
 UID:venue_scraper_bahia_scraped_9_xande-de-pilares-e-revela-o@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
  r_bahia_scraped_9_xande-de-pilares-e-revela-o\n🔄 Última actualización
- : 2026-09-23 16:03 UTC
-LAST-MODIFIED:20260923T160334Z
+ : 2026-09-23 21:03 UTC
+LAST-MODIFIED:20260923T210347Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
@@ -47,13 +47,13 @@ BEGIN:VEVENT
 SUMMARY:📅 Liniker | Bye Bye Caju
 DTSTART;TZID=America/Bahia:20261218T170000
 DTEND;TZID=America/Bahia:20261218T190000
-DTSTAMP:20260923T160342Z
+DTSTAMP:20260923T210355Z
 UID:venue_scraper_bahia_scraped_10_liniker-bye-bye-caju@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
  r_bahia_scraped_10_liniker-bye-bye-caju\n🔄 Última actualización: 2026
- -09-23 16:03 UTC
-LAST-MODIFIED:20260923T160334Z
+ -09-23 21:03 UTC
+LAST-MODIFIED:20260923T210347Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
@@ -64,13 +64,13 @@ BEGIN:VEVENT
 SUMMARY:📅 O Maior Encontro do Samba
 DTSTART;TZID=America/Bahia:20261219T160000
 DTEND;TZID=America/Bahia:20261219T180000
-DTSTAMP:20260923T160342Z
+DTSTAMP:20260923T210355Z
 UID:venue_scraper_bahia_scraped_11_o-maior-encontro-do-samba@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
  r_bahia_scraped_11_o-maior-encontro-do-samba\n🔄 Última actualización:
-  2026-09-23 16:03 UTC
-LAST-MODIFIED:20260923T160342Z
+  2026-09-23 21:03 UTC
+LAST-MODIFIED:20260923T210355Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
