@@ -9,37 +9,20 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:📅 6ª Feijoada do Amor
-DTSTART;TZID=America/Bahia:20260919T000000
-DTEND;TZID=America/Bahia:20260919T020000
-DTSTAMP:20260924T210757Z
-UID:venue_scraper_bahia_scraped_8_6-feijoada-do-amor@efanxp.com
-DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
- 🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
- r_bahia_scraped_8_6-feijoada-do-amor\n🔄 Última actualización: 2026-09
- -24 21:07 UTC
-LAST-MODIFIED:20260924T210749Z
-STATUS:CONFIRMED
-X-EFANXP-CLUB:bahia
-X-EFANXP-SOURCE:venue_scraper
-X-EFANXP-SOURCE-ID:venue_scraper_bahia_scraped_8_6-feijoada-do-amor
-X-EFANXP-TYPE:other
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:📅 Xande de Pilares e Revelação
 DTSTART;TZID=America/Bahia:20260926T200000
 DTEND;TZID=America/Bahia:20260926T220000
-DTSTAMP:20260924T210757Z
-UID:venue_scraper_bahia_scraped_9_xande-de-pilares-e-revela-o@efanxp.com
+DTSTAMP:20260925T032034Z
+UID:venue_scraper_bahia_scraped_8_xande-de-pilares-e-revela-o@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
- r_bahia_scraped_9_xande-de-pilares-e-revela-o\n🔄 Última actualización
- : 2026-09-24 21:07 UTC
-LAST-MODIFIED:20260924T210749Z
+ r_bahia_scraped_8_xande-de-pilares-e-revela-o\n🔄 Última actualización
+ : 2026-09-25 03:20 UTC
+LAST-MODIFIED:20260925T032025Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
-X-EFANXP-SOURCE-ID:venue_scraper_bahia_scraped_9_xande-de-pilares-e-revela
+X-EFANXP-SOURCE-ID:venue_scraper_bahia_scraped_8_xande-de-pilares-e-revela
  -o
 X-EFANXP-TYPE:other
 END:VEVENT
@@ -47,34 +30,34 @@ BEGIN:VEVENT
 SUMMARY:📅 Liniker | Bye Bye Caju
 DTSTART;TZID=America/Bahia:20261218T170000
 DTEND;TZID=America/Bahia:20261218T190000
-DTSTAMP:20260924T210757Z
-UID:venue_scraper_bahia_scraped_10_liniker-bye-bye-caju@efanxp.com
+DTSTAMP:20260925T032034Z
+UID:venue_scraper_bahia_scraped_9_liniker-bye-bye-caju@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
- r_bahia_scraped_10_liniker-bye-bye-caju\n🔄 Última actualización: 2026
- -09-24 21:07 UTC
-LAST-MODIFIED:20260924T210749Z
+ r_bahia_scraped_9_liniker-bye-bye-caju\n🔄 Última actualización: 2026-
+ 09-25 03:20 UTC
+LAST-MODIFIED:20260925T032025Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
-X-EFANXP-SOURCE-ID:venue_scraper_bahia_scraped_10_liniker-bye-bye-caju
+X-EFANXP-SOURCE-ID:venue_scraper_bahia_scraped_9_liniker-bye-bye-caju
 X-EFANXP-TYPE:other
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📅 O Maior Encontro do Samba
 DTSTART;TZID=America/Bahia:20261219T160000
 DTEND;TZID=America/Bahia:20261219T180000
-DTSTAMP:20260924T210757Z
-UID:venue_scraper_bahia_scraped_11_o-maior-encontro-do-samba@efanxp.com
+DTSTAMP:20260925T032034Z
+UID:venue_scraper_bahia_scraped_10_o-maior-encontro-do-samba@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
- r_bahia_scraped_11_o-maior-encontro-do-samba\n🔄 Última actualización:
-  2026-09-24 21:07 UTC
-LAST-MODIFIED:20260924T210757Z
+ r_bahia_scraped_10_o-maior-encontro-do-samba\n🔄 Última actualización:
+  2026-09-25 03:20 UTC
+LAST-MODIFIED:20260925T032033Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
-X-EFANXP-SOURCE-ID:venue_scraper_bahia_scraped_11_o-maior-encontro-do-samb
+X-EFANXP-SOURCE-ID:venue_scraper_bahia_scraped_10_o-maior-encontro-do-samb
  a
 X-EFANXP-TYPE:other
 END:VEVENT
