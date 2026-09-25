@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Estudiantes de La Plata vs Rosario Central
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260926T200000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260926T220000
-DTSTAMP:20260925T032033Z
+DTSTAMP:20260925T110548Z
 UID:thesportsdb_estudiantes_2610090@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Jorge Luis Hirschi\n🏆 Competencia: Arge
  ntinian Supercopa Internacional\n👥 Cliente: Estudiantes\n🌐 País: Ar
  gentina\n📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_estudiante
- s_2610090\n🔄 Última actualización: 2026-09-25 03:20 UTC
-LAST-MODIFIED:20260925T031926Z
+ s_2610090\n🔄 Última actualización: 2026-09-25 11:05 UTC
+LAST-MODIFIED:20260925T110441Z
 LOCATION:Estadio Jorge Luis Hirschi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:estudiantes

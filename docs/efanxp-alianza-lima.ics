@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alianza Lima vs ADT
 DTSTART;TZID=America/Lima:20260919T010000
 DTEND;TZID=America/Lima:20260919T030000
-DTSTAMP:20260925T032034Z
+DTSTAMP:20260925T110548Z
 UID:thesportsdb_alianza-lima_2481695@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Alejandro Villanueva\n🏆 Competencia: Pe
  ruvian Primera Division\n👥 Cliente: Alianza Lima\n🌐 País: Peru\n
  📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_alianza-lima_248169
- 5\n🔄 Última actualización: 2026-09-25 03:20 UTC
-LAST-MODIFIED:20260925T032016Z
+ 5\n🔄 Última actualización: 2026-09-25 11:05 UTC
+LAST-MODIFIED:20260925T110531Z
 LOCATION:Estadio Alejandro Villanueva
 STATUS:CONFIRMED
 X-EFANXP-CLUB:alianza-lima

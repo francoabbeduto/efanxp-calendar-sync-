@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ San Lorenzo vs Boca Juniors
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260920T174500
 DTEND;TZID=America/Argentina/Buenos_Aires:20260920T194500
-DTSTAMP:20260925T032034Z
+DTSTAMP:20260925T110548Z
 UID:thesportsdb_san-lorenzo_2398098@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Pedro Bidegaín\n🏆 Competencia: Argenti
  nian Primera Division\n👥 Cliente: San Lorenzo\n🌐 País: Argentina\n
  📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_san-lorenzo_2398098
- \n🔄 Última actualización: 2026-09-25 03:20 UTC
-LAST-MODIFIED:20260925T032000Z
+ \n🔄 Última actualización: 2026-09-25 11:05 UTC
+LAST-MODIFIED:20260925T110515Z
 LOCATION:Estadio Pedro Bidegaín
 STATUS:CONFIRMED
 X-EFANXP-CLUB:san-lorenzo
