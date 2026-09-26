@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Colo-Colo vs Audax Italiano
 DTSTART;TZID=America/Santiago:20260925T230000
 DTEND;TZID=America/Santiago:20260926T010000
-DTSTAMP:20260926T154414Z
+DTSTAMP:20260926T203836Z
 UID:thesportsdb_colo-colo_2599875@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Nacional Julio Martínez Prádanos\n🏆 C
  ompetencia: Copa Chile\n👥 Cliente: Colo Colo\n🌐 País: Chile\n📡 F
  uente: thesportsdb\n🆔 ID interno: thesportsdb_colo-colo_2599875\n🔄 
- Última actualización: 2026-09-26 15:44 UTC
-LAST-MODIFIED:20260926T154349Z
+ Última actualización: 2026-09-26 20:38 UTC
+LAST-MODIFIED:20260926T203810Z
 LOCATION:Estadio Nacional Julio Martínez Prádanos
 STATUS:CONFIRMED
 X-EFANXP-CLUB:colo-colo
