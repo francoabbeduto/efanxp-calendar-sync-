@@ -10,15 +10,15 @@ X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:⚽ Boca Juniors vs Unión
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261004T221500
-DTEND;TZID=America/Argentina/Buenos_Aires:20261005T001500
-DTSTAMP:20260930T035255Z
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261003T003000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261003T023000
+DTSTAMP:20260930T115402Z
 UID:thesportsdb_boca-juniors_2398104@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Alberto José Armando\n🏆 Competencia: A
  rgentinian Primera Division\n👥 Cliente: Boca Juniors\n🌐 País: Argen
  tina\n📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_boca-juniors_
- 2398104\n🔄 Última actualización: 2026-09-30 03:52 UTC
-LAST-MODIFIED:20260930T035140Z
+ 2398104\n🔄 Última actualización: 2026-09-30 11:54 UTC
+LAST-MODIFIED:20260930T115248Z
 LOCATION:Estadio Alberto José Armando
 STATUS:CONFIRMED
 X-EFANXP-CLUB:boca-juniors
@@ -30,13 +30,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Estudiantes de La Plata vs Rosario Central
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260926T190000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260926T210000
-DTSTAMP:20260930T035255Z
+DTSTAMP:20260930T115402Z
 UID:thesportsdb_estudiantes_2610090@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Jorge Luis Hirschi\n🏆 Competencia: Arge
  ntinian Supercopa Internacional\n👥 Cliente: Estudiantes\n🌐 País: Ar
  gentina\n📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_estudiante
- s_2610090\n🔄 Última actualización: 2026-09-30 03:52 UTC
-LAST-MODIFIED:20260930T035148Z
+ s_2610090\n🔄 Última actualización: 2026-09-30 11:54 UTC
+LAST-MODIFIED:20260930T115257Z
 LOCATION:Estadio Jorge Luis Hirschi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:estudiantes
@@ -48,13 +48,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Vélez Sarsfield vs Platense
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261005T220000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261006T000000
-DTSTAMP:20260930T035255Z
+DTSTAMP:20260930T115402Z
 UID:thesportsdb_velez_2398115@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio José Amalfitani\n🏆 Competencia: Argent
  inian Primera Division\n👥 Cliente: Velez\n🌐 País: Argentina\n📡 F
  uente: thesportsdb\n🆔 ID interno: thesportsdb_velez_2398115\n🔄 Últi
- ma actualización: 2026-09-30 03:52 UTC
-LAST-MODIFIED:20260930T035156Z
+ ma actualización: 2026-09-30 11:54 UTC
+LAST-MODIFIED:20260930T115305Z
 LOCATION:Estadio José Amalfitani
 STATUS:CONFIRMED
 X-EFANXP-CLUB:velez
@@ -66,13 +66,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Huracán vs Aldosivi
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261004T003000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261004T023000
-DTSTAMP:20260930T035255Z
+DTSTAMP:20260930T115402Z
 UID:thesportsdb_huracan_2398109@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Tomás Adolfo Ducó\n🏆 Competencia: Arg
  entinian Primera Division\n👥 Cliente: Huracan\n🌐 País: Argentina\n
  📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_huracan_2398109\n
- 🔄 Última actualización: 2026-09-30 03:52 UTC
-LAST-MODIFIED:20260930T035220Z
+ 🔄 Última actualización: 2026-09-30 11:54 UTC
+LAST-MODIFIED:20260930T115328Z
 LOCATION:Estadio Tomás Adolfo Ducó
 STATUS:CONFIRMED
 X-EFANXP-CLUB:huracan
@@ -84,13 +84,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Colo-Colo vs Deportes Puerto Montt
 DTSTART;TZID=America/Santiago:20261006T233000
 DTEND;TZID=America/Santiago:20261007T013000
-DTSTAMP:20260930T035255Z
+DTSTAMP:20260930T115402Z
 UID:thesportsdb_colo-colo_2611009@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Monumental David Arellano\n🏆 Competenci
  a: Copa Chile\n👥 Cliente: Colo Colo\n🌐 País: Chile\n📡 Fuente: th
  esportsdb\n🆔 ID interno: thesportsdb_colo-colo_2611009\n🔄 Última ac
- tualización: 2026-09-30 03:52 UTC
-LAST-MODIFIED:20260930T035220Z
+ tualización: 2026-09-30 11:54 UTC
+LAST-MODIFIED:20260930T115328Z
 LOCATION:Estadio Monumental David Arellano
 STATUS:CONFIRMED
 X-EFANXP-CLUB:colo-colo
@@ -102,18 +102,36 @@ BEGIN:VEVENT
 SUMMARY:⚽ Colo-Colo vs Audax Italiano
 DTSTART;TZID=America/Santiago:20260925T230000
 DTEND;TZID=America/Santiago:20260926T010000
-DTSTAMP:20260930T035255Z
+DTSTAMP:20260930T115402Z
 UID:thesportsdb_colo-colo_2599875@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Nacional Julio Martínez Prádanos\n🏆 C
  ompetencia: Copa Chile\n👥 Cliente: Colo Colo\n🌐 País: Chile\n📡 F
  uente: thesportsdb\n🆔 ID interno: thesportsdb_colo-colo_2599875\n🔄 
- Última actualización: 2026-09-30 03:52 UTC
-LAST-MODIFIED:20260930T035255Z
+ Última actualización: 2026-09-30 11:54 UTC
+LAST-MODIFIED:20260930T115336Z
 LOCATION:Estadio Nacional Julio Martínez Prádanos
 STATUS:CONFIRMED
 X-EFANXP-CLUB:colo-colo
 X-EFANXP-SOURCE:thesportsdb
 X-EFANXP-SOURCE-ID:thesportsdb_colo-colo_2599875
+X-EFANXP-TYPE:match_home
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Alianza Lima vs Palestino
+DTSTART;TZID=America/Lima:20261001T010000
+DTEND;TZID=America/Lima:20261001T030000
+DTSTAMP:20260930T115402Z
+UID:thesportsdb_alianza-lima_2611513@efanxp.com
+DESCRIPTION:🏟 Venue: Estadio Alejandro Villanueva\n🏆 Competencia: Cl
+ ub Friendlies\n👥 Cliente: Alianza Lima\n🌐 País: Peru\n📡 Fuente: 
+ thesportsdb\n🆔 ID interno: thesportsdb_alianza-lima_2611513\n🔄 Últi
+ ma actualización: 2026-09-30 11:54 UTC
+LAST-MODIFIED:20260930T115402Z
+LOCATION:Estadio Alejandro Villanueva
+STATUS:CONFIRMED
+X-EFANXP-CLUB:alianza-lima
+X-EFANXP-SOURCE:thesportsdb
+X-EFANXP-SOURCE-ID:thesportsdb_alianza-lima_2611513
 X-EFANXP-TYPE:match_home
 END:VEVENT
 END:VCALENDAR
