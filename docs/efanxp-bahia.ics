@@ -9,34 +9,33 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:📅 Xande de Pilares e Revelação
-DTSTART;TZID=America/Bahia:20260926T200000
-DTEND;TZID=America/Bahia:20260926T220000
-DTSTAMP:20260928T125119Z
-UID:venue_scraper_bahia_scraped_8_xande-de-pilares-e-revela-o@efanxp.com
-DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
- 🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
- r_bahia_scraped_8_xande-de-pilares-e-revela-o\n🔄 Última actualización
- : 2026-09-28 12:51 UTC
-LAST-MODIFIED:20260928T125112Z
+SUMMARY:⚽ Bahia x Mirassol
+DTSTART;TZID=America/Bahia:20261011T193000
+DTEND;TZID=America/Bahia:20261011T213000
+DTSTAMP:20261001T222018Z
+UID:venue_scraper_bahia_scraped_8_bahia-x-mirassol@efanxp.com
+DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: Campeonato Brasileiro\n👥
+  Cliente: Bahia\n🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID inte
+ rno: venue_scraper_bahia_scraped_8_bahia-x-mirassol\n🔄 Última actualiz
+ ación: 2026-10-01 22:20 UTC
+LAST-MODIFIED:20261001T222009Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
-X-EFANXP-SOURCE-ID:venue_scraper_bahia_scraped_8_xande-de-pilares-e-revela
- -o
-X-EFANXP-TYPE:other
+X-EFANXP-SOURCE-ID:venue_scraper_bahia_scraped_8_bahia-x-mirassol
+X-EFANXP-TYPE:match_home
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📅 Liniker | Bye Bye Caju
 DTSTART;TZID=America/Bahia:20261218T170000
 DTEND;TZID=America/Bahia:20261218T190000
-DTSTAMP:20260928T125119Z
+DTSTAMP:20261001T222018Z
 UID:venue_scraper_bahia_scraped_9_liniker-bye-bye-caju@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
  r_bahia_scraped_9_liniker-bye-bye-caju\n🔄 Última actualización: 2026-
- 09-28 12:51 UTC
-LAST-MODIFIED:20260928T125112Z
+ 10-01 22:20 UTC
+LAST-MODIFIED:20261001T222009Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
@@ -47,13 +46,13 @@ BEGIN:VEVENT
 SUMMARY:📅 O Maior Encontro do Samba
 DTSTART;TZID=America/Bahia:20261219T160000
 DTEND;TZID=America/Bahia:20261219T180000
-DTSTAMP:20260928T125119Z
+DTSTAMP:20261001T222018Z
 UID:venue_scraper_bahia_scraped_10_o-maior-encontro-do-samba@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
  r_bahia_scraped_10_o-maior-encontro-do-samba\n🔄 Última actualización:
-  2026-09-28 12:51 UTC
-LAST-MODIFIED:20260928T125119Z
+  2026-10-01 22:20 UTC
+LAST-MODIFIED:20261001T222018Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper

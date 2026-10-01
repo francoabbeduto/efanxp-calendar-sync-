@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Boca Juniors vs Unión
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261003T003000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261003T023000
-DTSTAMP:20261001T122413Z
+DTSTAMP:20261001T222018Z
 UID:thesportsdb_boca-juniors_2398104@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Alberto José Armando\n🏆 Competencia: A
  rgentinian Primera Division\n👥 Cliente: Boca Juniors\n🌐 País: Argen
  tina\n📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_boca-juniors_
- 2398104\n🔄 Última actualización: 2026-10-01 12:24 UTC
-LAST-MODIFIED:20261001T122259Z
+ 2398104\n🔄 Última actualización: 2026-10-01 22:20 UTC
+LAST-MODIFIED:20261001T221902Z
 LOCATION:Estadio Alberto José Armando
 STATUS:CONFIRMED
 X-EFANXP-CLUB:boca-juniors
