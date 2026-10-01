@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Vélez Sarsfield vs Platense
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261005T220000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261006T000000
-DTSTAMP:20261001T040118Z
+DTSTAMP:20261001T122413Z
 UID:thesportsdb_velez_2398115@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio José Amalfitani\n🏆 Competencia: Argent
  inian Primera Division\n👥 Cliente: Velez\n🌐 País: Argentina\n📡 F
  uente: thesportsdb\n🆔 ID interno: thesportsdb_velez_2398115\n🔄 Últi
- ma actualización: 2026-10-01 04:01 UTC
-LAST-MODIFIED:20261001T040018Z
+ ma actualización: 2026-10-01 12:24 UTC
+LAST-MODIFIED:20261001T122315Z
 LOCATION:Estadio José Amalfitani
 STATUS:CONFIRMED
 X-EFANXP-CLUB:velez
