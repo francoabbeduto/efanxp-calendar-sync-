@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Huracán vs Aldosivi
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261004T174500
 DTEND;TZID=America/Argentina/Buenos_Aires:20261004T194500
-DTSTAMP:20261001T222018Z
+DTSTAMP:20261002T035730Z
 UID:thesportsdb_huracan_2398109@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Tomás Adolfo Ducó\n🏆 Competencia: Arg
  entinian Primera Division\n👥 Cliente: Huracan\n🌐 País: Argentina\n
  📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_huracan_2398109\n
- 🔄 Última actualización: 2026-10-01 22:20 UTC
-LAST-MODIFIED:20261001T221941Z
+ 🔄 Última actualización: 2026-10-02 03:57 UTC
+LAST-MODIFIED:20261002T035651Z
 LOCATION:Estadio Tomás Adolfo Ducó
 STATUS:CONFIRMED
 X-EFANXP-CLUB:huracan
