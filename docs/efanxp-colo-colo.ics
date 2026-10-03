@@ -12,36 +12,18 @@ BEGIN:VEVENT
 SUMMARY:⚽ Colo-Colo vs Deportes Puerto Montt
 DTSTART;TZID=America/Santiago:20261006T233000
 DTEND;TZID=America/Santiago:20261007T013000
-DTSTAMP:20261002T172546Z
+DTSTAMP:20261003T034205Z
 UID:thesportsdb_colo-colo_2611009@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Monumental David Arellano\n🏆 Competenci
  a: Copa Chile\n👥 Cliente: Colo Colo\n🌐 País: Chile\n📡 Fuente: th
  esportsdb\n🆔 ID interno: thesportsdb_colo-colo_2611009\n🔄 Última ac
- tualización: 2026-10-02 17:25 UTC
-LAST-MODIFIED:20261002T172512Z
+ tualización: 2026-10-03 03:42 UTC
+LAST-MODIFIED:20261003T034140Z
 LOCATION:Estadio Monumental David Arellano
 STATUS:CONFIRMED
 X-EFANXP-CLUB:colo-colo
 X-EFANXP-SOURCE:thesportsdb
 X-EFANXP-SOURCE-ID:thesportsdb_colo-colo_2611009
-X-EFANXP-TYPE:match_home
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚽ Colo-Colo vs Audax Italiano
-DTSTART;TZID=America/Santiago:20260925T230000
-DTEND;TZID=America/Santiago:20260926T010000
-DTSTAMP:20261002T172546Z
-UID:thesportsdb_colo-colo_2599875@efanxp.com
-DESCRIPTION:🏟 Venue: Estadio Nacional Julio Martínez Prádanos\n🏆 C
- ompetencia: Copa Chile\n👥 Cliente: Colo Colo\n🌐 País: Chile\n📡 F
- uente: thesportsdb\n🆔 ID interno: thesportsdb_colo-colo_2599875\n🔄 
- Última actualización: 2026-10-02 17:25 UTC
-LAST-MODIFIED:20261002T172520Z
-LOCATION:Estadio Nacional Julio Martínez Prádanos
-STATUS:CONFIRMED
-X-EFANXP-CLUB:colo-colo
-X-EFANXP-SOURCE:thesportsdb
-X-EFANXP-SOURCE-ID:thesportsdb_colo-colo_2599875
 X-EFANXP-TYPE:match_home
 END:VEVENT
 END:VCALENDAR
