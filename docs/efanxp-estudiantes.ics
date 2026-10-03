@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Estudiantes de La Plata vs Gimnasia y Esgrima de Mendoza
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261005T220000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261006T000000
-DTSTAMP:20261003T110448Z
+DTSTAMP:20261003T154153Z
 UID:thesportsdb_estudiantes_2398107@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Jorge Luis Hirschi\n🏆 Competencia: Arge
  ntinian Primera Division\n👥 Cliente: Estudiantes\n🌐 País: Argentina
  \n📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_estudiantes_23981
- 07\n🔄 Última actualización: 2026-10-03 11:04 UTC
-LAST-MODIFIED:20261003T110334Z
+ 07\n🔄 Última actualización: 2026-10-03 15:41 UTC
+LAST-MODIFIED:20261003T154040Z
 LOCATION:Estadio Jorge Luis Hirschi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:estudiantes
@@ -30,13 +30,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Estudiantes de La Plata vs Rosario Central
 DTSTART;TZID=America/Argentina/Buenos_Aires:20260926T190000
 DTEND;TZID=America/Argentina/Buenos_Aires:20260926T210000
-DTSTAMP:20261003T110448Z
+DTSTAMP:20261003T154153Z
 UID:thesportsdb_estudiantes_2610090@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Jorge Luis Hirschi\n🏆 Competencia: Arge
  ntinian Supercopa Internacional\n👥 Cliente: Estudiantes\n🌐 País: Ar
  gentina\n📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_estudiante
- s_2610090\n🔄 Última actualización: 2026-10-03 11:04 UTC
-LAST-MODIFIED:20261003T110342Z
+ s_2610090\n🔄 Última actualización: 2026-10-03 15:41 UTC
+LAST-MODIFIED:20261003T154048Z
 LOCATION:Estadio Jorge Luis Hirschi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:estudiantes
