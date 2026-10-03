@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alianza Lima vs Palestino
 DTSTART;TZID=America/Lima:20261001T010000
 DTEND;TZID=America/Lima:20261001T030000
-DTSTAMP:20261003T034205Z
+DTSTAMP:20261003T110448Z
 UID:thesportsdb_alianza-lima_2611513@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Alejandro Villanueva\n🏆 Competencia: Cl
  ub Friendlies\n👥 Cliente: Alianza Lima\n🌐 País: Peru\n📡 Fuente: 
  thesportsdb\n🆔 ID interno: thesportsdb_alianza-lima_2611513\n🔄 Últi
- ma actualización: 2026-10-03 03:42 UTC
-LAST-MODIFIED:20261003T034157Z
+ ma actualización: 2026-10-03 11:04 UTC
+LAST-MODIFIED:20261003T110440Z
 LOCATION:Estadio Alejandro Villanueva
 STATUS:CONFIRMED
 X-EFANXP-CLUB:alianza-lima
