@@ -10,15 +10,15 @@ X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:⚽ San Lorenzo vs Deportivo Riestra
-DTSTART;TZID=America/Argentina/Buenos_Aires:20261011T200000
-DTEND;TZID=America/Argentina/Buenos_Aires:20261011T220000
-DTSTAMP:20261005T035629Z
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261011T174500
+DTEND;TZID=America/Argentina/Buenos_Aires:20261011T194500
+DTSTAMP:20261005T133254Z
 UID:thesportsdb_san-lorenzo_2398127@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Pedro Bidegaín\n🏆 Competencia: Argenti
  nian Primera Division\n👥 Cliente: San Lorenzo\n🌐 País: Argentina\n
  📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_san-lorenzo_2398127
- \n🔄 Última actualización: 2026-10-05 03:56 UTC
-LAST-MODIFIED:20261005T035552Z
+ \n🔄 Última actualización: 2026-10-05 13:32 UTC
+LAST-MODIFIED:20261005T133221Z
 LOCATION:Estadio Pedro Bidegaín
 STATUS:CONFIRMED
 X-EFANXP-CLUB:san-lorenzo
