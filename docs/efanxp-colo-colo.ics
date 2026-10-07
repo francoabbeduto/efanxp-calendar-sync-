@@ -10,15 +10,15 @@ X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:⚽ Colo-Colo vs Deportes Puerto Montt
-DTSTART;TZID=America/Santiago:20261006T230000
-DTEND;TZID=America/Santiago:20261007T010000
-DTSTAMP:20261006T221821Z
+DTSTART;TZID=America/Santiago:20261006T233000
+DTEND;TZID=America/Santiago:20261007T013000
+DTSTAMP:20261007T041316Z
 UID:thesportsdb_colo-colo_2611009@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Monumental David Arellano\n🏆 Competenci
  a: Copa Chile\n👥 Cliente: Colo Colo\n🌐 País: Chile\n📡 Fuente: th
  esportsdb\n🆔 ID interno: thesportsdb_colo-colo_2611009\n🔄 Última ac
- tualización: 2026-10-06 22:18 UTC
-LAST-MODIFIED:20261006T221755Z
+ tualización: 2026-10-07 04:13 UTC
+LAST-MODIFIED:20261007T041250Z
 LOCATION:Estadio Monumental David Arellano
 STATUS:CONFIRMED
 X-EFANXP-CLUB:colo-colo
