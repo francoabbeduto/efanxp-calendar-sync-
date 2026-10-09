@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bahia x Mirassol
 DTSTART;TZID=America/Bahia:20261011T193000
 DTEND;TZID=America/Bahia:20261011T213000
-DTSTAMP:20261009T123316Z
+DTSTAMP:20261009T221345Z
 UID:venue_scraper_bahia_scraped_8_bahia-x-mirassol@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: Campeonato Brasileiro\n👥
   Cliente: Bahia\n🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID inte
  rno: venue_scraper_bahia_scraped_8_bahia-x-mirassol\n🔄 Última actualiz
- ación: 2026-10-09 12:33 UTC
-LAST-MODIFIED:20261009T123309Z
+ ación: 2026-10-09 22:13 UTC
+LAST-MODIFIED:20261009T221337Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
@@ -26,54 +26,71 @@ X-EFANXP-SOURCE-ID:venue_scraper_bahia_scraped_8_bahia-x-mirassol
 X-EFANXP-TYPE:match_home
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📅 Turnê Dominguinho
-DTSTART;TZID=America/Bahia:20261128T190000
-DTEND;TZID=America/Bahia:20261128T210000
-DTSTAMP:20261009T123316Z
-UID:venue_scraper_bahia_scraped_9_turn-dominguinho@efanxp.com
-DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
- 🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
- r_bahia_scraped_9_turn-dominguinho\n🔄 Última actualización: 2026-10-0
- 9 12:33 UTC
-LAST-MODIFIED:20261009T123309Z
+SUMMARY:⚽ Bahia x Flamengo
+DTSTART;TZID=America/Bahia:20261018T183000
+DTEND;TZID=America/Bahia:20261018T203000
+DTSTAMP:20261009T221345Z
+UID:venue_scraper_bahia_scraped_9_bahia-x-flamengo@efanxp.com
+DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: Campeonato Brasileiro\n👥
+  Cliente: Bahia\n🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID inte
+ rno: venue_scraper_bahia_scraped_9_bahia-x-flamengo\n🔄 Última actualiz
+ ación: 2026-10-09 22:13 UTC
+LAST-MODIFIED:20261009T221337Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
-X-EFANXP-SOURCE-ID:venue_scraper_bahia_scraped_9_turn-dominguinho
+X-EFANXP-SOURCE-ID:venue_scraper_bahia_scraped_9_bahia-x-flamengo
+X-EFANXP-TYPE:match_home
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 Turnê Dominguinho
+DTSTART;TZID=America/Bahia:20261128T190000
+DTEND;TZID=America/Bahia:20261128T210000
+DTSTAMP:20261009T221345Z
+UID:venue_scraper_bahia_scraped_10_turn-dominguinho@efanxp.com
+DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
+ 🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
+ r_bahia_scraped_10_turn-dominguinho\n🔄 Última actualización: 2026-10-
+ 09 22:13 UTC
+LAST-MODIFIED:20261009T221337Z
+STATUS:CONFIRMED
+X-EFANXP-CLUB:bahia
+X-EFANXP-SOURCE:venue_scraper
+X-EFANXP-SOURCE-ID:venue_scraper_bahia_scraped_10_turn-dominguinho
 X-EFANXP-TYPE:other
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📅 Liniker | Bye Bye Caju
 DTSTART;TZID=America/Bahia:20261218T170000
 DTEND;TZID=America/Bahia:20261218T190000
-DTSTAMP:20261009T123316Z
-UID:venue_scraper_bahia_scraped_10_liniker-bye-bye-caju@efanxp.com
+DTSTAMP:20261009T221345Z
+UID:venue_scraper_bahia_scraped_11_liniker-bye-bye-caju@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
- r_bahia_scraped_10_liniker-bye-bye-caju\n🔄 Última actualización: 2026
- -10-09 12:33 UTC
-LAST-MODIFIED:20261009T123309Z
+ r_bahia_scraped_11_liniker-bye-bye-caju\n🔄 Última actualización: 2026
+ -10-09 22:13 UTC
+LAST-MODIFIED:20261009T221337Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
-X-EFANXP-SOURCE-ID:venue_scraper_bahia_scraped_10_liniker-bye-bye-caju
+X-EFANXP-SOURCE-ID:venue_scraper_bahia_scraped_11_liniker-bye-bye-caju
 X-EFANXP-TYPE:other
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📅 O Maior Encontro do Samba
 DTSTART;TZID=America/Bahia:20261219T160000
 DTEND;TZID=America/Bahia:20261219T180000
-DTSTAMP:20261009T123316Z
-UID:venue_scraper_bahia_scraped_11_o-maior-encontro-do-samba@efanxp.com
+DTSTAMP:20261009T221345Z
+UID:venue_scraper_bahia_scraped_12_o-maior-encontro-do-samba@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
- r_bahia_scraped_11_o-maior-encontro-do-samba\n🔄 Última actualización:
-  2026-10-09 12:33 UTC
-LAST-MODIFIED:20261009T123316Z
+ r_bahia_scraped_12_o-maior-encontro-do-samba\n🔄 Última actualización:
+  2026-10-09 22:13 UTC
+LAST-MODIFIED:20261009T221345Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
-X-EFANXP-SOURCE-ID:venue_scraper_bahia_scraped_11_o-maior-encontro-do-samb
+X-EFANXP-SOURCE-ID:venue_scraper_bahia_scraped_12_o-maior-encontro-do-samb
  a
 X-EFANXP-TYPE:other
 END:VEVENT
