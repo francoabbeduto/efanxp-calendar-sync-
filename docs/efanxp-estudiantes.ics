@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Estudiantes de La Plata vs Gimnasia y Esgrima de Mendoza
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261005T220000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261006T000000
-DTSTAMP:20261010T165630Z
+DTSTAMP:20261010T210911Z
 UID:thesportsdb_estudiantes_2398107@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Jorge Luis Hirschi\n🏆 Competencia: Arge
  ntinian Primera Division\n👥 Cliente: Estudiantes\n🌐 País: Argentina
  \n📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_estudiantes_23981
- 07\n🔄 Última actualización: 2026-10-10 16:56 UTC
-LAST-MODIFIED:20261010T165525Z
+ 07\n🔄 Última actualización: 2026-10-10 21:09 UTC
+LAST-MODIFIED:20261010T210801Z
 LOCATION:Estadio Jorge Luis Hirschi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:estudiantes
