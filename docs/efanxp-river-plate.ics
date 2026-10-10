@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ River Plate vs Estudiantes de Río Cuarto
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261011T003000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261011T023000
-DTSTAMP:20261009T221345Z
+DTSTAMP:20261010T041446Z
 UID:thesportsdb_river-plate_2398125@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Mâs Monumental\n🏆 Competencia: Argenti
  nian Primera Division\n👥 Cliente: River Plate\n🌐 País: Argentina\n
  📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_river-plate_2398125
- \n🔄 Última actualización: 2026-10-09 22:13 UTC
-LAST-MODIFIED:20261009T221232Z
+ \n🔄 Última actualización: 2026-10-10 04:14 UTC
+LAST-MODIFIED:20261010T041311Z
 LOCATION:Estadio Mâs Monumental
 STATUS:CONFIRMED
 X-EFANXP-CLUB:river-plate
