@@ -9,16 +9,34 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
+SUMMARY:⚽ Estudiantes de La Plata vs Flamengo
+DTSTART;TZID=America/Argentina/Buenos_Aires:20261013T200000
+DTEND;TZID=America/Argentina/Buenos_Aires:20261013T220000
+DTSTAMP:20261011T035221Z
+UID:thesportsdb_estudiantes_2607182@efanxp.com
+DESCRIPTION:🏟 Venue: Estadio Jorge Luis Hirschi\n🏆 Competencia: Copa
+  Libertadores\n👥 Cliente: Estudiantes\n🌐 País: Argentina\n📡 Fuen
+ te: thesportsdb\n🆔 ID interno: thesportsdb_estudiantes_2607182\n🔄 Ú
+ ltima actualización: 2026-10-11 03:52 UTC
+LAST-MODIFIED:20261011T035024Z
+LOCATION:Estadio Jorge Luis Hirschi
+STATUS:CONFIRMED
+X-EFANXP-CLUB:estudiantes
+X-EFANXP-SOURCE:thesportsdb
+X-EFANXP-SOURCE-ID:thesportsdb_estudiantes_2607182
+X-EFANXP-TYPE:match_home
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:⚽ Estudiantes de La Plata vs Gimnasia y Esgrima de Mendoza
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261005T220000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261006T000000
-DTSTAMP:20261010T210911Z
+DTSTAMP:20261011T035221Z
 UID:thesportsdb_estudiantes_2398107@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Jorge Luis Hirschi\n🏆 Competencia: Arge
  ntinian Primera Division\n👥 Cliente: Estudiantes\n🌐 País: Argentina
  \n📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_estudiantes_23981
- 07\n🔄 Última actualización: 2026-10-10 21:09 UTC
-LAST-MODIFIED:20261010T210801Z
+ 07\n🔄 Última actualización: 2026-10-11 03:52 UTC
+LAST-MODIFIED:20261011T035043Z
 LOCATION:Estadio Jorge Luis Hirschi
 STATUS:CONFIRMED
 X-EFANXP-CLUB:estudiantes
