@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Huracán vs Gimnasia y Esgrima de La Plata
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261018T200000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261018T220000
-DTSTAMP:20261011T120447Z
+DTSTAMP:20261011T212755Z
 UID:thesportsdb_huracan_2398139@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Tomás Adolfo Ducó\n🏆 Competencia: Arg
  entinian Primera Division\n👥 Cliente: Huracan\n🌐 País: Argentina\n
  📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_huracan_2398139\n
- 🔄 Última actualización: 2026-10-11 12:04 UTC
-LAST-MODIFIED:20261011T120346Z
+ 🔄 Última actualización: 2026-10-11 21:27 UTC
+LAST-MODIFIED:20261011T212655Z
 LOCATION:Estadio Tomás Adolfo Ducó
 STATUS:CONFIRMED
 X-EFANXP-CLUB:huracan
@@ -30,13 +30,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Huracán vs Aldosivi
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261004T174500
 DTEND;TZID=America/Argentina/Buenos_Aires:20261004T194500
-DTSTAMP:20261011T120447Z
+DTSTAMP:20261011T212755Z
 UID:thesportsdb_huracan_2398109@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Tomás Adolfo Ducó\n🏆 Competencia: Arg
  entinian Primera Division\n👥 Cliente: Huracan\n🌐 País: Argentina\n
  📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_huracan_2398109\n
- 🔄 Última actualización: 2026-10-11 12:04 UTC
-LAST-MODIFIED:20261011T120354Z
+ 🔄 Última actualización: 2026-10-11 21:27 UTC
+LAST-MODIFIED:20261011T212704Z
 LOCATION:Estadio Tomás Adolfo Ducó
 STATUS:CONFIRMED
 X-EFANXP-CLUB:huracan
