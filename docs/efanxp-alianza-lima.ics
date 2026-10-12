@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Alianza Lima vs Atlético Grau
 DTSTART;TZID=America/Lima:20261018T013000
 DTEND;TZID=America/Lima:20261018T033000
-DTSTAMP:20261012T041441Z
+DTSTAMP:20261012T142226Z
 UID:thesportsdb_alianza-lima_2481713@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Alejandro Villanueva\n🏆 Competencia: Pe
  ruvian Primera Division\n👥 Cliente: Alianza Lima\n🌐 País: Peru\n
  📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_alianza-lima_248171
- 3\n🔄 Última actualización: 2026-10-12 04:14 UTC
-LAST-MODIFIED:20261012T041423Z
+ 3\n🔄 Última actualización: 2026-10-12 14:22 UTC
+LAST-MODIFIED:20261012T142204Z
 LOCATION:Estadio Alejandro Villanueva
 STATUS:CONFIRMED
 X-EFANXP-CLUB:alianza-lima
