@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Vélez Sarsfield vs Gimnasia y Esgrima de Mendoza
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261018T200000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261018T220000
-DTSTAMP:20261013T133147Z
+DTSTAMP:20261013T221659Z
 UID:thesportsdb_velez_2398145@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio José Amalfitani\n🏆 Competencia: Argent
  inian Primera Division\n👥 Cliente: Velez\n🌐 País: Argentina\n📡 F
  uente: thesportsdb\n🆔 ID interno: thesportsdb_velez_2398145\n🔄 Últi
- ma actualización: 2026-10-13 13:31 UTC
-LAST-MODIFIED:20261013T133046Z
+ ma actualización: 2026-10-13 22:16 UTC
+LAST-MODIFIED:20261013T221603Z
 LOCATION:Estadio José Amalfitani
 STATUS:CONFIRMED
 X-EFANXP-CLUB:velez
