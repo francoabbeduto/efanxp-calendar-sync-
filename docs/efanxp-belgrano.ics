@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Belgrano vs River Plate
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261018T200000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261018T220000
-DTSTAMP:20261013T000741Z
+DTSTAMP:20261013T133147Z
 UID:thesportsdb_belgrano_2398133@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Julio César Villagra\n🏆 Competencia: A
  rgentinian Primera Division\n👥 Cliente: Belgrano\n🌐 País: Argentina
  \n📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_belgrano_2398133
- \n🔄 Última actualización: 2026-10-13 00:07 UTC
-LAST-MODIFIED:20261013T000733Z
+ \n🔄 Última actualización: 2026-10-13 13:31 UTC
+LAST-MODIFIED:20261013T133139Z
 LOCATION:Estadio Julio César Villagra
 STATUS:CONFIRMED
 X-EFANXP-CLUB:belgrano

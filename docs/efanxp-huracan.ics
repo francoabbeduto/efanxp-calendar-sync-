@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Huracán vs Gimnasia y Esgrima de La Plata
 DTSTART;TZID=America/Argentina/Buenos_Aires:20261015T230000
 DTEND;TZID=America/Argentina/Buenos_Aires:20261016T010000
-DTSTAMP:20261013T000741Z
+DTSTAMP:20261013T133147Z
 UID:thesportsdb_huracan_2398139@efanxp.com
 DESCRIPTION:🏟 Venue: Estadio Tomás Adolfo Ducó\n🏆 Competencia: Arg
  entinian Primera Division\n👥 Cliente: Huracan\n🌐 País: Argentina\n
  📡 Fuente: thesportsdb\n🆔 ID interno: thesportsdb_huracan_2398139\n
- 🔄 Última actualización: 2026-10-13 00:07 UTC
-LAST-MODIFIED:20261013T000652Z
+ 🔄 Última actualización: 2026-10-13 13:31 UTC
+LAST-MODIFIED:20261013T133055Z
 LOCATION:Estadio Tomás Adolfo Ducó
 STATUS:CONFIRMED
 X-EFANXP-CLUB:huracan
