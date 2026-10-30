@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bahia x Flamengo
 DTSTART;TZID=America/Bahia:20261103T190000
 DTEND;TZID=America/Bahia:20261103T210000
-DTSTAMP:20261030T041648Z
+DTSTAMP:20261030T120627Z
 UID:venue_scraper_bahia_scraped_8_bahia-x-flamengo@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: Copa do Brasil Feminina - S
  emifinal\n👥 Cliente: Bahia\n🌐 País: N/D\n📡 Fuente: venue_scraper
  \n🆔 ID interno: venue_scraper_bahia_scraped_8_bahia-x-flamengo\n🔄 Ú
- ltima actualización: 2026-10-30 04:16 UTC
-LAST-MODIFIED:20261030T041639Z
+ ltima actualización: 2026-10-30 12:06 UTC
+LAST-MODIFIED:20261030T120619Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
@@ -29,13 +29,13 @@ BEGIN:VEVENT
 SUMMARY:📅 Turnê Dominguinho
 DTSTART;TZID=America/Bahia:20261128T190000
 DTEND;TZID=America/Bahia:20261128T210000
-DTSTAMP:20261030T041648Z
+DTSTAMP:20261030T120627Z
 UID:venue_scraper_bahia_scraped_9_turn-dominguinho@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
  r_bahia_scraped_9_turn-dominguinho\n🔄 Última actualización: 2026-10-3
- 0 04:16 UTC
-LAST-MODIFIED:20261030T041639Z
+ 0 12:06 UTC
+LAST-MODIFIED:20261030T120619Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
@@ -46,13 +46,13 @@ BEGIN:VEVENT
 SUMMARY:📅 Liniker | Bye Bye Caju
 DTSTART;TZID=America/Bahia:20261218T170000
 DTEND;TZID=America/Bahia:20261218T190000
-DTSTAMP:20261030T041648Z
+DTSTAMP:20261030T120627Z
 UID:venue_scraper_bahia_scraped_10_liniker-bye-bye-caju@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
  r_bahia_scraped_10_liniker-bye-bye-caju\n🔄 Última actualización: 2026
- -10-30 04:16 UTC
-LAST-MODIFIED:20261030T041639Z
+ -10-30 12:06 UTC
+LAST-MODIFIED:20261030T120619Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
@@ -63,13 +63,13 @@ BEGIN:VEVENT
 SUMMARY:📅 O Maior Encontro do Samba
 DTSTART;TZID=America/Bahia:20261219T160000
 DTEND;TZID=America/Bahia:20261219T180000
-DTSTAMP:20261030T041648Z
+DTSTAMP:20261030T120627Z
 UID:venue_scraper_bahia_scraped_11_o-maior-encontro-do-samba@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
  r_bahia_scraped_11_o-maior-encontro-do-samba\n🔄 Última actualización:
-  2026-10-30 04:16 UTC
-LAST-MODIFIED:20261030T041648Z
+  2026-10-30 12:06 UTC
+LAST-MODIFIED:20261030T120627Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
