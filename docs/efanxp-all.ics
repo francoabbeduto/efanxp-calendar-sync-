@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:📅 Turnê Dominguinho
 DTSTART;TZID=America/Bahia:20261128T190000
 DTEND;TZID=America/Bahia:20261128T210000
-DTSTAMP:20261122T231251Z
+DTSTAMP:20261123T053914Z
 UID:venue_scraper_bahia_scraped_8_turn-dominguinho@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
  r_bahia_scraped_8_turn-dominguinho\n🔄 Última actualización: 2026-11-2
- 2 23:12 UTC
-LAST-MODIFIED:20261122T231243Z
+ 3 05:39 UTC
+LAST-MODIFIED:20261123T053906Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
@@ -29,13 +29,13 @@ BEGIN:VEVENT
 SUMMARY:📅 Liniker | Bye Bye Caju
 DTSTART;TZID=America/Bahia:20261218T170000
 DTEND;TZID=America/Bahia:20261218T190000
-DTSTAMP:20261122T231251Z
+DTSTAMP:20261123T053914Z
 UID:venue_scraper_bahia_scraped_9_liniker-bye-bye-caju@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
  r_bahia_scraped_9_liniker-bye-bye-caju\n🔄 Última actualización: 2026-
- 11-22 23:12 UTC
-LAST-MODIFIED:20261122T231243Z
+ 11-23 05:39 UTC
+LAST-MODIFIED:20261123T053906Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
@@ -46,13 +46,13 @@ BEGIN:VEVENT
 SUMMARY:📅 O Maior Encontro do Samba
 DTSTART;TZID=America/Bahia:20261219T160000
 DTEND;TZID=America/Bahia:20261219T180000
-DTSTAMP:20261122T231251Z
+DTSTAMP:20261123T053914Z
 UID:venue_scraper_bahia_scraped_10_o-maior-encontro-do-samba@efanxp.com
 DESCRIPTION:🏟 Venue: N/D\n🏆 Competencia: N/D\n👥 Cliente: Bahia\n
  🌐 País: N/D\n📡 Fuente: venue_scraper\n🆔 ID interno: venue_scrape
  r_bahia_scraped_10_o-maior-encontro-do-samba\n🔄 Última actualización:
-  2026-11-22 23:12 UTC
-LAST-MODIFIED:20261122T231251Z
+  2026-11-23 05:39 UTC
+LAST-MODIFIED:20261123T053914Z
 STATUS:CONFIRMED
 X-EFANXP-CLUB:bahia
 X-EFANXP-SOURCE:venue_scraper
